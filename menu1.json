@@ -1,0 +1,9484 @@
+[
+  {
+    "Page": 1,
+    "Language": null,
+    "Angle": 0,
+    "Width": 590,
+    "Height": 917,
+    "Unit": 0,
+    "Lines": [
+      {
+        "Language": null,
+        "BoundingBox": [
+          207,
+          12,
+          350,
+          12,
+          350,
+          28,
+          207,
+          27
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PITA SANDWICHES",
+        "Words": [
+          {
+            "BoundingBox": [
+              207,
+              13,
+              238,
+              12,
+              238,
+              28,
+              207,
+              28
+            ],
+            "Text": "PITA",
+            "Confidence": 0.992
+          },
+          {
+            "BoundingBox": [
+              243,
+              12,
+              347,
+              13,
+              347,
+              29,
+              243,
+              28
+            ],
+            "Text": "SANDWICHES",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          126,
+          40,
+          432,
+          40,
+          432,
+          51,
+          126,
+          51
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "All Served with French Fries. Substitute Sweet Potato Fries or Onion Rings for $2.00",
+        "Words": [
+          {
+            "BoundingBox": [
+              126,
+              41,
+              135,
+              41,
+              135,
+              51,
+              126,
+              51
+            ],
+            "Text": "All",
+            "Confidence": 0.97
+          },
+          {
+            "BoundingBox": [
+              137,
+              41,
+              163,
+              41,
+              163,
+              51,
+              137,
+              51
+            ],
+            "Text": "Served",
+            "Confidence": 0.992
+          },
+          {
+            "BoundingBox": [
+              165,
+              41,
+              181,
+              42,
+              181,
+              51,
+              165,
+              51
+            ],
+            "Text": "with",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              183,
+              42,
+              208,
+              42,
+              207,
+              51,
+              183,
+              51
+            ],
+            "Text": "French",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              210,
+              42,
+              229,
+              42,
+              229,
+              51,
+              209,
+              51
+            ],
+            "Text": "Fries.",
+            "Confidence": 0.872
+          },
+          {
+            "BoundingBox": [
+              231,
+              42,
+              268,
+              42,
+              268,
+              51,
+              231,
+              51
+            ],
+            "Text": "Substitute",
+            "Confidence": 0.956
+          },
+          {
+            "BoundingBox": [
+              270,
+              42,
+              293,
+              42,
+              293,
+              51,
+              270,
+              51
+            ],
+            "Text": "Sweet",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              295,
+              42,
+              319,
+              41,
+              319,
+              51,
+              295,
+              51
+            ],
+            "Text": "Potato",
+            "Confidence": 0.849
+          },
+          {
+            "BoundingBox": [
+              321,
+              41,
+              339,
+              41,
+              338,
+              51,
+              321,
+              51
+            ],
+            "Text": "Fries",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              341,
+              41,
+              348,
+              41,
+              348,
+              51,
+              340,
+              51
+            ],
+            "Text": "or",
+            "Confidence": 0.963
+          },
+          {
+            "BoundingBox": [
+              350,
+              41,
+              372,
+              41,
+              371,
+              51,
+              349,
+              51
+            ],
+            "Text": "Onion",
+            "Confidence": 0.624
+          },
+          {
+            "BoundingBox": [
+              374,
+              41,
+              394,
+              41,
+              394,
+              51,
+              373,
+              51
+            ],
+            "Text": "Rings",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              396,
+              41,
+              407,
+              41,
+              406,
+              51,
+              396,
+              51
+            ],
+            "Text": "for",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              409,
+              41,
+              431,
+              41,
+              430,
+              51,
+              408,
+              51
+            ],
+            "Text": "$2.00",
+            "Confidence": 0.932
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          67,
+          135,
+          67,
+          135,
+          77,
+          44,
+          77
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "GYRO (PORK \u0026 LAMB)",
+        "Words": [
+          {
+            "BoundingBox": [
+              44,
+              67,
+              67,
+              67,
+              67,
+              77,
+              45,
+              77
+            ],
+            "Text": "GYRO",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              71,
+              67,
+              97,
+              67,
+              97,
+              77,
+              71,
+              77
+            ],
+            "Text": "(PORK",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              99,
+              67,
+              105,
+              67,
+              105,
+              77,
+              99,
+              77
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.982
+          },
+          {
+            "BoundingBox": [
+              107,
+              67,
+              135,
+              67,
+              135,
+              77,
+              107,
+              77
+            ],
+            "Text": "LAMB)",
+            "Confidence": 0.961
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          251,
+          67,
+          368,
+          67,
+          368,
+          77,
+          251,
+          76
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.99 CHICKEN SOUVLAKI",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              68,
+              274,
+              67,
+              273,
+              77,
+              251,
+              76
+            ],
+            "Text": "11.99",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              282,
+              67,
+              319,
+              67,
+              319,
+              77,
+              282,
+              77
+            ],
+            "Text": "CHICKEN",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              322,
+              67,
+              368,
+              68,
+              367,
+              77,
+              321,
+              77
+            ],
+            "Text": "SOUVLAKI",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          493,
+          67,
+          512,
+          67,
+          512,
+          76,
+          493,
+          76
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              493,
+              67,
+              512,
+              67,
+              512,
+              76,
+              493,
+              76
+            ],
+            "Text": "11.99",
+            "Confidence": 0.954
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          43,
+          78,
+          221,
+          78,
+          221,
+          86,
+          43,
+          86
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "slices of grilled gyro meat served with onions, tomato \u0026",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              79,
+              63,
+              78,
+              62,
+              87,
+              44,
+              87
+            ],
+            "Text": "slices",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              64,
+              78,
+              70,
+              78,
+              70,
+              87,
+              64,
+              87
+            ],
+            "Text": "of",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              72,
+              78,
+              92,
+              78,
+              92,
+              87,
+              72,
+              87
+            ],
+            "Text": "grilled",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              94,
+              78,
+              109,
+              78,
+              108,
+              87,
+              93,
+              87
+            ],
+            "Text": "gyro",
+            "Confidence": 0.532
+          },
+          {
+            "BoundingBox": [
+              110,
+              78,
+              126,
+              78,
+              126,
+              87,
+              110,
+              87
+            ],
+            "Text": "meat",
+            "Confidence": 0.884
+          },
+          {
+            "BoundingBox": [
+              128,
+              78,
+              149,
+              78,
+              149,
+              87,
+              127,
+              87
+            ],
+            "Text": "served",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              151,
+              78,
+              165,
+              78,
+              166,
+              87,
+              151,
+              87
+            ],
+            "Text": "with",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              167,
+              78,
+              189,
+              78,
+              190,
+              87,
+              167,
+              87
+            ],
+            "Text": "onions,",
+            "Confidence": 0.874
+          },
+          {
+            "BoundingBox": [
+              191,
+              78,
+              214,
+              78,
+              215,
+              86,
+              191,
+              87
+            ],
+            "Text": "tomato",
+            "Confidence": 0.835
+          },
+          {
+            "BoundingBox": [
+              216,
+              78,
+              221,
+              78,
+              221,
+              86,
+              216,
+              86
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          78,
+          458,
+          78,
+          458,
+          86,
+          282,
+          86
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "marinated tender pieces of chicken breast with onions,",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              79,
+              315,
+              79,
+              315,
+              87,
+              283,
+              86
+            ],
+            "Text": "marinated",
+            "Confidence": 0.785
+          },
+          {
+            "BoundingBox": [
+              317,
+              79,
+              337,
+              78,
+              337,
+              87,
+              317,
+              87
+            ],
+            "Text": "tender",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              339,
+              78,
+              359,
+              78,
+              360,
+              87,
+              339,
+              87
+            ],
+            "Text": "pieces",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              361,
+              78,
+              368,
+              78,
+              368,
+              87,
+              361,
+              87
+            ],
+            "Text": "of",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              369,
+              78,
+              394,
+              78,
+              394,
+              87,
+              369,
+              87
+            ],
+            "Text": "chicken",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              395,
+              78,
+              416,
+              78,
+              416,
+              87,
+              395,
+              87
+            ],
+            "Text": "breast",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              417,
+              78,
+              432,
+              78,
+              432,
+              87,
+              417,
+              87
+            ],
+            "Text": "with",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              434,
+              78,
+              459,
+              78,
+              459,
+              87,
+              434,
+              87
+            ],
+            "Text": "onions,",
+            "Confidence": 0.804
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          86,
+          99,
+          86,
+          99,
+          93,
+          44,
+          93
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cucumber sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              44,
+              87,
+              76,
+              87,
+              76,
+              93,
+              44,
+              94
+            ],
+            "Text": "cucumber",
+            "Confidence": 0.95
+          },
+          {
+            "BoundingBox": [
+              77,
+              87,
+              96,
+              87,
+              96,
+              93,
+              77,
+              93
+            ],
+            "Text": "sauce",
+            "Confidence": 0.624
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          86,
+          368,
+          86,
+          368,
+          93,
+          282,
+          93
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "tomato, \u0026 cucumber sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              86,
+              307,
+              86,
+              307,
+              93,
+              282,
+              93
+            ],
+            "Text": "tomato,",
+            "Confidence": 0.759
+          },
+          {
+            "BoundingBox": [
+              308,
+              86,
+              313,
+              86,
+              313,
+              93,
+              308,
+              93
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              315,
+              86,
+              346,
+              87,
+              346,
+              93,
+              314,
+              93
+            ],
+            "Text": "cucumber",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              348,
+              87,
+              367,
+              87,
+              367,
+              93,
+              348,
+              93
+            ],
+            "Text": "sauce",
+            "Confidence": 0.675
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          100,
+          106,
+          100,
+          106,
+          111,
+          45,
+          110
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "TUNA ON PITA",
+        "Words": [
+          {
+            "BoundingBox": [
+              46,
+              100,
+              69,
+              100,
+              68,
+              110,
+              45,
+              110
+            ],
+            "Text": "TUNA",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              71,
+              100,
+              83,
+              100,
+              83,
+              110,
+              71,
+              110
+            ],
+            "Text": "ON",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              86,
+              100,
+              105,
+              101,
+              105,
+              111,
+              86,
+              110
+            ],
+            "Text": "PITA",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          100,
+          276,
+          100,
+          276,
+          109,
+          251,
+          109
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              100,
+              274,
+              100,
+              274,
+              109,
+              252,
+              109
+            ],
+            "Text": "11.99",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          110,
+          228,
+          110,
+          228,
+          120,
+          45,
+          120
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "fresh tuna salad with lettuce, tomato \u0026 provolone cheese",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              111,
+              60,
+              111,
+              60,
+              119,
+              45,
+              119
+            ],
+            "Text": "fresh",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              62,
+              111,
+              76,
+              111,
+              76,
+              119,
+              62,
+              119
+            ],
+            "Text": "tuna",
+            "Confidence": 0.879
+          },
+          {
+            "BoundingBox": [
+              78,
+              111,
+              96,
+              111,
+              96,
+              120,
+              78,
+              119
+            ],
+            "Text": "salad",
+            "Confidence": 0.826
+          },
+          {
+            "BoundingBox": [
+              98,
+              111,
+              112,
+              111,
+              112,
+              120,
+              98,
+              120
+            ],
+            "Text": "with",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              114,
+              111,
+              137,
+              111,
+              137,
+              120,
+              113,
+              120
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.985
+          },
+          {
+            "BoundingBox": [
+              139,
+              111,
+              162,
+              111,
+              162,
+              120,
+              139,
+              120
+            ],
+            "Text": "tomato",
+            "Confidence": 0.886
+          },
+          {
+            "BoundingBox": [
+              164,
+              111,
+              168,
+              111,
+              168,
+              120,
+              163,
+              120
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              170,
+              111,
+              202,
+              111,
+              201,
+              120,
+              170,
+              120
+            ],
+            "Text": "provolone",
+            "Confidence": 0.797
+          },
+          {
+            "BoundingBox": [
+              203,
+              111,
+              227,
+              111,
+              227,
+              120,
+              203,
+              120
+            ],
+            "Text": "cheese",
+            "Confidence": 0.962
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          118,
+          148,
+          118,
+          148,
+          126,
+          45,
+          127
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "served open faced and warmed",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              119,
+              66,
+              119,
+              66,
+              127,
+              45,
+              127
+            ],
+            "Text": "served",
+            "Confidence": 0.933
+          },
+          {
+            "BoundingBox": [
+              67,
+              119,
+              84,
+              119,
+              84,
+              127,
+              67,
+              127
+            ],
+            "Text": "open",
+            "Confidence": 0.988
+          },
+          {
+            "BoundingBox": [
+              85,
+              119,
+              104,
+              119,
+              104,
+              127,
+              85,
+              127
+            ],
+            "Text": "faced",
+            "Confidence": 0.883
+          },
+          {
+            "BoundingBox": [
+              105,
+              119,
+              118,
+              119,
+              118,
+              127,
+              105,
+              127
+            ],
+            "Text": "and",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              119,
+              119,
+              146,
+              119,
+              146,
+              127,
+              120,
+              127
+            ],
+            "Text": "warmed",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          239,
+          149,
+          318,
+          149,
+          318,
+          164,
+          239,
+          163
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "GRINDERS",
+        "Words": [
+          {
+            "BoundingBox": [
+              240,
+              150,
+              314,
+              150,
+              314,
+              164,
+              240,
+              163
+            ],
+            "Text": "GRINDERS",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          48,
+          176,
+          510,
+          176,
+          510,
+          186,
+          48,
+          186
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "All Served with Provolone Cheese. B\u0022 Half / 12\u0022 Whole. Extra Cheese: 8\u0022 $1.00/ 12\u0022 $1.50 Extra Bacon or Olives: 8\u0022 $1.50/ 12\u0022",
+        "Words": [
+          {
+            "BoundingBox": [
+              49,
+              177,
+              57,
+              177,
+              57,
+              187,
+              49,
+              187
+            ],
+            "Text": "All",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              59,
+              177,
+              84,
+              177,
+              84,
+              187,
+              59,
+              187
+            ],
+            "Text": "Served",
+            "Confidence": 0.986
+          },
+          {
+            "BoundingBox": [
+              86,
+              177,
+              103,
+              177,
+              102,
+              187,
+              86,
+              187
+            ],
+            "Text": "with",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              105,
+              177,
+              141,
+              177,
+              140,
+              187,
+              104,
+              187
+            ],
+            "Text": "Provolone",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              143,
+              177,
+              171,
+              177,
+              171,
+              187,
+              142,
+              187
+            ],
+            "Text": "Cheese.",
+            "Confidence": 0.845
+          },
+          {
+            "BoundingBox": [
+              173,
+              177,
+              182,
+              177,
+              181,
+              187,
+              173,
+              187
+            ],
+            "Text": "B\u0022",
+            "Confidence": 0.253
+          },
+          {
+            "BoundingBox": [
+              184,
+              177,
+              199,
+              177,
+              198,
+              187,
+              183,
+              187
+            ],
+            "Text": "Half",
+            "Confidence": 0.941
+          },
+          {
+            "BoundingBox": [
+              201,
+              177,
+              204,
+              177,
+              204,
+              187,
+              200,
+              187
+            ],
+            "Text": "/",
+            "Confidence": 0.885
+          },
+          {
+            "BoundingBox": [
+              206,
+              177,
+              219,
+              177,
+              218,
+              187,
+              206,
+              187
+            ],
+            "Text": "12\u0022",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              221,
+              177,
+              246,
+              177,
+              246,
+              187,
+              220,
+              187
+            ],
+            "Text": "Whole.",
+            "Confidence": 0.94
+          },
+          {
+            "BoundingBox": [
+              248,
+              177,
+              268,
+              177,
+              267,
+              187,
+              248,
+              187
+            ],
+            "Text": "Extra",
+            "Confidence": 0.628
+          },
+          {
+            "BoundingBox": [
+              270,
+              177,
+              298,
+              177,
+              298,
+              187,
+              269,
+              187
+            ],
+            "Text": "Cheese:",
+            "Confidence": 0.856
+          },
+          {
+            "BoundingBox": [
+              300,
+              177,
+              308,
+              177,
+              308,
+              187,
+              300,
+              187
+            ],
+            "Text": "8\u0022",
+            "Confidence": 0.885
+          },
+          {
+            "BoundingBox": [
+              310,
+              177,
+              336,
+              177,
+              336,
+              187,
+              310,
+              187
+            ],
+            "Text": "$1.00/",
+            "Confidence": 0.788
+          },
+          {
+            "BoundingBox": [
+              338,
+              177,
+              351,
+              177,
+              350,
+              187,
+              338,
+              187
+            ],
+            "Text": "12\u0022",
+            "Confidence": 0.958
+          },
+          {
+            "BoundingBox": [
+              353,
+              177,
+              374,
+              177,
+              373,
+              187,
+              352,
+              187
+            ],
+            "Text": "$1.50",
+            "Confidence": 0.939
+          },
+          {
+            "BoundingBox": [
+              376,
+              177,
+              395,
+              177,
+              394,
+              187,
+              375,
+              187
+            ],
+            "Text": "Extra",
+            "Confidence": 0.649
+          },
+          {
+            "BoundingBox": [
+              397,
+              177,
+              420,
+              177,
+              419,
+              187,
+              396,
+              187
+            ],
+            "Text": "Bacon",
+            "Confidence": 0.772
+          },
+          {
+            "BoundingBox": [
+              422,
+              177,
+              429,
+              177,
+              429,
+              187,
+              421,
+              187
+            ],
+            "Text": "or",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              431,
+              177,
+              456,
+              177,
+              455,
+              187,
+              431,
+              187
+            ],
+            "Text": "Olives:",
+            "Confidence": 0.655
+          },
+          {
+            "BoundingBox": [
+              457,
+              177,
+              465,
+              177,
+              465,
+              187,
+              457,
+              187
+            ],
+            "Text": "8\u0022",
+            "Confidence": 0.848
+          },
+          {
+            "BoundingBox": [
+              467,
+              177,
+              493,
+              177,
+              493,
+              187,
+              467,
+              187
+            ],
+            "Text": "$1.50/",
+            "Confidence": 0.818
+          },
+          {
+            "BoundingBox": [
+              495,
+              177,
+              510,
+              177,
+              510,
+              187,
+              495,
+              187
+            ],
+            "Text": "12\u0022",
+            "Confidence": 0.936
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          62,
+          187,
+          495,
+          186,
+          495,
+          196,
+          62,
+          197
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "$2.25 Extra Jalapenos or Pickles: B\u0022 $.85/ 12\u0022$.95 Extra Lettuce: 8\u0022 $1.00/ 12\u0022 $1.50 Extra Meat: 8\u0022 $3.00/ 12\u0022 $4.00",
+        "Words": [
+          {
+            "BoundingBox": [
+              63,
+              187,
+              83,
+              187,
+              82,
+              197,
+              62,
+              197
+            ],
+            "Text": "$2.25",
+            "Confidence": 0.958
+          },
+          {
+            "BoundingBox": [
+              85,
+              187,
+              104,
+              187,
+              104,
+              197,
+              84,
+              197
+            ],
+            "Text": "Extra",
+            "Confidence": 0.632
+          },
+          {
+            "BoundingBox": [
+              106,
+              187,
+              142,
+              187,
+              142,
+              197,
+              106,
+              197
+            ],
+            "Text": "Jalapenos",
+            "Confidence": 0.602
+          },
+          {
+            "BoundingBox": [
+              144,
+              187,
+              152,
+              187,
+              151,
+              197,
+              144,
+              197
+            ],
+            "Text": "or",
+            "Confidence": 0.889
+          },
+          {
+            "BoundingBox": [
+              154,
+              187,
+              181,
+              187,
+              180,
+              197,
+              153,
+              197
+            ],
+            "Text": "Pickles:",
+            "Confidence": 0.971
+          },
+          {
+            "BoundingBox": [
+              183,
+              187,
+              191,
+              187,
+              190,
+              197,
+              182,
+              197
+            ],
+            "Text": "B\u0022",
+            "Confidence": 0.261
+          },
+          {
+            "BoundingBox": [
+              193,
+              187,
+              214,
+              187,
+              213,
+              197,
+              192,
+              197
+            ],
+            "Text": "$.85/",
+            "Confidence": 0.739
+          },
+          {
+            "BoundingBox": [
+              216,
+              187,
+              246,
+              187,
+              246,
+              197,
+              215,
+              197
+            ],
+            "Text": "12\u0022$.95",
+            "Confidence": 0.658
+          },
+          {
+            "BoundingBox": [
+              248,
+              187,
+              268,
+              187,
+              267,
+              197,
+              248,
+              197
+            ],
+            "Text": "Extra",
+            "Confidence": 0.628
+          },
+          {
+            "BoundingBox": [
+              270,
+              187,
+              298,
+              187,
+              298,
+              197,
+              269,
+              197
+            ],
+            "Text": "Lettuce:",
+            "Confidence": 0.816
+          },
+          {
+            "BoundingBox": [
+              300,
+              187,
+              308,
+              187,
+              308,
+              197,
+              300,
+              197
+            ],
+            "Text": "8\u0022",
+            "Confidence": 0.886
+          },
+          {
+            "BoundingBox": [
+              310,
+              187,
+              336,
+              187,
+              336,
+              197,
+              310,
+              197
+            ],
+            "Text": "$1.00/",
+            "Confidence": 0.902
+          },
+          {
+            "BoundingBox": [
+              338,
+              187,
+              351,
+              187,
+              350,
+              197,
+              338,
+              197
+            ],
+            "Text": "12\u0022",
+            "Confidence": 0.847
+          },
+          {
+            "BoundingBox": [
+              353,
+              187,
+              373,
+              187,
+              373,
+              197,
+              352,
+              197
+            ],
+            "Text": "$1.50",
+            "Confidence": 0.858
+          },
+          {
+            "BoundingBox": [
+              376,
+              187,
+              394,
+              187,
+              394,
+              197,
+              375,
+              197
+            ],
+            "Text": "Extra",
+            "Confidence": 0.824
+          },
+          {
+            "BoundingBox": [
+              396,
+              187,
+              417,
+              187,
+              417,
+              197,
+              396,
+              197
+            ],
+            "Text": "Meat:",
+            "Confidence": 0.604
+          },
+          {
+            "BoundingBox": [
+              419,
+              187,
+              427,
+              187,
+              427,
+              197,
+              419,
+              197
+            ],
+            "Text": "8\u0022",
+            "Confidence": 0.793
+          },
+          {
+            "BoundingBox": [
+              429,
+              187,
+              455,
+              187,
+              455,
+              197,
+              429,
+              197
+            ],
+            "Text": "$3.00/",
+            "Confidence": 0.925
+          },
+          {
+            "BoundingBox": [
+              457,
+              187,
+              470,
+              187,
+              470,
+              197,
+              457,
+              197
+            ],
+            "Text": "12\u0022",
+            "Confidence": 0.952
+          },
+          {
+            "BoundingBox": [
+              472,
+              187,
+              494,
+              187,
+              494,
+              197,
+              472,
+              197
+            ],
+            "Text": "$4.00",
+            "Confidence": 0.885
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          213,
+          79,
+          213,
+          79,
+          223,
+          45,
+          223
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CHEESE",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              214,
+              78,
+              213,
+              77,
+              223,
+              45,
+              223
+            ],
+            "Text": "CHEESE",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          255,
+          213,
+          278,
+          213,
+          278,
+          221,
+          255,
+          221
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              213,
+              273,
+              213,
+              273,
+              221,
+              257,
+              221
+            ],
+            "Text": "8.95",
+            "Confidence": 0.856
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          281,
+          213,
+          305,
+          213,
+          304,
+          222,
+          281,
+          221
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "HAM",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              213,
+              301,
+              213,
+              301,
+              222,
+              282,
+              221
+            ],
+            "Text": "HAM",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          224,
+          130,
+          224,
+          130,
+          233,
+          45,
+          233
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "lettuce, tomato \u0026 peppers",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              224,
+              67,
+              224,
+              67,
+              233,
+              46,
+              232
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.9
+          },
+          {
+            "BoundingBox": [
+              69,
+              224,
+              93,
+              224,
+              92,
+              233,
+              69,
+              233
+            ],
+            "Text": "tomato",
+            "Confidence": 0.767
+          },
+          {
+            "BoundingBox": [
+              94,
+              224,
+              99,
+              224,
+              99,
+              233,
+              94,
+              233
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              101,
+              224,
+              129,
+              224,
+              128,
+              234,
+              101,
+              233
+            ],
+            "Text": "peppers",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          254,
+          223,
+          276,
+          224,
+          276,
+          231,
+          254,
+          231
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.945
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              254,
+              223,
+              273,
+              223,
+              273,
+              231,
+              254,
+              230
+            ],
+            "Text": "11.95",
+            "Confidence": 0.981
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          224,
+          393,
+          224,
+          393,
+          233,
+          282,
+          232
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 peppers",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              224,
+              306,
+              224,
+              306,
+              233,
+              282,
+              232
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.906
+          },
+          {
+            "BoundingBox": [
+              308,
+              224,
+              332,
+              224,
+              332,
+              233,
+              308,
+              233
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.896
+          },
+          {
+            "BoundingBox": [
+              334,
+              224,
+              356,
+              224,
+              356,
+              234,
+              333,
+              233
+            ],
+            "Text": "tomato",
+            "Confidence": 0.9
+          },
+          {
+            "BoundingBox": [
+              358,
+              224,
+              362,
+              224,
+              362,
+              234,
+              358,
+              234
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.973
+          },
+          {
+            "BoundingBox": [
+              364,
+              224,
+              392,
+              224,
+              392,
+              234,
+              364,
+              234
+            ],
+            "Text": "peppers",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          493,
+          223,
+          511,
+          224,
+          511,
+          231,
+          493,
+          230
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              493,
+              223,
+              511,
+              224,
+              510,
+              231,
+              493,
+              230
+            ],
+            "Text": "11.95",
+            "Confidence": 0.743
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          240,
+          78,
+          240,
+          78,
+          250,
+          45,
+          250
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "VEGGIE",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              241,
+              77,
+              241,
+              76,
+              251,
+              45,
+              250
+            ],
+            "Text": "VEGGIE",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          255,
+          240,
+          274,
+          240,
+          273,
+          248,
+          255,
+          248
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              256,
+              240,
+              273,
+              240,
+              273,
+              248,
+              256,
+              248
+            ],
+            "Text": "8.95",
+            "Confidence": 0.802
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          240,
+          332,
+          240,
+          332,
+          250,
+          282,
+          250
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "HAM \u0026 EGG",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              241,
+              301,
+              241,
+              301,
+              250,
+              282,
+              250
+            ],
+            "Text": "HAM",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              304,
+              241,
+              311,
+              241,
+              311,
+              250,
+              304,
+              250
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              313,
+              240,
+              330,
+              240,
+              330,
+              250,
+              313,
+              250
+            ],
+            "Text": "EGG",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          250,
+          200,
+          250,
+          200,
+          259,
+          45,
+          259
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato, olives, onions, peppers \u0026",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              251,
+              68,
+              251,
+              68,
+              259,
+              45,
+              258
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.923
+          },
+          {
+            "BoundingBox": [
+              70,
+              251,
+              93,
+              251,
+              93,
+              259,
+              70,
+              259
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.947
+          },
+          {
+            "BoundingBox": [
+              95,
+              251,
+              119,
+              251,
+              119,
+              260,
+              95,
+              259
+            ],
+            "Text": "tomato,",
+            "Confidence": 0.849
+          },
+          {
+            "BoundingBox": [
+              121,
+              251,
+              141,
+              251,
+              142,
+              260,
+              121,
+              260
+            ],
+            "Text": "olives,",
+            "Confidence": 0.953
+          },
+          {
+            "BoundingBox": [
+              143,
+              251,
+              166,
+              250,
+              166,
+              260,
+              143,
+              260
+            ],
+            "Text": "onions,",
+            "Confidence": 0.941
+          },
+          {
+            "BoundingBox": [
+              168,
+              250,
+              194,
+              250,
+              194,
+              259,
+              168,
+              260
+            ],
+            "Text": "peppers",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              195,
+              250,
+              200,
+              250,
+              200,
+              259,
+              195,
+              259
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          253,
+          249,
+          276,
+          249,
+          276,
+          257,
+          253,
+          257
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              250,
+              273,
+              250,
+              273,
+              258,
+              254,
+              258
+            ],
+            "Text": "11.95",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          281,
+          251,
+          323,
+          251,
+          323,
+          258,
+          281,
+          258
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "with cheese",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              251,
+              296,
+              251,
+              296,
+              258,
+              282,
+              258
+            ],
+            "Text": "with",
+            "Confidence": 0.988
+          },
+          {
+            "BoundingBox": [
+              299,
+              251,
+              321,
+              252,
+              321,
+              258,
+              298,
+              258
+            ],
+            "Text": "cheese",
+            "Confidence": 0.918
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          249,
+          510,
+          249,
+          510,
+          257,
+          491,
+          256
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.945
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              249,
+              510,
+              249,
+              509,
+              257,
+              491,
+              256
+            ],
+            "Text": "11.95",
+            "Confidence": 0.856
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          259,
+          83,
+          259,
+          83,
+          266,
+          44,
+          266
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "mushrooms",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              260,
+              82,
+              260,
+              82,
+              266,
+              45,
+              266
+            ],
+            "Text": "mushrooms",
+            "Confidence": 0.849
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          273,
+          106,
+          273,
+          106,
+          282,
+          45,
+          282
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PEPPER \u0026 EGG",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              274,
+              76,
+              273,
+              76,
+              283,
+              45,
+              282
+            ],
+            "Text": "PEPPER",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              79,
+              273,
+              85,
+              273,
+              85,
+              283,
+              79,
+              283
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              87,
+              273,
+              104,
+              273,
+              104,
+              283,
+              87,
+              283
+            ],
+            "Text": "EGG",
+            "Confidence": 0.958
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          254,
+          273,
+          277,
+          273,
+          277,
+          281,
+          254,
+          281
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              273,
+              273,
+              273,
+              273,
+              281,
+              257,
+              281
+            ],
+            "Text": "8.95",
+            "Confidence": 0.689
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          273,
+          343,
+          273,
+          342,
+          282,
+          283,
+          282
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BACON \u0026 EGG",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              273,
+              312,
+              273,
+              312,
+              283,
+              283,
+              282
+            ],
+            "Text": "BACON",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              315,
+              273,
+              321,
+              273,
+              320,
+              283,
+              315,
+              283
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.976
+          },
+          {
+            "BoundingBox": [
+              323,
+              273,
+              340,
+              274,
+              340,
+              283,
+              322,
+              283
+            ],
+            "Text": "EGG",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          274,
+          511,
+          274,
+          512,
+          281,
+          494,
+          281
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              495,
+              274,
+              511,
+              274,
+              511,
+              281,
+              495,
+              281
+            ],
+            "Text": "8.95",
+            "Confidence": 0.719
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          284,
+          85,
+          284,
+          85,
+          291,
+          45,
+          291
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "with cheese",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              285,
+              58,
+              284,
+              58,
+              291,
+              45,
+              291
+            ],
+            "Text": "with",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              60,
+              284,
+              84,
+              285,
+              83,
+              291,
+              60,
+              291
+            ],
+            "Text": "cheese",
+            "Confidence": 0.817
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          282,
+          276,
+          283,
+          276,
+          290,
+          252,
+          290
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.945
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              282,
+              274,
+              282,
+              273,
+              290,
+              252,
+              289
+            ],
+            "Text": "11.95",
+            "Confidence": 0.946
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          284,
+          323,
+          284,
+          323,
+          290,
+          282,
+          290
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "with cheese",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              285,
+              296,
+              284,
+              296,
+              291,
+              283,
+              291
+            ],
+            "Text": "with",
+            "Confidence": 0.988
+          },
+          {
+            "BoundingBox": [
+              298,
+              284,
+              321,
+              285,
+              321,
+              291,
+              298,
+              291
+            ],
+            "Text": "cheese",
+            "Confidence": 0.882
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          283,
+          512,
+          283,
+          512,
+          290,
+          491,
+          290
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              283,
+              511,
+              283,
+              511,
+              290,
+              491,
+              290
+            ],
+            "Text": "11.95",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          299,
+          134,
+          299,
+          134,
+          309,
+          44,
+          309
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "WESTERN OMELETTE",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              300,
+              86,
+              300,
+              85,
+              309,
+              44,
+              309
+            ],
+            "Text": "WESTERN",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              89,
+              300,
+              133,
+              300,
+              133,
+              309,
+              88,
+              309
+            ],
+            "Text": "OMELETTE",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          257,
+          299,
+          275,
+          299,
+          275,
+          307,
+          256,
+          307
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              256,
+              299,
+              273,
+              299,
+              273,
+              307,
+              256,
+              307
+            ],
+            "Text": "9.55",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          281,
+          299,
+          325,
+          299,
+          325,
+          309,
+          281,
+          309
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "SAUSAGE",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              300,
+              324,
+              300,
+              323,
+              309,
+              282,
+              309
+            ],
+            "Text": "SAUSAGE",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          495,
+          299,
+          511,
+          299,
+          511,
+          307,
+          495,
+          307
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              495,
+              299,
+              511,
+              299,
+              511,
+              307,
+              495,
+              307
+            ],
+            "Text": "8.95",
+            "Confidence": 0.673
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          310,
+          146,
+          310,
+          146,
+          318,
+          44,
+          318
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, ham, peppers \u0026 onions",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              311,
+              69,
+              311,
+              68,
+              319,
+              45,
+              319
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.941
+          },
+          {
+            "BoundingBox": [
+              70,
+              311,
+              87,
+              311,
+              86,
+              319,
+              70,
+              319
+            ],
+            "Text": "ham,",
+            "Confidence": 0.674
+          },
+          {
+            "BoundingBox": [
+              88,
+              311,
+              114,
+              311,
+              114,
+              319,
+              88,
+              319
+            ],
+            "Text": "peppers",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              116,
+              311,
+              120,
+              311,
+              120,
+              319,
+              115,
+              319
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              122,
+              311,
+              145,
+              311,
+              144,
+              319,
+              122,
+              319
+            ],
+            "Text": "onions",
+            "Confidence": 0.942
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          254,
+          310,
+          274,
+          309,
+          274,
+          316,
+          254,
+          316
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12 55",
+        "Words": [
+          {
+            "BoundingBox": [
+              254,
+              309,
+              261,
+              309,
+              261,
+              316,
+              254,
+              316
+            ],
+            "Text": "12",
+            "Confidence": 0.685
+          },
+          {
+            "BoundingBox": [
+              263,
+              309,
+              273,
+              309,
+              273,
+              316,
+              263,
+              316
+            ],
+            "Text": "55",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          311,
+          363,
+          310,
+          363,
+          318,
+          283,
+          319
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, peppers \u0026 sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              284,
+              311,
+              307,
+              311,
+              306,
+              319,
+              284,
+              319
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.885
+          },
+          {
+            "BoundingBox": [
+              308,
+              311,
+              335,
+              311,
+              334,
+              319,
+              308,
+              319
+            ],
+            "Text": "peppers",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              336,
+              311,
+              341,
+              311,
+              340,
+              319,
+              336,
+              319
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              342,
+              311,
+              362,
+              310,
+              361,
+              318,
+              342,
+              319
+            ],
+            "Text": "sauce",
+            "Confidence": 0.629
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          310,
+          512,
+          310,
+          512,
+          317,
+          491,
+          317
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              310,
+              510,
+              310,
+              510,
+              317,
+              491,
+              317
+            ],
+            "Text": "11.95",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          326,
+          91,
+          326,
+          91,
+          336,
+          44,
+          335
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "MEATBALL",
+        "Words": [
+          {
+            "BoundingBox": [
+              46,
+              327,
+              90,
+              327,
+              89,
+              336,
+              45,
+              336
+            ],
+            "Text": "MEATBALL",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          256,
+          327,
+          275,
+          327,
+          274,
+          334,
+          255,
+          334
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              327,
+              273,
+              327,
+              273,
+              334,
+              257,
+              334
+            ],
+            "Text": "8.95",
+            "Confidence": 0.805
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          281,
+          326,
+          329,
+          326,
+          329,
+          335,
+          281,
+          335
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "EGGPLANT",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              326,
+              329,
+              326,
+              329,
+              336,
+              282,
+              336
+            ],
+            "Text": "EGGPLANT",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          326,
+          511,
+          326,
+          511,
+          334,
+          494,
+          334
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              326,
+              511,
+              326,
+              511,
+              334,
+              494,
+              334
+            ],
+            "Text": "9.55",
+            "Confidence": 0.844
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          336,
+          126,
+          336,
+          126,
+          344,
+          44,
+          344
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, peppers \u0026 sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              337,
+              69,
+              337,
+              68,
+              344,
+              44,
+              344
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.863
+          },
+          {
+            "BoundingBox": [
+              70,
+              337,
+              97,
+              337,
+              96,
+              345,
+              70,
+              344
+            ],
+            "Text": "peppers",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              98,
+              337,
+              102,
+              337,
+              102,
+              345,
+              97,
+              345
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              104,
+              337,
+              124,
+              337,
+              123,
+              344,
+              104,
+              345
+            ],
+            "Text": "sauce",
+            "Confidence": 0.632
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          253,
+          335,
+          275,
+          336,
+          275,
+          344,
+          253,
+          343
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              335,
+              273,
+              336,
+              273,
+              344,
+              253,
+              343
+            ],
+            "Text": "11.95",
+            "Confidence": 0.905
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          336,
+          363,
+          336,
+          363,
+          344,
+          283,
+          344
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, peppers \u0026 sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              284,
+              337,
+              307,
+              337,
+              306,
+              345,
+              284,
+              344
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.898
+          },
+          {
+            "BoundingBox": [
+              308,
+              337,
+              334,
+              337,
+              334,
+              345,
+              308,
+              345
+            ],
+            "Text": "peppers",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              336,
+              337,
+              340,
+              337,
+              340,
+              345,
+              336,
+              345
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.977
+          },
+          {
+            "BoundingBox": [
+              342,
+              337,
+              362,
+              337,
+              362,
+              345,
+              342,
+              345
+            ],
+            "Text": "sauce",
+            "Confidence": 0.757
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          335,
+          511,
+          335,
+          511,
+          343,
+          490,
+          343
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              490,
+              335,
+              511,
+              335,
+              511,
+              343,
+              490,
+              343
+            ],
+            "Text": "12.55",
+            "Confidence": 0.875
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          352,
+          111,
+          352,
+          111,
+          361,
+          45,
+          362
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "GENOA SALAMI",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              353,
+              74,
+              353,
+              74,
+              362,
+              45,
+              362
+            ],
+            "Text": "GENOA",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              77,
+              353,
+              111,
+              352,
+              111,
+              362,
+              77,
+              362
+            ],
+            "Text": "SALAMI",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          257,
+          352,
+          276,
+          352,
+          275,
+          359,
+          256,
+          359
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8. 95",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              352,
+              262,
+              352,
+              262,
+              359,
+              257,
+              359
+            ],
+            "Text": "8.",
+            "Confidence": 0.121
+          },
+          {
+            "BoundingBox": [
+              264,
+              352,
+              273,
+              352,
+              273,
+              359,
+              264,
+              359
+            ],
+            "Text": "95",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          352,
+          355,
+          352,
+          355,
+          361,
+          283,
+          361
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "COOKED SALAMI",
+        "Words": [
+          {
+            "BoundingBox": [
+              284,
+              353,
+              317,
+              353,
+              317,
+              362,
+              284,
+              362
+            ],
+            "Text": "COOKED",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              320,
+              353,
+              355,
+              353,
+              355,
+              362,
+              320,
+              362
+            ],
+            "Text": "SALAMI",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          353,
+          513,
+          353,
+          513,
+          360,
+          494,
+          360
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              495,
+              353,
+              511,
+              353,
+              511,
+              360,
+              495,
+              360
+            ],
+            "Text": "8.95",
+            "Confidence": 0.692
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          46,
+          363,
+          155,
+          363,
+          155,
+          372,
+          46,
+          372
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 peppers",
+        "Words": [
+          {
+            "BoundingBox": [
+              47,
+              365,
+              69,
+              364,
+              68,
+              372,
+              46,
+              372
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.77
+          },
+          {
+            "BoundingBox": [
+              70,
+              364,
+              94,
+              363,
+              93,
+              372,
+              70,
+              372
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.885
+          },
+          {
+            "BoundingBox": [
+              95,
+              363,
+              118,
+              363,
+              118,
+              372,
+              95,
+              372
+            ],
+            "Text": "tomato",
+            "Confidence": 0.853
+          },
+          {
+            "BoundingBox": [
+              120,
+              363,
+              125,
+              363,
+              124,
+              372,
+              120,
+              372
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              127,
+              363,
+              154,
+              364,
+              153,
+              373,
+              126,
+              372
+            ],
+            "Text": "peppers",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          253,
+          362,
+          276,
+          362,
+          276,
+          370,
+          253,
+          370
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              363,
+              272,
+              363,
+              272,
+              370,
+              253,
+              370
+            ],
+            "Text": "11.95",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          363,
+          393,
+          364,
+          393,
+          372,
+          283,
+          371
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 peppers",
+        "Words": [
+          {
+            "BoundingBox": [
+              284,
+              364,
+              307,
+              364,
+              306,
+              371,
+              284,
+              371
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.941
+          },
+          {
+            "BoundingBox": [
+              308,
+              364,
+              332,
+              364,
+              331,
+              371,
+              308,
+              371
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.928
+          },
+          {
+            "BoundingBox": [
+              333,
+              364,
+              357,
+              364,
+              356,
+              372,
+              333,
+              371
+            ],
+            "Text": "tomato",
+            "Confidence": 0.886
+          },
+          {
+            "BoundingBox": [
+              358,
+              364,
+              363,
+              364,
+              362,
+              372,
+              358,
+              372
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              364,
+              364,
+              391,
+              364,
+              391,
+              373,
+              364,
+              372
+            ],
+            "Text": "peppers",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          362,
+          512,
+          362,
+          512,
+          370,
+          491,
+          370
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              362,
+              512,
+              362,
+              512,
+              370,
+              491,
+              370
+            ],
+            "Text": "11.95",
+            "Confidence": 0.929
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          46,
+          380,
+          95,
+          379,
+          95,
+          388,
+          46,
+          389
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PEPPERONI",
+        "Words": [
+          {
+            "BoundingBox": [
+              46,
+              380,
+              96,
+              380,
+              95,
+              389,
+              46,
+              389
+            ],
+            "Text": "PEPPERONI",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          256,
+          380,
+          276,
+          380,
+          275,
+          388,
+          255,
+          387
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.30",
+        "Words": [
+          {
+            "BoundingBox": [
+              256,
+              380,
+              273,
+              380,
+              273,
+              388,
+              256,
+              387
+            ],
+            "Text": "9.30",
+            "Confidence": 0.858
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          379,
+          328,
+          379,
+          328,
+          388,
+          283,
+          388
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CAPICOLA",
+        "Words": [
+          {
+            "BoundingBox": [
+              284,
+              379,
+              326,
+              380,
+              325,
+              389,
+              284,
+              389
+            ],
+            "Text": "CAPICOLA",
+            "Confidence": 0.952
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          378,
+          512,
+          378,
+          511,
+          387,
+          493,
+          387
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              378,
+              511,
+              378,
+              511,
+              387,
+              494,
+              387
+            ],
+            "Text": "9.55",
+            "Confidence": 0.863
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          389,
+          155,
+          389,
+          155,
+          398,
+          45,
+          398
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 peppers",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              390,
+              68,
+              390,
+              68,
+              398,
+              46,
+              397
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.934
+          },
+          {
+            "BoundingBox": [
+              70,
+              390,
+              94,
+              390,
+              94,
+              398,
+              70,
+              398
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              95,
+              390,
+              119,
+              390,
+              118,
+              398,
+              95,
+              398
+            ],
+            "Text": "tomato",
+            "Confidence": 0.919
+          },
+          {
+            "BoundingBox": [
+              120,
+              390,
+              125,
+              390,
+              125,
+              398,
+              120,
+              398
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              127,
+              390,
+              155,
+              389,
+              154,
+              399,
+              126,
+              398
+            ],
+            "Text": "peppers",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          490,
+          388,
+          512,
+          388,
+          511,
+          396,
+          491,
+          396
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              490,
+              388,
+              511,
+              388,
+              511,
+              396,
+              490,
+              396
+            ],
+            "Text": "12.55",
+            "Confidence": 0.937
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          274,
+          396,
+          254,
+          395,
+          254,
+          388,
+          274,
+          389
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "DE ZI",
+        "Words": [
+          {
+            "BoundingBox": [
+              273,
+              396,
+              266,
+              396,
+              266,
+              389,
+              274,
+              389
+            ],
+            "Text": "DE",
+            "Confidence": 0.913
+          },
+          {
+            "BoundingBox": [
+              263,
+              395,
+              254,
+              395,
+              254,
+              388,
+              264,
+              388
+            ],
+            "Text": "ZI",
+            "Confidence": 0.076
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          389,
+          392,
+          389,
+          392,
+          398,
+          283,
+          398
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 peppers",
+        "Words": [
+          {
+            "BoundingBox": [
+              285,
+              390,
+              307,
+              390,
+              306,
+              397,
+              284,
+              397
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.89
+          },
+          {
+            "BoundingBox": [
+              308,
+              390,
+              332,
+              390,
+              332,
+              398,
+              308,
+              397
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.899
+          },
+          {
+            "BoundingBox": [
+              333,
+              390,
+              357,
+              390,
+              356,
+              398,
+              333,
+              398
+            ],
+            "Text": "tomato",
+            "Confidence": 0.901
+          },
+          {
+            "BoundingBox": [
+              358,
+              390,
+              363,
+              390,
+              363,
+              398,
+              358,
+              398
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              364,
+              390,
+              392,
+              389,
+              392,
+              399,
+              364,
+              398
+            ],
+            "Text": "peppers",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          405,
+          91,
+          405,
+          91,
+          414,
+          44,
+          414
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PASTRAMI",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              406,
+              91,
+              406,
+              90,
+              415,
+              45,
+              415
+            ],
+            "Text": "PASTRAMI",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          256,
+          405,
+          275,
+          405,
+          275,
+          413,
+          256,
+          413
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              256,
+              405,
+              273,
+              405,
+              273,
+              413,
+              256,
+              413
+            ],
+            "Text": "9.55",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          405,
+          362,
+          405,
+          362,
+          414,
+          282,
+          414
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "COLD CUT COMBO",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              406,
+              304,
+              406,
+              304,
+              415,
+              282,
+              414
+            ],
+            "Text": "COLD",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              308,
+              406,
+              326,
+              406,
+              325,
+              415,
+              308,
+              415
+            ],
+            "Text": "CUT",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              328,
+              406,
+              358,
+              406,
+              358,
+              414,
+              327,
+              415
+            ],
+            "Text": "COMBO",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          406,
+          511,
+          405,
+          511,
+          414,
+          494,
+          414
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.9",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              405,
+              507,
+              405,
+              507,
+              414,
+              494,
+              414
+            ],
+            "Text": "9.9",
+            "Confidence": 0.797
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          416,
+          157,
+          416,
+          157,
+          425,
+          44,
+          425
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 peppers .",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              418,
+              68,
+              417,
+              68,
+              425,
+              45,
+              425
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.922
+          },
+          {
+            "BoundingBox": [
+              70,
+              417,
+              94,
+              416,
+              93,
+              425,
+              70,
+              425
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.874
+          },
+          {
+            "BoundingBox": [
+              95,
+              416,
+              119,
+              416,
+              118,
+              425,
+              95,
+              425
+            ],
+            "Text": "tomato",
+            "Confidence": 0.883
+          },
+          {
+            "BoundingBox": [
+              120,
+              416,
+              125,
+              416,
+              124,
+              425,
+              120,
+              425
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              127,
+              416,
+              153,
+              417,
+              152,
+              426,
+              126,
+              425
+            ],
+            "Text": "peppers",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              154,
+              417,
+              157,
+              417,
+              157,
+              426,
+              154,
+              426
+            ],
+            "Text": ".",
+            "Confidence": 0.832
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          254,
+          415,
+          275,
+          415,
+          276,
+          422,
+          254,
+          423
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              254,
+              416,
+              273,
+              416,
+              272,
+              423,
+              254,
+              423
+            ],
+            "Text": "12.55",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          416,
+          445,
+          416,
+          445,
+          425,
+          283,
+          425
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "(ham, cooked salami \u0026 pepperoni]. cheese, lettuce,",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              417,
+              300,
+              417,
+              300,
+              424,
+              283,
+              424
+            ],
+            "Text": "(ham,",
+            "Confidence": 0.855
+          },
+          {
+            "BoundingBox": [
+              302,
+              417,
+              324,
+              417,
+              324,
+              425,
+              302,
+              424
+            ],
+            "Text": "cooked",
+            "Confidence": 0.934
+          },
+          {
+            "BoundingBox": [
+              326,
+              417,
+              348,
+              417,
+              347,
+              425,
+              326,
+              425
+            ],
+            "Text": "salami",
+            "Confidence": 0.954
+          },
+          {
+            "BoundingBox": [
+              349,
+              417,
+              354,
+              416,
+              354,
+              425,
+              349,
+              425
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              356,
+              416,
+              392,
+              416,
+              391,
+              425,
+              355,
+              425
+            ],
+            "Text": "pepperoni].",
+            "Confidence": 0.506
+          },
+          {
+            "BoundingBox": [
+              393,
+              416,
+              417,
+              416,
+              417,
+              426,
+              393,
+              425
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.956
+          },
+          {
+            "BoundingBox": [
+              419,
+              416,
+              445,
+              416,
+              444,
+              426,
+              418,
+              426
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.93
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          415,
+          513,
+          416,
+          512,
+          423,
+          491,
+          423
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              415,
+              512,
+              415,
+              511,
+              423,
+              491,
+              422
+            ],
+            "Text": "12.95",
+            "Confidence": 0.942
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          424,
+          342,
+          424,
+          342,
+          431,
+          282,
+          431
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "tomato \u0026 peppers",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              425,
+              306,
+              424,
+              305,
+              432,
+              282,
+              431
+            ],
+            "Text": "tomato",
+            "Confidence": 0.8
+          },
+          {
+            "BoundingBox": [
+              307,
+              424,
+              312,
+              424,
+              311,
+              432,
+              307,
+              432
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              314,
+              424,
+              340,
+              425,
+              340,
+              432,
+              313,
+              432
+            ],
+            "Text": "peppers",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          46,
+          438,
+          101,
+          438,
+          101,
+          448,
+          45,
+          448
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "TUNA SALAD",
+        "Words": [
+          {
+            "BoundingBox": [
+              46,
+              439,
+              68,
+              439,
+              68,
+              448,
+              46,
+              448
+            ],
+            "Text": "TUNA",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              70,
+              439,
+              99,
+              439,
+              99,
+              449,
+              70,
+              448
+            ],
+            "Text": "SALAD",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          256,
+          438,
+          275,
+          438,
+          275,
+          446,
+          257,
+          446
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              438,
+              273,
+              438,
+              273,
+              446,
+              257,
+              446
+            ],
+            "Text": "8.95",
+            "Confidence": 0.825
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          437,
+          369,
+          438,
+          369,
+          448,
+          282,
+          447
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CHICKEN (BREADED)",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              438,
+              319,
+              438,
+              319,
+              448,
+              283,
+              448
+            ],
+            "Text": "CHICKEN",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              322,
+              439,
+              370,
+              439,
+              369,
+              448,
+              322,
+              448
+            ],
+            "Text": "(BREADED)",
+            "Confidence": 0.705
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          495,
+          439,
+          511,
+          439,
+          511,
+          446,
+          494,
+          447
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.5",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              439,
+              507,
+              439,
+              507,
+              447,
+              494,
+              447
+            ],
+            "Text": "9.5",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          449,
+          124,
+          449,
+          124,
+          457,
+          44,
+          457
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce \u0026 tomato",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              450,
+              69,
+              450,
+              69,
+              457,
+              45,
+              457
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.933
+          },
+          {
+            "BoundingBox": [
+              70,
+              450,
+              92,
+              450,
+              92,
+              457,
+              70,
+              457
+            ],
+            "Text": "lettuce",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              94,
+              450,
+              99,
+              450,
+              98,
+              457,
+              93,
+              457
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              100,
+              450,
+              124,
+              450,
+              124,
+              457,
+              100,
+              457
+            ],
+            "Text": "tomato",
+            "Confidence": 0.667
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          448,
+          276,
+          448,
+          276,
+          456,
+          252,
+          456
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              449,
+              273,
+              449,
+              273,
+              456,
+              253,
+              456
+            ],
+            "Text": "11.95",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          449,
+          384,
+          449,
+          384,
+          457,
+          282,
+          457
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 mayo",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              450,
+              306,
+              450,
+              307,
+              457,
+              282,
+              457
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              308,
+              450,
+              332,
+              450,
+              332,
+              457,
+              308,
+              457
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.945
+          },
+          {
+            "BoundingBox": [
+              333,
+              450,
+              357,
+              450,
+              357,
+              457,
+              333,
+              457
+            ],
+            "Text": "tomato",
+            "Confidence": 0.885
+          },
+          {
+            "BoundingBox": [
+              358,
+              450,
+              363,
+              450,
+              362,
+              457,
+              358,
+              457
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              365,
+              450,
+              383,
+              450,
+              383,
+              458,
+              364,
+              457
+            ],
+            "Text": "mayo",
+            "Confidence": 0.811
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          448,
+          512,
+          447,
+          510,
+          456,
+          491,
+          456
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.915
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              447,
+              511,
+              447,
+              512,
+              455,
+              491,
+              456
+            ],
+            "Text": "12.55",
+            "Confidence": 0.962
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          465,
+          181,
+          465,
+          181,
+          475,
+          44,
+          475
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CHICKEN PARMESAN (BREADED)",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              465,
+              81,
+              465,
+              81,
+              475,
+              45,
+              475
+            ],
+            "Text": "CHICKEN",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              83,
+              465,
+              131,
+              465,
+              131,
+              476,
+              83,
+              475
+            ],
+            "Text": "PARMESAN",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              134,
+              465,
+              181,
+              465,
+              181,
+              476,
+              134,
+              476
+            ],
+            "Text": "(BREADED)",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          255,
+          466,
+          275,
+          466,
+          275,
+          473,
+          255,
+          473
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              466,
+              272,
+              466,
+              272,
+              473,
+              257,
+              473
+            ],
+            "Text": "9.55",
+            "Confidence": 0.951
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          464,
+          410,
+          465,
+          410,
+          475,
+          283,
+          474
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BUFFALO CHICKEN (BREADED)",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              465,
+              320,
+              465,
+              320,
+              475,
+              283,
+              475
+            ],
+            "Text": "BUFFALO",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              323,
+              465,
+              360,
+              465,
+              360,
+              475,
+              322,
+              475
+            ],
+            "Text": "CHICKEN",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              363,
+              465,
+              411,
+              465,
+              410,
+              476,
+              362,
+              475
+            ],
+            "Text": "(BREADED)",
+            "Confidence": 0.783
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          465,
+          511,
+          465,
+          511,
+          473,
+          495,
+          473
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              465,
+              511,
+              465,
+              511,
+              473,
+              494,
+              473
+            ],
+            "Text": "9.95",
+            "Confidence": 0.619
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          475,
+          125,
+          475,
+          125,
+          484,
+          45,
+          484
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, peppers \u0026 sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              476,
+              69,
+              476,
+              69,
+              484,
+              45,
+              483
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.905
+          },
+          {
+            "BoundingBox": [
+              70,
+              476,
+              96,
+              476,
+              96,
+              484,
+              70,
+              484
+            ],
+            "Text": "peppers",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              98,
+              476,
+              102,
+              476,
+              102,
+              484,
+              98,
+              484
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.936
+          },
+          {
+            "BoundingBox": [
+              104,
+              476,
+              124,
+              476,
+              124,
+              484,
+              104,
+              484
+            ],
+            "Text": "sauce",
+            "Confidence": 0.632
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          251,
+          474,
+          276,
+          475,
+          276,
+          483,
+          251,
+          482
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              475,
+              273,
+              475,
+              273,
+              483,
+              252,
+              483
+            ],
+            "Text": "12.55",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          476,
+          379,
+          476,
+          379,
+          483,
+          283,
+          483
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "lettuce, tomato \u0026 blue cheese",
+        "Words": [
+          {
+            "BoundingBox": [
+              284,
+              477,
+              307,
+              476,
+              306,
+              483,
+              284,
+              483
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.79
+          },
+          {
+            "BoundingBox": [
+              308,
+              476,
+              330,
+              476,
+              330,
+              483,
+              307,
+              483
+            ],
+            "Text": "tomato",
+            "Confidence": 0.846
+          },
+          {
+            "BoundingBox": [
+              333,
+              476,
+              336,
+              476,
+              336,
+              483,
+              332,
+              483
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.945
+          },
+          {
+            "BoundingBox": [
+              340,
+              476,
+              353,
+              476,
+              352,
+              483,
+              339,
+              483
+            ],
+            "Text": "blue",
+            "Confidence": 0.943
+          },
+          {
+            "BoundingBox": [
+              355,
+              476,
+              377,
+              477,
+              376,
+              483,
+              354,
+              483
+            ],
+            "Text": "cheese",
+            "Confidence": 0.78
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          490,
+          474,
+          511,
+          474,
+          511,
+          482,
+          490,
+          481
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              490,
+              474,
+              511,
+              474,
+              511,
+              482,
+              490,
+              481
+            ],
+            "Text": "12.95",
+            "Confidence": 0.924
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          491,
+          78,
+          490,
+          79,
+          499,
+          45,
+          500
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "TURKEY",
+        "Words": [
+          {
+            "BoundingBox": [
+              46,
+              492,
+              78,
+              491,
+              77,
+              499,
+              46,
+              501
+            ],
+            "Text": "TURKEY",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          256,
+          492,
+          277,
+          492,
+          277,
+          499,
+          256,
+          499
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.30",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              492,
+              273,
+              493,
+              272,
+              500,
+              256,
+              499
+            ],
+            "Text": "9.30",
+            "Confidence": 0.983
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          492,
+          337,
+          492,
+          337,
+          500,
+          282,
+          501
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ROAST BEEF",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              492,
+              312,
+              492,
+              311,
+              501,
+              282,
+              501
+            ],
+            "Text": "ROAST",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              314,
+              492,
+              336,
+              492,
+              335,
+              501,
+              313,
+              501
+            ],
+            "Text": "BEEF",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          495,
+          491,
+          512,
+          491,
+          511,
+          499,
+          495,
+          499
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.30",
+        "Words": [
+          {
+            "BoundingBox": [
+              495,
+              491,
+              511,
+              491,
+              511,
+              499,
+              495,
+              499
+            ],
+            "Text": "9.30",
+            "Confidence": 0.959
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          502,
+          147,
+          502,
+          147,
+          510,
+          44,
+          510
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 mayo",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              503,
+              69,
+              503,
+              68,
+              510,
+              44,
+              510
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.925
+          },
+          {
+            "BoundingBox": [
+              70,
+              503,
+              94,
+              502,
+              93,
+              510,
+              70,
+              510
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.929
+          },
+          {
+            "BoundingBox": [
+              96,
+              502,
+              118,
+              502,
+              117,
+              511,
+              95,
+              510
+            ],
+            "Text": "tomato",
+            "Confidence": 0.885
+          },
+          {
+            "BoundingBox": [
+              120,
+              502,
+              125,
+              502,
+              124,
+              511,
+              119,
+              511
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              127,
+              502,
+              145,
+              503,
+              144,
+              511,
+              126,
+              511
+            ],
+            "Text": "mayo",
+            "Confidence": 0.754
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          253,
+          501,
+          275,
+          502,
+          275,
+          510,
+          253,
+          509
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.30",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              501,
+              273,
+              502,
+              273,
+              510,
+              253,
+              509
+            ],
+            "Text": "12.30",
+            "Confidence": 0.893
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          281,
+          502,
+          384,
+          503,
+          384,
+          510,
+          281,
+          510
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 mayo",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              503,
+              307,
+              503,
+              307,
+              510,
+              282,
+              510
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.927
+          },
+          {
+            "BoundingBox": [
+              308,
+              503,
+              332,
+              503,
+              332,
+              510,
+              308,
+              510
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.944
+          },
+          {
+            "BoundingBox": [
+              333,
+              503,
+              357,
+              503,
+              356,
+              510,
+              333,
+              510
+            ],
+            "Text": "tomato",
+            "Confidence": 0.886
+          },
+          {
+            "BoundingBox": [
+              358,
+              503,
+              363,
+              503,
+              362,
+              510,
+              358,
+              510
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.988
+          },
+          {
+            "BoundingBox": [
+              364,
+              503,
+              383,
+              503,
+              382,
+              511,
+              364,
+              510
+            ],
+            "Text": "mayo",
+            "Confidence": 0.794
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          501,
+          512,
+          502,
+          512,
+          510,
+          491,
+          509
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.30",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              501,
+              511,
+              502,
+              511,
+              510,
+              491,
+              509
+            ],
+            "Text": "12.30",
+            "Confidence": 0.884
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          518,
+          61,
+          519,
+          60,
+          527,
+          44,
+          527
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BILT",
+        "Words": [
+          {
+            "BoundingBox": [
+              44,
+              518,
+              61,
+              518,
+              61,
+              527,
+              44,
+              526
+            ],
+            "Text": "BILT",
+            "Confidence": 0.291
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          518,
+          388,
+          518,
+          388,
+          528,
+          282,
+          528
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "GRILLED CHICKEN PESTO",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              519,
+              317,
+              518,
+              317,
+              528,
+              282,
+              528
+            ],
+            "Text": "GRILLED",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              320,
+              518,
+              357,
+              518,
+              356,
+              528,
+              320,
+              528
+            ],
+            "Text": "CHICKEN",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              359,
+              518,
+              387,
+              518,
+              386,
+              528,
+              359,
+              528
+            ],
+            "Text": "PESTO",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          517,
+          509,
+          517,
+          509,
+          525,
+          494,
+          526
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.9",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              517,
+              507,
+              517,
+              507,
+              526,
+              494,
+              526
+            ],
+            "Text": "9.9",
+            "Confidence": 0.435
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          528,
+          147,
+          528,
+          147,
+          536,
+          45,
+          537
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 mayo",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              530,
+              68,
+              529,
+              68,
+              537,
+              45,
+              537
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.94
+          },
+          {
+            "BoundingBox": [
+              70,
+              529,
+              94,
+              528,
+              93,
+              537,
+              70,
+              537
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.883
+          },
+          {
+            "BoundingBox": [
+              95,
+              528,
+              119,
+              528,
+              118,
+              537,
+              95,
+              537
+            ],
+            "Text": "tomato",
+            "Confidence": 0.881
+          },
+          {
+            "BoundingBox": [
+              120,
+              528,
+              125,
+              528,
+              124,
+              537,
+              120,
+              537
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              127,
+              528,
+              145,
+              529,
+              145,
+              537,
+              126,
+              537
+            ],
+            "Text": "mayo",
+            "Confidence": 0.86
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          253,
+          528,
+          275,
+          528,
+          275,
+          535,
+          253,
+          535
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.30",
+        "Words": [
+          {
+            "BoundingBox": [
+              254,
+              528,
+              272,
+              528,
+              272,
+              536,
+              254,
+              535
+            ],
+            "Text": "12.30",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          528,
+          431,
+          528,
+          431,
+          537,
+          282,
+          537
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato, pepper \u0026 pesto sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              529,
+              306,
+              529,
+              306,
+              537,
+              283,
+              537
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.88
+          },
+          {
+            "BoundingBox": [
+              308,
+              529,
+              331,
+              529,
+              331,
+              537,
+              308,
+              537
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.87
+          },
+          {
+            "BoundingBox": [
+              333,
+              529,
+              358,
+              529,
+              358,
+              537,
+              333,
+              537
+            ],
+            "Text": "tomato,",
+            "Confidence": 0.867
+          },
+          {
+            "BoundingBox": [
+              360,
+              529,
+              383,
+              529,
+              383,
+              537,
+              360,
+              537
+            ],
+            "Text": "pepper",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              384,
+              529,
+              389,
+              529,
+              389,
+              537,
+              384,
+              537
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              390,
+              529,
+              408,
+              529,
+              408,
+              537,
+              390,
+              537
+            ],
+            "Text": "pesto",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              410,
+              529,
+              430,
+              528,
+              430,
+              537,
+              410,
+              537
+            ],
+            "Text": "sauce",
+            "Confidence": 0.678
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          527,
+          512,
+          528,
+          512,
+          535,
+          491,
+          535
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.945
+          }
+        },
+        "Text": "12.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              527,
+              512,
+              527,
+              511,
+              535,
+              491,
+              534
+            ],
+            "Text": "12.95",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          544,
+          74,
+          544,
+          74,
+          553,
+          45,
+          553
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "STEAK",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              545,
+              71,
+              545,
+              71,
+              554,
+              45,
+              554
+            ],
+            "Text": "STEAK",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          255,
+          544,
+          277,
+          544,
+          276,
+          552,
+          255,
+          552
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              256,
+              544,
+              273,
+              544,
+              273,
+              552,
+              256,
+              552
+            ],
+            "Text": "9.95",
+            "Confidence": 0.973
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          284,
+          544,
+          352,
+          544,
+          352,
+          554,
+          283,
+          553
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CHEESEBURGER",
+        "Words": [
+          {
+            "BoundingBox": [
+              284,
+              544,
+              350,
+              544,
+              350,
+              554,
+              284,
+              554
+            ],
+            "Text": "CHEESEBURGER",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          493,
+          544,
+          509,
+          544,
+          508,
+          551,
+          493,
+          552
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "95",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              544,
+              506,
+              544,
+              507,
+              552,
+              494,
+              552
+            ],
+            "Text": "95",
+            "Confidence": 0.641
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          45,
+          555,
+          190,
+          555,
+          190,
+          564,
+          45,
+          564
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "onions, mushrooms, cheese, lettuce \u0026 tomato",
+        "Words": [
+          {
+            "BoundingBox": [
+              46,
+              557,
+              67,
+              556,
+              67,
+              564,
+              46,
+              564
+            ],
+            "Text": "onions,",
+            "Confidence": 0.816
+          },
+          {
+            "BoundingBox": [
+              69,
+              556,
+              108,
+              556,
+              108,
+              564,
+              68,
+              564
+            ],
+            "Text": "mushrooms,",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              109,
+              556,
+              134,
+              555,
+              134,
+              564,
+              109,
+              564
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.938
+          },
+          {
+            "BoundingBox": [
+              136,
+              555,
+              158,
+              555,
+              157,
+              564,
+              135,
+              564
+            ],
+            "Text": "lettuce",
+            "Confidence": 0.959
+          },
+          {
+            "BoundingBox": [
+              159,
+              555,
+              164,
+              555,
+              163,
+              564,
+              159,
+              564
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              165,
+              555,
+              189,
+              555,
+              189,
+              565,
+              165,
+              564
+            ],
+            "Text": "tomato",
+            "Confidence": 0.731
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          555,
+          275,
+          554,
+          275,
+          562,
+          252,
+          563
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.95",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              555,
+              273,
+              555,
+              273,
+              563,
+              253,
+              563
+            ],
+            "Text": "12.95",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          555,
+          384,
+          555,
+          384,
+          563,
+          282,
+          563
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato \u0026 mayo",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              556,
+              307,
+              556,
+              306,
+              563,
+              283,
+              563
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.947
+          },
+          {
+            "BoundingBox": [
+              308,
+              556,
+              332,
+              556,
+              331,
+              563,
+              308,
+              563
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              333,
+              556,
+              357,
+              556,
+              356,
+              563,
+              333,
+              563
+            ],
+            "Text": "tomato",
+            "Confidence": 0.896
+          },
+          {
+            "BoundingBox": [
+              358,
+              556,
+              363,
+              556,
+              362,
+              563,
+              358,
+              563
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              365,
+              556,
+              383,
+              556,
+              382,
+              563,
+              364,
+              563
+            ],
+            "Text": "mayo",
+            "Confidence": 0.86
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          554,
+          512,
+          554,
+          511,
+          562,
+          491,
+          562
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              554,
+              511,
+              554,
+              511,
+              562,
+              491,
+              562
+            ],
+            "Text": "12.55",
+            "Confidence": 0.971
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          46,
+          571,
+          93,
+          572,
+          93,
+          580,
+          46,
+          580
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "FISH FILLET",
+        "Words": [
+          {
+            "BoundingBox": [
+              46,
+              572,
+              62,
+              572,
+              62,
+              581,
+              46,
+              580
+            ],
+            "Text": "FISH",
+            "Confidence": 0.987
+          },
+          {
+            "BoundingBox": [
+              66,
+              572,
+              94,
+              572,
+              92,
+              581,
+              65,
+              581
+            ],
+            "Text": "FILLET",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          254,
+          571,
+          276,
+          571,
+          275,
+          579,
+          254,
+          579
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              257,
+              571,
+              273,
+              571,
+              273,
+              579,
+              257,
+              579
+            ],
+            "Text": "9.55",
+            "Confidence": 0.91
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          571,
+          360,
+          571,
+          360,
+          580,
+          282,
+          580
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "GRILLED CHICKEN",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              572,
+              316,
+              572,
+              316,
+              581,
+              283,
+              581
+            ],
+            "Text": "GRILLED",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              320,
+              572,
+              357,
+              571,
+              356,
+              581,
+              319,
+              581
+            ],
+            "Text": "CHICKEN",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          494,
+          571,
+          512,
+          571,
+          512,
+          580,
+          493,
+          580
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              494,
+              571,
+              511,
+              571,
+              511,
+              580,
+              494,
+              580
+            ],
+            "Text": "9.55",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          581,
+          146,
+          580,
+          146,
+          589,
+          44,
+          589
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, mayo, lettuce \u0026 tomato",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              582,
+              69,
+              582,
+              68,
+              589,
+              45,
+              589
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.934
+          },
+          {
+            "BoundingBox": [
+              70,
+              582,
+              90,
+              582,
+              89,
+              589,
+              70,
+              589
+            ],
+            "Text": "mayo,",
+            "Confidence": 0.762
+          },
+          {
+            "BoundingBox": [
+              91,
+              582,
+              113,
+              581,
+              113,
+              589,
+              91,
+              589
+            ],
+            "Text": "lettuce",
+            "Confidence": 0.947
+          },
+          {
+            "BoundingBox": [
+              115,
+              581,
+              120,
+              581,
+              119,
+              589,
+              114,
+              589
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.981
+          },
+          {
+            "BoundingBox": [
+              121,
+              581,
+              145,
+              581,
+              144,
+              589,
+              121,
+              589
+            ],
+            "Text": "tomato",
+            "Confidence": 0.659
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          580,
+          275,
+          579,
+          275,
+          588,
+          252,
+          588
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.915
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              579,
+              274,
+              579,
+              274,
+              588,
+              252,
+              588
+            ],
+            "Text": "12.55",
+            "Confidence": 0.936
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          581,
+          380,
+          582,
+          380,
+          589,
+          282,
+          589
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "cheese, lettuce, tomato, mayo",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              583,
+              307,
+              582,
+              307,
+              589,
+              282,
+              589
+            ],
+            "Text": "cheese,",
+            "Confidence": 0.931
+          },
+          {
+            "BoundingBox": [
+              308,
+              582,
+              332,
+              582,
+              332,
+              589,
+              308,
+              589
+            ],
+            "Text": "lettuce,",
+            "Confidence": 0.943
+          },
+          {
+            "BoundingBox": [
+              334,
+              582,
+              359,
+              582,
+              358,
+              589,
+              333,
+              589
+            ],
+            "Text": "tomato,",
+            "Confidence": 0.833
+          },
+          {
+            "BoundingBox": [
+              360,
+              582,
+              378,
+              583,
+              377,
+              590,
+              359,
+              590
+            ],
+            "Text": "mayo",
+            "Confidence": 0.723
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          490,
+          580,
+          513,
+          579,
+          513,
+          588,
+          490,
+          588
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.901
+          }
+        },
+        "Text": "12.55",
+        "Words": [
+          {
+            "BoundingBox": [
+              490,
+              579,
+              512,
+              579,
+              512,
+              588,
+              490,
+              588
+            ],
+            "Text": "12.55",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          220,
+          612,
+          338,
+          613,
+          337,
+          628,
+          220,
+          627
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "DINNER DISHES",
+        "Words": [
+          {
+            "BoundingBox": [
+              221,
+              613,
+              275,
+              613,
+              274,
+              628,
+              220,
+              627
+            ],
+            "Text": "DINNER",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              280,
+              613,
+              335,
+              613,
+              335,
+              629,
+              279,
+              628
+            ],
+            "Text": "DISHES",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          218,
+          663,
+          339,
+          663,
+          339,
+          678,
+          218,
+          678
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PASTA DINNERS",
+        "Words": [
+          {
+            "BoundingBox": [
+              219,
+              663,
+              264,
+              663,
+              263,
+              678,
+              218,
+              678
+            ],
+            "Text": "PASTA",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              270,
+              663,
+              336,
+              663,
+              336,
+              678,
+              269,
+              678
+            ],
+            "Text": "DINNERS",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          211,
+          690,
+          346,
+          690,
+          346,
+          700,
+          211,
+          700
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "All Served with Salad \u0026 Garlic Bread",
+        "Words": [
+          {
+            "BoundingBox": [
+              212,
+              691,
+              221,
+              691,
+              221,
+              700,
+              211,
+              700
+            ],
+            "Text": "All",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              223,
+              691,
+              249,
+              691,
+              248,
+              701,
+              223,
+              700
+            ],
+            "Text": "Served",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              251,
+              691,
+              267,
+              691,
+              266,
+              701,
+              250,
+              701
+            ],
+            "Text": "with",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              268,
+              691,
+              290,
+              691,
+              290,
+              701,
+              268,
+              701
+            ],
+            "Text": "Salad",
+            "Confidence": 0.629
+          },
+          {
+            "BoundingBox": [
+              292,
+              691,
+              297,
+              691,
+              297,
+              701,
+              291,
+              701
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              299,
+              691,
+              320,
+              691,
+              320,
+              701,
+              299,
+              701
+            ],
+            "Text": "Garlic",
+            "Confidence": 0.702
+          },
+          {
+            "BoundingBox": [
+              322,
+              691,
+              344,
+              691,
+              344,
+              700,
+              322,
+              701
+            ],
+            "Text": "Bread",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          716,
+          170,
+          716,
+          170,
+          727,
+          44,
+          727
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "FRESHLY COOKED SPAGHETTI",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              717,
+              81,
+              717,
+              80,
+              728,
+              45,
+              728
+            ],
+            "Text": "FRESHLY",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              83,
+              717,
+              119,
+              717,
+              118,
+              728,
+              83,
+              728
+            ],
+            "Text": "COOKED",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              121,
+              717,
+              171,
+              717,
+              170,
+              728,
+              121,
+              728
+            ],
+            "Text": "SPAGHETTI",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          234,
+          720,
+          275,
+          720,
+          275,
+          725,
+          234,
+          726
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "with marinara",
+        "Words": [
+          {
+            "BoundingBox": [
+              235,
+              721,
+              247,
+              721,
+              247,
+              726,
+              235,
+              726
+            ],
+            "Text": "with",
+            "Confidence": 0.657
+          },
+          {
+            "BoundingBox": [
+              248,
+              721,
+              273,
+              721,
+              273,
+              726,
+              248,
+              726
+            ],
+            "Text": "marinara",
+            "Confidence": 0.271
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          716,
+          411,
+          716,
+          411,
+          727,
+          283,
+          727
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BAKED HOMESTYLE LASAGNA",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              717,
+              310,
+              717,
+              311,
+              727,
+              283,
+              727
+            ],
+            "Text": "BAKED",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              313,
+              717,
+              364,
+              717,
+              364,
+              727,
+              314,
+              727
+            ],
+            "Text": "HOMESTYLE",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              366,
+              717,
+              408,
+              717,
+              408,
+              728,
+              366,
+              727
+            ],
+            "Text": "LASAGNA",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          490,
+          717,
+          513,
+          716,
+          513,
+          726,
+          490,
+          726
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.901
+          }
+        },
+        "Text": "12.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              490,
+              716,
+              512,
+              716,
+              512,
+              726,
+              490,
+              726
+            ],
+            "Text": "12.99",
+            "Confidence": 0.969
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          228,
+          729,
+          275,
+          727,
+          275,
+          735,
+          228,
+          737
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "wouw. 12.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              229,
+              731,
+              248,
+              730,
+              248,
+              736,
+              229,
+              736
+            ],
+            "Text": "wouw.",
+            "Confidence": 0.084
+          },
+          {
+            "BoundingBox": [
+              252,
+              730,
+              272,
+              728,
+              273,
+              736,
+              252,
+              736
+            ],
+            "Text": "12.99",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          233,
+          739,
+          275,
+          739,
+          275,
+          745,
+          232,
+          744
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "with meatbals",
+        "Words": [
+          {
+            "BoundingBox": [
+              233,
+              739,
+              244,
+              740,
+              245,
+              745,
+              233,
+              745
+            ],
+            "Text": "with",
+            "Confidence": 0.646
+          },
+          {
+            "BoundingBox": [
+              247,
+              740,
+              274,
+              740,
+              273,
+              745,
+              247,
+              745
+            ],
+            "Text": "meatbals",
+            "Confidence": 0.099
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          755,
+          275,
+          755,
+          274,
+          763,
+          252,
+          763
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "14.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              755,
+              274,
+              755,
+              274,
+              763,
+              252,
+              763
+            ],
+            "Text": "14.99",
+            "Confidence": 0.867
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          770,
+          206,
+          770,
+          206,
+          781,
+          44,
+          781
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "STUFFED JUMBO SHELLS FILLED WITH",
+        "Words": [
+          {
+            "BoundingBox": [
+              44,
+              771,
+              81,
+              771,
+              81,
+              782,
+              44,
+              782
+            ],
+            "Text": "STUFFED",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              84,
+              771,
+              113,
+              771,
+              113,
+              781,
+              84,
+              782
+            ],
+            "Text": "JUMBO",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              115,
+              771,
+              146,
+              771,
+              146,
+              781,
+              115,
+              781
+            ],
+            "Text": "SHELLS",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              148,
+              771,
+              177,
+              771,
+              176,
+              781,
+              148,
+              781
+            ],
+            "Text": "FILLED",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              179,
+              771,
+              202,
+              771,
+              202,
+              782,
+              179,
+              781
+            ],
+            "Text": "WITH",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          771,
+          277,
+          771,
+          277,
+          779,
+          252,
+          779
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              771,
+              273,
+              771,
+              273,
+              780,
+              252,
+              780
+            ],
+            "Text": "12.99",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          770,
+          513,
+          771,
+          512,
+          779,
+          491,
+          779
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.945
+          }
+        },
+        "Text": "15.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              770,
+              512,
+              770,
+              511,
+              779,
+              491,
+              778
+            ],
+            "Text": "15.99",
+            "Confidence": 0.939
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          780,
+          150,
+          780,
+          150,
+          790,
+          44,
+          790
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "RICOTTA \u0026 MOZZARELLA",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              781,
+              80,
+              781,
+              80,
+              790,
+              44,
+              790
+            ],
+            "Text": "RICOTTA",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              82,
+              781,
+              89,
+              781,
+              88,
+              790,
+              82,
+              790
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              91,
+              781,
+              148,
+              781,
+              147,
+              790,
+              90,
+              790
+            ],
+            "Text": "MOZZARELLA",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          771,
+          378,
+          771,
+          378,
+          781,
+          282,
+          781
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "FETTUCCINE ALFREDO",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              771,
+              334,
+              772,
+              334,
+              781,
+              282,
+              781
+            ],
+            "Text": "FETTUCCINE",
+            "Confidence": 0.992
+          },
+          {
+            "BoundingBox": [
+              336,
+              772,
+              375,
+              771,
+              374,
+              781,
+              336,
+              781
+            ],
+            "Text": "ALFREDO",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          283,
+          782,
+          385,
+          782,
+          385,
+          791,
+          283,
+          791
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "pasta in a butter \u0026 cream sauce",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              783,
+              300,
+              783,
+              300,
+              791,
+              283,
+              791
+            ],
+            "Text": "pasta",
+            "Confidence": 0.786
+          },
+          {
+            "BoundingBox": [
+              302,
+              783,
+              309,
+              783,
+              308,
+              791,
+              302,
+              791
+            ],
+            "Text": "in",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              310,
+              783,
+              314,
+              783,
+              314,
+              791,
+              310,
+              791
+            ],
+            "Text": "a",
+            "Confidence": 0.855
+          },
+          {
+            "BoundingBox": [
+              316,
+              783,
+              336,
+              783,
+              335,
+              790,
+              316,
+              791
+            ],
+            "Text": "butter",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              337,
+              783,
+              342,
+              783,
+              342,
+              790,
+              337,
+              790
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              344,
+              783,
+              362,
+              783,
+              362,
+              791,
+              343,
+              790
+            ],
+            "Text": "cream",
+            "Confidence": 0.608
+          },
+          {
+            "BoundingBox": [
+              365,
+              783,
+              386,
+              783,
+              385,
+              791,
+              365,
+              791
+            ],
+            "Text": "sauce",
+            "Confidence": 0.815
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          796,
+          206,
+          796,
+          206,
+          808,
+          44,
+          808
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "FETTUCCINE ALFREDO WITH CHICKEN",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              797,
+              96,
+              797,
+              96,
+              808,
+              44,
+              809
+            ],
+            "Text": "FETTUCCINE",
+            "Confidence": 0.992
+          },
+          {
+            "BoundingBox": [
+              98,
+              797,
+              138,
+              797,
+              137,
+              807,
+              98,
+              808
+            ],
+            "Text": "ALFREDO",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              140,
+              797,
+              164,
+              797,
+              163,
+              807,
+              139,
+              807
+            ],
+            "Text": "WITH",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              166,
+              797,
+              204,
+              797,
+              203,
+              808,
+              166,
+              807
+            ],
+            "Text": "CHICKEN",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          251,
+          797,
+          276,
+          797,
+          276,
+          806,
+          251,
+          806
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "18.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              798,
+              273,
+              798,
+              273,
+              806,
+              252,
+              806
+            ],
+            "Text": "18.99",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          796,
+          468,
+          796,
+          468,
+          807,
+          282,
+          807
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "FETTUCCINE CARBONARA PREPARED WITH",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              797,
+              334,
+              797,
+              334,
+              807,
+              282,
+              807
+            ],
+            "Text": "FETTUCCINE",
+            "Confidence": 0.992
+          },
+          {
+            "BoundingBox": [
+              336,
+              797,
+              391,
+              797,
+              391,
+              807,
+              336,
+              807
+            ],
+            "Text": "CARBONARA",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              394,
+              797,
+              438,
+              797,
+              438,
+              807,
+              393,
+              807
+            ],
+            "Text": "PREPARED",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              441,
+              797,
+              464,
+              797,
+              464,
+              808,
+              441,
+              807
+            ],
+            "Text": "WITH",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          282,
+          806,
+          352,
+          807,
+          352,
+          816,
+          282,
+          815
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BACON OR HAM",
+        "Words": [
+          {
+            "BoundingBox": [
+              283,
+              807,
+              312,
+              807,
+              312,
+              816,
+              283,
+              816
+            ],
+            "Text": "BACON",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              315,
+              807,
+              327,
+              807,
+              327,
+              816,
+              315,
+              816
+            ],
+            "Text": "OR",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              330,
+              807,
+              348,
+              807,
+              348,
+              817,
+              330,
+              816
+            ],
+            "Text": "HAM",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          490,
+          797,
+          514,
+          797,
+          513,
+          806,
+          490,
+          806
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "18.50",
+        "Words": [
+          {
+            "BoundingBox": [
+              490,
+              797,
+              512,
+              797,
+              512,
+              806,
+              490,
+              806
+            ],
+            "Text": "18.50",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          244,
+          838,
+          313,
+          838,
+          313,
+          852,
+          244,
+          852
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "DINNERS",
+        "Words": [
+          {
+            "BoundingBox": [
+              245,
+              839,
+              310,
+              838,
+              309,
+              853,
+              245,
+              852
+            ],
+            "Text": "DINNERS",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          210,
+          866,
+          346,
+          866,
+          346,
+          875,
+          210,
+          875
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "All Served with Salad \u0026 Garlic Bread",
+        "Words": [
+          {
+            "BoundingBox": [
+              212,
+              866,
+              221,
+              866,
+              221,
+              876,
+              211,
+              876
+            ],
+            "Text": "All",
+            "Confidence": 0.958
+          },
+          {
+            "BoundingBox": [
+              223,
+              866,
+              248,
+              866,
+              248,
+              876,
+              223,
+              876
+            ],
+            "Text": "Served",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              250,
+              866,
+              267,
+              866,
+              266,
+              876,
+              250,
+              876
+            ],
+            "Text": "with",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              269,
+              866,
+              289,
+              866,
+              289,
+              876,
+              268,
+              876
+            ],
+            "Text": "Salad",
+            "Confidence": 0.618
+          },
+          {
+            "BoundingBox": [
+              291,
+              866,
+              297,
+              866,
+              296,
+              876,
+              291,
+              876
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              299,
+              866,
+              320,
+              866,
+              319,
+              876,
+              298,
+              876
+            ],
+            "Text": "Garlic",
+            "Confidence": 0.837
+          },
+          {
+            "BoundingBox": [
+              322,
+              866,
+              345,
+              866,
+              344,
+              876,
+              321,
+              876
+            ],
+            "Text": "Bread",
+            "Confidence": 0.981
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          43,
+          892,
+          202,
+          892,
+          202,
+          903,
+          43,
+          902
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "MEATBALLS \u0026 PEPPERS BAKED WITH",
+        "Words": [
+          {
+            "BoundingBox": [
+              44,
+              892,
+              94,
+              892,
+              93,
+              902,
+              44,
+              902
+            ],
+            "Text": "MEATBALLS",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              96,
+              892,
+              102,
+              892,
+              101,
+              902,
+              95,
+              902
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              104,
+              892,
+              142,
+              892,
+              142,
+              902,
+              103,
+              902
+            ],
+            "Text": "PEPPERS",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              144,
+              892,
+              173,
+              892,
+              173,
+              903,
+              144,
+              902
+            ],
+            "Text": "BAKED",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              176,
+              892,
+              199,
+              892,
+              198,
+              903,
+              175,
+              903
+            ],
+            "Text": "WITH",
+            "Confidence": 0.988
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          251,
+          891,
+          432,
+          892,
+          432,
+          903,
+          251,
+          902
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.99 SAUSAGE \u0026 PEPPERS BAKED WITH",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              892,
+              274,
+              892,
+              274,
+              902,
+              252,
+              902
+            ],
+            "Text": "12.99",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              281,
+              892,
+              323,
+              892,
+              322,
+              902,
+              281,
+              902
+            ],
+            "Text": "SAUSAGE",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              325,
+              892,
+              331,
+              892,
+              330,
+              902,
+              324,
+              902
+            ],
+            "Text": "\u0026",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              333,
+              892,
+              371,
+              892,
+              371,
+              903,
+              332,
+              902
+            ],
+            "Text": "PEPPERS",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              373,
+              892,
+              402,
+              892,
+              401,
+              903,
+              373,
+              903
+            ],
+            "Text": "BAKED",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              404,
+              892,
+              428,
+              892,
+              427,
+              903,
+              404,
+              903
+            ],
+            "Text": "WITH",
+            "Confidence": 0.988
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          491,
+          892,
+          513,
+          892,
+          513,
+          900,
+          491,
+          900
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "12.99",
+        "Words": [
+          {
+            "BoundingBox": [
+              491,
+              892,
+              512,
+              892,
+              512,
+              900,
+              491,
+              900
+            ],
+            "Text": "12.99",
+            "Confidence": 0.805
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          44,
+          901,
+          139,
+          902,
+          139,
+          912,
+          44,
+          911
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "MOZZARELLA CHEESE",
+        "Words": [
+          {
+            "BoundingBox": [
+              45,
+              902,
+              101,
+              902,
+              101,
+              911,
+              45,
+              911
+            ],
+            "Text": "MOZZARELLA",
+            "Confidence": 0.992
+          },
+          {
+            "BoundingBox": [
+              103,
+              902,
+              137,
+              903,
+              136,
+              913,
+              103,
+              911
+            ],
+            "Text": "CHEESE",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          281,
+          901,
+          376,
+          901,
+          376,
+          911,
+          281,
+          910
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "MOZZARELLA CHEESE",
+        "Words": [
+          {
+            "BoundingBox": [
+              282,
+              902,
+              339,
+              902,
+              339,
+              911,
+              282,
+              911
+            ],
+            "Text": "MOZZARELLA",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              341,
+              902,
+              375,
+              902,
+              374,
+              912,
+              341,
+              911
+            ],
+            "Text": "CHEESE",
+            "Confidence": 0.993
+          }
+        ]
+      }
+    ]
+  }
+]
