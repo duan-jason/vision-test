@@ -1,1 +1,3208 @@
-[{"Page":1,"Language":null,"Angle":-0.8289,"Width":1837,"Height":2449,"Unit":0,"Lines":[{"Language":null,"BoundingBox":[556,262,1195,256,1196,330,556,336],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"NAPOJE ZIMNE","Words":[{"BoundingBox":[558,262,886,260,886,334,556,337],"Text":"NAPOJE","Confidence":0.994},{"BoundingBox":[917,260,1173,257,1174,331,916,333],"Text":"ZIMNE","Confidence":0.997}]},{"Language":null,"BoundingBox":[205,480,394,488,395,555,202,550],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Coca-Cola.","Words":[{"BoundingBox":[204,480,395,486,393,556,202,549],"Text":"Coca-Cola.","Confidence":0.988}]},{"Language":null,"BoundingBox":[463,482,651,488,651,554,459,548],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Coca-Cola.","Words":[{"BoundingBox":[464,482,649,487,646,554,462,548],"Text":"Coca-Cola.","Confidence":0.636}]},{"Language":null,"BoundingBox":[1160,487,1332,484,1333,543,1159,545],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,25L","Words":[{"BoundingBox":[1161,486,1321,484,1322,543,1162,545],"Text":"0,25L","Confidence":0.995}]},{"Language":null,"BoundingBox":[1452,460,1504,466,1501,550,1448,543],"Appearance":{"Style":{"Name":"other","Confidence":0.945}},"Text":"7","Words":[{"BoundingBox":[1456,460,1504,466,1494,548,1448,542],"Text":"7","Confidence":0.969}]},{"Language":null,"BoundingBox":[223,557,364,558,364,584,223,582],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"ZERO CUKRU","Words":[{"BoundingBox":[223,557,277,557,277,582,224,583],"Text":"ZERO","Confidence":0.988},{"BoundingBox":[286,557,361,560,360,584,286,582],"Text":"CUKRU","Confidence":0.995}]},{"Language":null,"BoundingBox":[472,557,639,557,639,581,472,580],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"ORIGINAL TASTE","Words":[{"BoundingBox":[473,558,567,558,567,580,474,579],"Text":"ORIGINAL","Confidence":0.992},{"BoundingBox":[574,558,635,558,634,582,573,580],"Text":"TASTE","Confidence":0.995}]},{"Language":null,"BoundingBox":[227,681,371,674,372,729,226,734],"Appearance":{"Style":{"Name":"other","Confidence":0.945}},"Text":"FANTA","Words":[{"BoundingBox":[226,680,368,674,371,729,229,735],"Text":"FANTA","Confidence":0.686}]},{"Language":null,"BoundingBox":[484,683,667,685,667,764,479,766],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Sprite","Words":[{"BoundingBox":[479,683,662,683,662,766,479,766],"Text":"Sprite","Confidence":0.997}]},{"Language":null,"BoundingBox":[1171,685,1333,684,1336,741,1169,744],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,25L","Words":[{"BoundingBox":[1169,685,1324,684,1324,742,1169,744],"Text":"0,25L","Confidence":0.991}]},{"Language":null,"BoundingBox":[1461,664,1514,666,1511,757,1458,754],"Appearance":{"Style":{"Name":"other","Confidence":0.901}},"Text":"7","Words":[{"BoundingBox":[1461,664,1509,666,1505,757,1458,754],"Text":"7","Confidence":0.927}]},{"Language":null,"BoundingBox":[211,907,414,907,414,950,211,950],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KINLEY.","Words":[{"BoundingBox":[213,908,411,908,413,950,211,951],"Text":"KINLEY.","Confidence":0.797}]},{"Language":null,"BoundingBox":[485,887,919,884,919,917,485,920],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Tonic Water, Pink Aromatic Berry,","Words":[{"BoundingBox":[489,890,557,888,557,918,489,920],"Text":"Tonic","Confidence":0.996},{"BoundingBox":[563,888,646,887,646,916,563,918],"Text":"Water,","Confidence":0.991},{"BoundingBox":[652,887,710,886,710,915,652,916],"Text":"Pink","Confidence":0.988},{"BoundingBox":[716,886,837,885,837,916,716,915],"Text":"Aromatic","Confidence":0.995},{"BoundingBox":[843,885,919,885,919,918,843,916],"Text":"Berry,","Confidence":0.886}]},{"Language":null,"BoundingBox":[1173,877,1337,873,1336,930,1173,934],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,25L","Words":[{"BoundingBox":[1174,877,1330,873,1332,929,1176,933],"Text":"0,25L","Confidence":0.983}]},{"Language":null,"BoundingBox":[1462,859,1515,861,1512,951,1460,946],"Appearance":{"Style":{"Name":"handwriting","Confidence":0.793}},"Text":"7","Words":[{"BoundingBox":[1464,859,1510,861,1504,950,1460,947],"Text":"7","Confidence":0.888}]},{"Language":null,"BoundingBox":[487,920,838,914,838,945,488,951],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Elderflower ZERO CUKRU","Words":[{"BoundingBox":[488,921,642,919,643,948,489,951],"Text":"Elderflower","Confidence":0.991},{"BoundingBox":[648,919,719,917,719,947,649,948],"Text":"ZERO","Confidence":0.989},{"BoundingBox":[732,917,826,915,825,946,732,947],"Text":"CUKRU","Confidence":0.997}]},{"Language":null,"BoundingBox":[230,1073,405,1076,405,1119,230,1118],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KROPLA","Words":[{"BoundingBox":[233,1074,395,1078,396,1119,230,1119],"Text":"KROPLA","Confidence":0.959}]},{"Language":null,"BoundingBox":[495,1054,669,1058,669,1151,494,1151],"Appearance":{"Style":{"Name":"handwriting","Confidence":0.982}},"Text":"belico","Words":[{"BoundingBox":[495,1054,663,1056,662,1152,494,1151],"Text":"belico","Confidence":0.177}]},{"Language":null,"BoundingBox":[718,1077,1070,1071,1071,1098,719,1105],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"naturalna woda mineralna","Words":[{"BoundingBox":[720,1077,847,1075,847,1103,721,1106],"Text":"naturalna","Confidence":0.994},{"BoundingBox":[853,1075,928,1074,928,1102,853,1103],"Text":"woda","Confidence":0.989},{"BoundingBox":[934,1074,1067,1071,1066,1099,934,1102],"Text":"mineralna","Confidence":0.991}]},{"Language":null,"BoundingBox":[1180,1068,1340,1067,1342,1122,1176,1124],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,33L","Words":[{"BoundingBox":[1178,1068,1330,1067,1331,1123,1179,1124],"Text":"0,33L","Confidence":0.991}]},{"Language":null,"BoundingBox":[1458,1039,1529,1040,1531,1141,1456,1142],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"6","Words":[{"BoundingBox":[1456,1039,1521,1039,1521,1142,1456,1142],"Text":"6","Confidence":0.995}]},{"Language":null,"BoundingBox":[252,1116,393,1111,394,1141,253,1143],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"BESKIDU","Words":[{"BoundingBox":[253,1119,376,1112,376,1142,254,1143],"Text":"BESKIDU","Confidence":0.848}]},{"Language":null,"BoundingBox":[725,1108,1059,1102,1059,1131,725,1136],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"niegazowana i gazowana","Words":[{"BoundingBox":[727,1109,896,1106,895,1133,726,1136],"Text":"niegazowana","Confidence":0.991},{"BoundingBox":[904,1106,913,1106,912,1133,903,1133],"Text":"i","Confidence":0.996},{"BoundingBox":[919,1106,1054,1103,1053,1132,917,1133],"Text":"gazowana","Confidence":0.996}]},{"Language":null,"BoundingBox":[225,1271,405,1274,404,1319,225,1317],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KROPLA","Words":[{"BoundingBox":[228,1272,399,1276,401,1319,230,1319],"Text":"KROPLA","Confidence":0.941}]},{"Language":null,"BoundingBox":[504,1250,672,1251,675,1344,501,1345],"Appearance":{"Style":{"Name":"handwriting","Confidence":0.982}},"Text":"belico","Words":[{"BoundingBox":[501,1250,666,1250,666,1345,501,1345],"Text":"belico","Confidence":0.154}]},{"Language":null,"BoundingBox":[725,1268,1075,1262,1075,1291,726,1297],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"naturalna woda mineralna","Words":[{"BoundingBox":[726,1269,850,1267,851,1295,727,1297],"Text":"naturalna","Confidence":0.993},{"BoundingBox":[856,1266,934,1265,933,1294,856,1295],"Text":"woda","Confidence":0.991},{"BoundingBox":[940,1265,1072,1263,1070,1292,939,1294],"Text":"mineralna","Confidence":0.994}]},{"Language":null,"BoundingBox":[1181,1260,1343,1255,1344,1313,1180,1315],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,75L","Words":[{"BoundingBox":[1182,1258,1335,1255,1337,1313,1183,1316],"Text":"0,75L","Confidence":0.991}]},{"Language":null,"BoundingBox":[1465,1229,1536,1231,1532,1332,1460,1331],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"6","Words":[{"BoundingBox":[1462,1229,1527,1230,1524,1332,1460,1330],"Text":"6","Confidence":0.996}]},{"Language":null,"BoundingBox":[244,1309,401,1302,402,1336,245,1341],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"BESKIDU","Words":[{"BoundingBox":[252,1313,380,1304,381,1338,253,1341],"Text":"BESKIDU","Confidence":0.991}]},{"Language":null,"BoundingBox":[727,1300,1066,1294,1067,1323,727,1328],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"niegazowana i gazowana","Words":[{"BoundingBox":[727,1302,900,1298,900,1325,729,1328],"Text":"niegazowana","Confidence":0.993},{"BoundingBox":[908,1298,919,1298,918,1325,908,1325],"Text":"i","Confidence":0.996},{"BoundingBox":[924,1297,1061,1295,1059,1324,924,1325],"Text":"gazowana","Confidence":0.995}]},{"Language":null,"BoundingBox":[251,1447,395,1446,396,1507,251,1511],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"fuze","Words":[{"BoundingBox":[253,1447,391,1446,392,1508,254,1510],"Text":"fuze","Confidence":0.997}]},{"Language":null,"BoundingBox":[253,1478,375,1483,373,1541,252,1539],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"tea\u00AE","Words":[{"BoundingBox":[256,1478,375,1481,373,1542,254,1539],"Text":"tea\u00AE","Confidence":0.34}]},{"Language":null,"BoundingBox":[504,1461,736,1460,736,1489,504,1491],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"O smaku Cytryny","Words":[{"BoundingBox":[505,1463,521,1462,521,1492,505,1492],"Text":"O","Confidence":0.994},{"BoundingBox":[530,1462,621,1460,620,1491,529,1492],"Text":"smaku","Confidence":0.998},{"BoundingBox":[630,1460,736,1461,733,1489,628,1491],"Text":"Cytryny","Confidence":0.996}]},{"Language":null,"BoundingBox":[1186,1450,1352,1446,1354,1502,1185,1506],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,25L","Words":[{"BoundingBox":[1186,1449,1345,1446,1346,1502,1188,1506],"Text":"0,25L","Confidence":0.955}]},{"Language":null,"BoundingBox":[1481,1425,1534,1427,1527,1517,1476,1513],"Appearance":{"Style":{"Name":"other","Confidence":0.726}},"Text":"7","Words":[{"BoundingBox":[1483,1425,1529,1427,1524,1516,1477,1514],"Text":"7","Confidence":0.606}]},{"Language":null,"BoundingBox":[505,1492,931,1483,932,1513,506,1522],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"O smaku Brzoskwini i Hibiskusa","Words":[{"BoundingBox":[506,1494,522,1493,522,1521,506,1521],"Text":"O","Confidence":0.995},{"BoundingBox":[530,1493,620,1492,620,1520,530,1521],"Text":"smaku","Confidence":0.998},{"BoundingBox":[630,1492,778,1488,778,1517,630,1520],"Text":"Brzoskwini","Confidence":0.995},{"BoundingBox":[783,1488,793,1488,793,1517,783,1517],"Text":"i","Confidence":0.996},{"BoundingBox":[799,1488,931,1483,930,1513,798,1517],"Text":"Hibiskusa","Confidence":0.995}]},{"Language":null,"BoundingBox":[275,1687,374,1687,373,1721,275,1720],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Cappy","Words":[{"BoundingBox":[275,1687,368,1688,367,1721,275,1720],"Text":"Cappy","Confidence":0.998}]},{"Language":null,"BoundingBox":[496,1658,845,1651,846,1680,497,1691],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"pomara\u0144czowy, jab\u0142kowy,","Words":[{"BoundingBox":[498,1662,709,1653,709,1683,499,1691],"Text":"pomara\u0144czowy,","Confidence":0.991},{"BoundingBox":[715,1653,845,1651,844,1682,715,1683],"Text":"jab\u0142kowy,","Confidence":0.993}]},{"Language":null,"BoundingBox":[1192,1644,1363,1640,1364,1696,1192,1699],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,25L","Words":[{"BoundingBox":[1194,1645,1351,1641,1352,1698,1193,1699],"Text":"0,25L","Confidence":0.996}]},{"Language":null,"BoundingBox":[1482,1628,1551,1629,1547,1731,1476,1731],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"7","Words":[{"BoundingBox":[1476,1628,1534,1628,1534,1731,1476,1730],"Text":"7","Confidence":0.994}]},{"Language":null,"BoundingBox":[500,1691,883,1681,884,1711,501,1721],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"multiwitamina, grejpfrutowy","Words":[{"BoundingBox":[501,1692,702,1686,702,1715,502,1721],"Text":"multiwitamina,","Confidence":0.986},{"BoundingBox":[708,1686,882,1682,881,1712,707,1715],"Text":"grejpfrutowy","Confidence":0.992}]},{"Language":null,"BoundingBox":[235,1872,413,1867,414,1918,235,1922],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"BURN\u0027","Words":[{"BoundingBox":[237,1874,411,1867,412,1920,236,1922],"Text":"BURN\u0027","Confidence":0.656}]},{"Language":null,"BoundingBox":[1482,1815,1555,1814,1555,1918,1480,1920],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"8","Words":[{"BoundingBox":[1483,1815,1544,1814,1546,1918,1485,1919],"Text":"8","Confidence":0.996}]},{"Language":null,"BoundingBox":[496,1873,798,1862,799,1900,496,1908],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"nap\u00F3j energetyzuj\u0105cy","Words":[{"BoundingBox":[500,1875,578,1873,579,1905,500,1908],"Text":"nap\u00F3j","Confidence":0.991},{"BoundingBox":[585,1873,796,1863,797,1901,585,1905],"Text":"energetyzuj\u0105cy","Confidence":0.993}]},{"Language":null,"BoundingBox":[1199,1841,1369,1835,1370,1892,1199,1898],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"0,25L","Words":[{"BoundingBox":[1200,1840,1358,1835,1360,1891,1202,1897],"Text":"0,25L","Confidence":0.969}]},{"Language":null,"BoundingBox":[275,1915,376,1913,377,1934,275,1937],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"NERGY DRINK","Words":[{"BoundingBox":[275,1919,320,1914,320,1934,276,1937],"Text":"NERGY","Confidence":0.885},{"BoundingBox":[324,1914,370,1915,369,1935,324,1933],"Text":"DRINK","Confidence":0.907}]},{"Language":null,"BoundingBox":[459,2059,1165,2039,1166,2092,460,2111],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Polecamy do ka\u017Cdego posi\u0142ku","Words":[{"BoundingBox":[459,2063,683,2053,684,2107,460,2111],"Text":"Polecamy","Confidence":0.996},{"BoundingBox":[694,2053,760,2050,760,2106,695,2107],"Text":"do","Confidence":0.998},{"BoundingBox":[771,2050,974,2044,975,2099,772,2105],"Text":"ka\u017Cdego","Confidence":0.996},{"BoundingBox":[985,2044,1160,2040,1161,2093,986,2099],"Text":"posi\u0142ku","Confidence":0.995}]},{"Language":null,"BoundingBox":[464,2123,998,2124,997,2194,464,2193],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CocaCola. 0,25L w cenie","Words":[{"BoundingBox":[465,2124,652,2124,652,2194,466,2194],"Text":"CocaCola.","Confidence":0.802},{"BoundingBox":[665,2124,793,2127,792,2193,665,2194],"Text":"0,25L","Confidence":0.814},{"BoundingBox":[806,2127,843,2128,842,2191,805,2192],"Text":"w","Confidence":0.938},{"BoundingBox":[861,2129,995,2133,993,2186,860,2191],"Text":"cenie","Confidence":0.997}]},{"Language":null,"BoundingBox":[1054,2116,1142,2115,1138,2233,1047,2233],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"7","Words":[{"BoundingBox":[1052,2115,1121,2115,1122,2233,1053,2233],"Text":"7","Confidence":0.814}]},{"Language":null,"BoundingBox":[480,2196,634,2192,635,2222,481,2227],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"ZERO CUKRU","Words":[{"BoundingBox":[480,2197,539,2195,541,2225,483,2228],"Text":"ZERO","Confidence":0.982},{"BoundingBox":[545,2194,627,2192,627,2223,547,2225],"Text":"CUKRU","Confidence":0.979}]},{"Language":null,"BoundingBox":[140,2319,971,2291,972,2316,141,2349],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"2024 The Coca-Cola Company KINLEY jest zastrzonym znakiem towarowym The Coca-Cola Company","Words":[{"BoundingBox":[147,2323,189,2320,190,2347,148,2349],"Text":"2024","Confidence":0.936},{"BoundingBox":[194,2320,221,2319,222,2346,196,2347],"Text":"The","Confidence":0.958},{"BoundingBox":[226,2319,309,2314,310,2342,227,2346],"Text":"Coca-Cola","Confidence":0.686},{"BoundingBox":[314,2314,390,2310,390,2339,315,2342],"Text":"Company","Confidence":0.694},{"BoundingBox":[395,2310,455,2308,455,2336,396,2338],"Text":"KINLEY","Confidence":0.795},{"BoundingBox":[460,2307,489,2306,489,2334,461,2336],"Text":"jest","Confidence":0.618},{"BoundingBox":[494,2306,601,2302,601,2330,494,2334],"Text":"zastrzonym","Confidence":0.618},{"BoundingBox":[607,2302,670,2300,670,2327,606,2330],"Text":"znakiem","Confidence":0.807},{"BoundingBox":[675,2299,768,2297,768,2323,675,2327],"Text":"towarowym","Confidence":0.907},{"BoundingBox":[774,2296,801,2296,800,2322,773,2323],"Text":"The","Confidence":0.949},{"BoundingBox":[806,2296,885,2294,884,2319,805,2322],"Text":"Coca-Cola","Confidence":0.616},{"BoundingBox":[891,2293,970,2292,969,2316,889,2319],"Text":"Company","Confidence":0.62}]},{"Language":null,"BoundingBox":[127,2347,1485,2304,1486,2330,127,2377],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"COM DP Beverages UC FUZE TEA jest zeit antonym znakem lowrowym DP Beverages (C. Nacoe herbacane na bane ekstraktu \u010D herbaty Zawarto\u015B\u0107 soka owocowego","Words":[{"BoundingBox":[137,2350,188,2348,188,2375,137,2377],"Text":"COM","Confidence":0.033},{"BoundingBox":[193,2348,217,2347,217,2374,193,2375],"Text":"DP","Confidence":0.377},{"BoundingBox":[222,2346,303,2343,302,2369,221,2373],"Text":"Beverages","Confidence":0.249},{"BoundingBox":[307,2343,334,2342,334,2368,307,2369],"Text":"UC","Confidence":0.955},{"BoundingBox":[339,2342,382,2340,382,2366,339,2368],"Text":"FUZE","Confidence":0.293},{"BoundingBox":[387,2340,415,2339,415,2364,387,2366],"Text":"TEA","Confidence":0.886},{"BoundingBox":[420,2338,448,2337,448,2363,420,2364],"Text":"jest","Confidence":0.537},{"BoundingBox":[453,2337,488,2336,487,2361,453,2363],"Text":"zeit","Confidence":0.05},{"BoundingBox":[493,2336,558,2333,558,2358,492,2361],"Text":"antonym","Confidence":0.381},{"BoundingBox":[564,2333,628,2331,627,2355,563,2358],"Text":"znakem","Confidence":0.051},{"BoundingBox":[633,2330,722,2327,722,2352,633,2355],"Text":"lowrowym","Confidence":0.633},{"BoundingBox":[727,2327,749,2326,748,2351,727,2352],"Text":"DP","Confidence":0.19},{"BoundingBox":[754,2326,835,2323,834,2348,753,2351],"Text":"Beverages","Confidence":0.668},{"BoundingBox":[840,2323,866,2322,866,2347,839,2348],"Text":"(C.","Confidence":0.397},{"BoundingBox":[871,2322,926,2320,925,2345,871,2346],"Text":"Nacoe","Confidence":0.041},{"BoundingBox":[931,2320,1017,2317,1016,2342,930,2344],"Text":"herbacane","Confidence":0.18},{"BoundingBox":[1022,2317,1040,2317,1039,2341,1021,2342],"Text":"na","Confidence":0.855},{"BoundingBox":[1045,2317,1086,2315,1086,2340,1044,2341],"Text":"bane","Confidence":0.647},{"BoundingBox":[1091,2315,1162,2313,1162,2337,1090,2339],"Text":"ekstraktu","Confidence":0.163},{"BoundingBox":[1167,2313,1174,2313,1173,2337,1166,2337],"Text":"\u010D","Confidence":0.001},{"BoundingBox":[1179,2313,1240,2311,1239,2335,1178,2337],"Text":"herbaty","Confidence":0.305},{"BoundingBox":[1245,2311,1324,2309,1323,2333,1244,2335],"Text":"Zawarto\u015B\u0107","Confidence":0.114},{"BoundingBox":[1329,2308,1366,2308,1365,2332,1328,2333],"Text":"soka","Confidence":0.633},{"BoundingBox":[1371,2307,1471,2305,1470,2330,1370,2332],"Text":"owocowego","Confidence":0.129}]},{"Language":null,"BoundingBox":[135,2371,1684,2318,1685,2346,136,2398],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Aby uzyska\u0107 wi\u0119cej n\u0142ommacj na temat wk\u0142adfhk\u00F3w : www\u0142o\u015B\u0107 od\u017Cywczych naszych prockat\u00F3w w tym wszelkich ezope skich waruntow zgonwhych (kwved\u017C stron\u0119 coca-cola pijnatze mankitzze tes","Words":[{"BoundingBox":[135,2374,165,2373,166,2397,137,2398],"Text":"Aby","Confidence":0.27},{"BoundingBox":[169,2373,230,2371,232,2394,171,2397],"Text":"uzyska\u0107","Confidence":0.198},{"BoundingBox":[235,2370,286,2368,288,2391,236,2394],"Text":"wi\u0119cej","Confidence":0.255},{"BoundingBox":[291,2368,364,2365,366,2388,293,2391],"Text":"n\u0142ommacj","Confidence":0.399},{"BoundingBox":[369,2365,389,2364,391,2387,371,2388],"Text":"na","Confidence":0.612},{"BoundingBox":[394,2364,441,2362,442,2385,396,2387],"Text":"temat","Confidence":0.663},{"BoundingBox":[445,2362,531,2359,533,2381,447,2384],"Text":"wk\u0142adfhk\u00F3w","Confidence":0.042},{"BoundingBox":[536,2359,540,2358,542,2380,537,2381],"Text":":","Confidence":0.002},{"BoundingBox":[545,2358,611,2356,612,2378,547,2380],"Text":"www\u0142o\u015B\u0107","Confidence":0.001},{"BoundingBox":[615,2355,709,2352,711,2374,617,2377],"Text":"od\u017Cywczych","Confidence":0.464},{"BoundingBox":[714,2352,776,2349,778,2371,715,2374],"Text":"naszych","Confidence":0.266},{"BoundingBox":[781,2349,864,2346,866,2368,782,2371],"Text":"prockat\u00F3w","Confidence":0.507},{"BoundingBox":[871,2346,884,2346,885,2368,873,2368],"Text":"w","Confidence":0.998},{"BoundingBox":[888,2345,916,2344,918,2367,890,2368],"Text":"tym","Confidence":0.991},{"BoundingBox":[923,2344,996,2342,997,2364,924,2366],"Text":"wszelkich","Confidence":0.086},{"BoundingBox":[1000,2341,1055,2339,1057,2362,1002,2364],"Text":"ezope","Confidence":0.198},{"BoundingBox":[1060,2339,1097,2338,1099,2361,1061,2362],"Text":"skich","Confidence":0.285},{"BoundingBox":[1102,2338,1181,2335,1183,2359,1104,2361],"Text":"waruntow","Confidence":0.46},{"BoundingBox":[1186,2335,1287,2332,1289,2356,1188,2358],"Text":"zgonwhych","Confidence":0.084},{"BoundingBox":[1292,2331,1358,2329,1359,2354,1294,2356],"Text":"(kwved\u017C","Confidence":0.007},{"BoundingBox":[1362,2329,1414,2327,1415,2352,1364,2354],"Text":"stron\u0119","Confidence":0.256},{"BoundingBox":[1418,2327,1489,2325,1490,2351,1420,2352],"Text":"coca-cola","Confidence":0.113},{"BoundingBox":[1493,2325,1559,2323,1561,2349,1495,2351],"Text":"pijnatze","Confidence":0.029},{"BoundingBox":[1564,2323,1643,2320,1645,2348,1565,2349],"Text":"mankitzze","Confidence":0.111},{"BoundingBox":[1648,2320,1679,2319,1680,2347,1649,2347],"Text":"tes","Confidence":0.21}]}]}]
+[
+  {
+    "Page": 1,
+    "Language": null,
+    "Angle": -0.8289,
+    "Width": 1837,
+    "Height": 2449,
+    "Unit": 0,
+    "Lines": [
+      {
+        "Language": null,
+        "BoundingBox": [
+          556,
+          262,
+          1195,
+          256,
+          1196,
+          330,
+          556,
+          336
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "NAPOJE ZIMNE",
+        "Words": [
+          {
+            "BoundingBox": [
+              558,
+              262,
+              886,
+              260,
+              886,
+              334,
+              556,
+              337
+            ],
+            "Text": "NAPOJE",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              917,
+              260,
+              1173,
+              257,
+              1174,
+              331,
+              916,
+              333
+            ],
+            "Text": "ZIMNE",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          205,
+          480,
+          394,
+          488,
+          395,
+          555,
+          202,
+          550
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Coca-Cola.",
+        "Words": [
+          {
+            "BoundingBox": [
+              204,
+              480,
+              395,
+              486,
+              393,
+              556,
+              202,
+              549
+            ],
+            "Text": "Coca-Cola.",
+            "Confidence": 0.988
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          463,
+          482,
+          651,
+          488,
+          651,
+          554,
+          459,
+          548
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Coca-Cola.",
+        "Words": [
+          {
+            "BoundingBox": [
+              464,
+              482,
+              649,
+              487,
+              646,
+              554,
+              462,
+              548
+            ],
+            "Text": "Coca-Cola.",
+            "Confidence": 0.636
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1160,
+          487,
+          1332,
+          484,
+          1333,
+          543,
+          1159,
+          545
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,25L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1161,
+              486,
+              1321,
+              484,
+              1322,
+              543,
+              1162,
+              545
+            ],
+            "Text": "0,25L",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1452,
+          460,
+          1504,
+          466,
+          1501,
+          550,
+          1448,
+          543
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.945
+          }
+        },
+        "Text": "7",
+        "Words": [
+          {
+            "BoundingBox": [
+              1456,
+              460,
+              1504,
+              466,
+              1494,
+              548,
+              1448,
+              542
+            ],
+            "Text": "7",
+            "Confidence": 0.969
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          223,
+          557,
+          364,
+          558,
+          364,
+          584,
+          223,
+          582
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ZERO CUKRU",
+        "Words": [
+          {
+            "BoundingBox": [
+              223,
+              557,
+              277,
+              557,
+              277,
+              582,
+              224,
+              583
+            ],
+            "Text": "ZERO",
+            "Confidence": 0.988
+          },
+          {
+            "BoundingBox": [
+              286,
+              557,
+              361,
+              560,
+              360,
+              584,
+              286,
+              582
+            ],
+            "Text": "CUKRU",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          472,
+          557,
+          639,
+          557,
+          639,
+          581,
+          472,
+          580
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ORIGINAL TASTE",
+        "Words": [
+          {
+            "BoundingBox": [
+              473,
+              558,
+              567,
+              558,
+              567,
+              580,
+              474,
+              579
+            ],
+            "Text": "ORIGINAL",
+            "Confidence": 0.992
+          },
+          {
+            "BoundingBox": [
+              574,
+              558,
+              635,
+              558,
+              634,
+              582,
+              573,
+              580
+            ],
+            "Text": "TASTE",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          227,
+          681,
+          371,
+          674,
+          372,
+          729,
+          226,
+          734
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.945
+          }
+        },
+        "Text": "FANTA",
+        "Words": [
+          {
+            "BoundingBox": [
+              226,
+              680,
+              368,
+              674,
+              371,
+              729,
+              229,
+              735
+            ],
+            "Text": "FANTA",
+            "Confidence": 0.686
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          484,
+          683,
+          667,
+          685,
+          667,
+          764,
+          479,
+          766
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Sprite",
+        "Words": [
+          {
+            "BoundingBox": [
+              479,
+              683,
+              662,
+              683,
+              662,
+              766,
+              479,
+              766
+            ],
+            "Text": "Sprite",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1171,
+          685,
+          1333,
+          684,
+          1336,
+          741,
+          1169,
+          744
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,25L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1169,
+              685,
+              1324,
+              684,
+              1324,
+              742,
+              1169,
+              744
+            ],
+            "Text": "0,25L",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1461,
+          664,
+          1514,
+          666,
+          1511,
+          757,
+          1458,
+          754
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.901
+          }
+        },
+        "Text": "7",
+        "Words": [
+          {
+            "BoundingBox": [
+              1461,
+              664,
+              1509,
+              666,
+              1505,
+              757,
+              1458,
+              754
+            ],
+            "Text": "7",
+            "Confidence": 0.927
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          211,
+          907,
+          414,
+          907,
+          414,
+          950,
+          211,
+          950
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KINLEY.",
+        "Words": [
+          {
+            "BoundingBox": [
+              213,
+              908,
+              411,
+              908,
+              413,
+              950,
+              211,
+              951
+            ],
+            "Text": "KINLEY.",
+            "Confidence": 0.797
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          485,
+          887,
+          919,
+          884,
+          919,
+          917,
+          485,
+          920
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Tonic Water, Pink Aromatic Berry,",
+        "Words": [
+          {
+            "BoundingBox": [
+              489,
+              890,
+              557,
+              888,
+              557,
+              918,
+              489,
+              920
+            ],
+            "Text": "Tonic",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              563,
+              888,
+              646,
+              887,
+              646,
+              916,
+              563,
+              918
+            ],
+            "Text": "Water,",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              652,
+              887,
+              710,
+              886,
+              710,
+              915,
+              652,
+              916
+            ],
+            "Text": "Pink",
+            "Confidence": 0.988
+          },
+          {
+            "BoundingBox": [
+              716,
+              886,
+              837,
+              885,
+              837,
+              916,
+              716,
+              915
+            ],
+            "Text": "Aromatic",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              843,
+              885,
+              919,
+              885,
+              919,
+              918,
+              843,
+              916
+            ],
+            "Text": "Berry,",
+            "Confidence": 0.886
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1173,
+          877,
+          1337,
+          873,
+          1336,
+          930,
+          1173,
+          934
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,25L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1174,
+              877,
+              1330,
+              873,
+              1332,
+              929,
+              1176,
+              933
+            ],
+            "Text": "0,25L",
+            "Confidence": 0.983
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1462,
+          859,
+          1515,
+          861,
+          1512,
+          951,
+          1460,
+          946
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "handwriting",
+            "Confidence": 0.793
+          }
+        },
+        "Text": "7",
+        "Words": [
+          {
+            "BoundingBox": [
+              1464,
+              859,
+              1510,
+              861,
+              1504,
+              950,
+              1460,
+              947
+            ],
+            "Text": "7",
+            "Confidence": 0.888
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          487,
+          920,
+          838,
+          914,
+          838,
+          945,
+          488,
+          951
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Elderflower ZERO CUKRU",
+        "Words": [
+          {
+            "BoundingBox": [
+              488,
+              921,
+              642,
+              919,
+              643,
+              948,
+              489,
+              951
+            ],
+            "Text": "Elderflower",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              648,
+              919,
+              719,
+              917,
+              719,
+              947,
+              649,
+              948
+            ],
+            "Text": "ZERO",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              732,
+              917,
+              826,
+              915,
+              825,
+              946,
+              732,
+              947
+            ],
+            "Text": "CUKRU",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          230,
+          1073,
+          405,
+          1076,
+          405,
+          1119,
+          230,
+          1118
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KROPLA",
+        "Words": [
+          {
+            "BoundingBox": [
+              233,
+              1074,
+              395,
+              1078,
+              396,
+              1119,
+              230,
+              1119
+            ],
+            "Text": "KROPLA",
+            "Confidence": 0.959
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          495,
+          1054,
+          669,
+          1058,
+          669,
+          1151,
+          494,
+          1151
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "handwriting",
+            "Confidence": 0.982
+          }
+        },
+        "Text": "belico",
+        "Words": [
+          {
+            "BoundingBox": [
+              495,
+              1054,
+              663,
+              1056,
+              662,
+              1152,
+              494,
+              1151
+            ],
+            "Text": "belico",
+            "Confidence": 0.177
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          718,
+          1077,
+          1070,
+          1071,
+          1071,
+          1098,
+          719,
+          1105
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "naturalna woda mineralna",
+        "Words": [
+          {
+            "BoundingBox": [
+              720,
+              1077,
+              847,
+              1075,
+              847,
+              1103,
+              721,
+              1106
+            ],
+            "Text": "naturalna",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              853,
+              1075,
+              928,
+              1074,
+              928,
+              1102,
+              853,
+              1103
+            ],
+            "Text": "woda",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              934,
+              1074,
+              1067,
+              1071,
+              1066,
+              1099,
+              934,
+              1102
+            ],
+            "Text": "mineralna",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1180,
+          1068,
+          1340,
+          1067,
+          1342,
+          1122,
+          1176,
+          1124
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,33L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1178,
+              1068,
+              1330,
+              1067,
+              1331,
+              1123,
+              1179,
+              1124
+            ],
+            "Text": "0,33L",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1458,
+          1039,
+          1529,
+          1040,
+          1531,
+          1141,
+          1456,
+          1142
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "6",
+        "Words": [
+          {
+            "BoundingBox": [
+              1456,
+              1039,
+              1521,
+              1039,
+              1521,
+              1142,
+              1456,
+              1142
+            ],
+            "Text": "6",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          1116,
+          393,
+          1111,
+          394,
+          1141,
+          253,
+          1143
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BESKIDU",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              1119,
+              376,
+              1112,
+              376,
+              1142,
+              254,
+              1143
+            ],
+            "Text": "BESKIDU",
+            "Confidence": 0.848
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          725,
+          1108,
+          1059,
+          1102,
+          1059,
+          1131,
+          725,
+          1136
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "niegazowana i gazowana",
+        "Words": [
+          {
+            "BoundingBox": [
+              727,
+              1109,
+              896,
+              1106,
+              895,
+              1133,
+              726,
+              1136
+            ],
+            "Text": "niegazowana",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              904,
+              1106,
+              913,
+              1106,
+              912,
+              1133,
+              903,
+              1133
+            ],
+            "Text": "i",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              919,
+              1106,
+              1054,
+              1103,
+              1053,
+              1132,
+              917,
+              1133
+            ],
+            "Text": "gazowana",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          225,
+          1271,
+          405,
+          1274,
+          404,
+          1319,
+          225,
+          1317
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KROPLA",
+        "Words": [
+          {
+            "BoundingBox": [
+              228,
+              1272,
+              399,
+              1276,
+              401,
+              1319,
+              230,
+              1319
+            ],
+            "Text": "KROPLA",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          504,
+          1250,
+          672,
+          1251,
+          675,
+          1344,
+          501,
+          1345
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "handwriting",
+            "Confidence": 0.982
+          }
+        },
+        "Text": "belico",
+        "Words": [
+          {
+            "BoundingBox": [
+              501,
+              1250,
+              666,
+              1250,
+              666,
+              1345,
+              501,
+              1345
+            ],
+            "Text": "belico",
+            "Confidence": 0.154
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          725,
+          1268,
+          1075,
+          1262,
+          1075,
+          1291,
+          726,
+          1297
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "naturalna woda mineralna",
+        "Words": [
+          {
+            "BoundingBox": [
+              726,
+              1269,
+              850,
+              1267,
+              851,
+              1295,
+              727,
+              1297
+            ],
+            "Text": "naturalna",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              856,
+              1266,
+              934,
+              1265,
+              933,
+              1294,
+              856,
+              1295
+            ],
+            "Text": "woda",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              940,
+              1265,
+              1072,
+              1263,
+              1070,
+              1292,
+              939,
+              1294
+            ],
+            "Text": "mineralna",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1181,
+          1260,
+          1343,
+          1255,
+          1344,
+          1313,
+          1180,
+          1315
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,75L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1182,
+              1258,
+              1335,
+              1255,
+              1337,
+              1313,
+              1183,
+              1316
+            ],
+            "Text": "0,75L",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1465,
+          1229,
+          1536,
+          1231,
+          1532,
+          1332,
+          1460,
+          1331
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "6",
+        "Words": [
+          {
+            "BoundingBox": [
+              1462,
+              1229,
+              1527,
+              1230,
+              1524,
+              1332,
+              1460,
+              1330
+            ],
+            "Text": "6",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          244,
+          1309,
+          401,
+          1302,
+          402,
+          1336,
+          245,
+          1341
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BESKIDU",
+        "Words": [
+          {
+            "BoundingBox": [
+              252,
+              1313,
+              380,
+              1304,
+              381,
+              1338,
+              253,
+              1341
+            ],
+            "Text": "BESKIDU",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          727,
+          1300,
+          1066,
+          1294,
+          1067,
+          1323,
+          727,
+          1328
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "niegazowana i gazowana",
+        "Words": [
+          {
+            "BoundingBox": [
+              727,
+              1302,
+              900,
+              1298,
+              900,
+              1325,
+              729,
+              1328
+            ],
+            "Text": "niegazowana",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              908,
+              1298,
+              919,
+              1298,
+              918,
+              1325,
+              908,
+              1325
+            ],
+            "Text": "i",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              924,
+              1297,
+              1061,
+              1295,
+              1059,
+              1324,
+              924,
+              1325
+            ],
+            "Text": "gazowana",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          251,
+          1447,
+          395,
+          1446,
+          396,
+          1507,
+          251,
+          1511
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "fuze",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              1447,
+              391,
+              1446,
+              392,
+              1508,
+              254,
+              1510
+            ],
+            "Text": "fuze",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          253,
+          1478,
+          375,
+          1483,
+          373,
+          1541,
+          252,
+          1539
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "tea\u00AE",
+        "Words": [
+          {
+            "BoundingBox": [
+              256,
+              1478,
+              375,
+              1481,
+              373,
+              1542,
+              254,
+              1539
+            ],
+            "Text": "tea\u00AE",
+            "Confidence": 0.34
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          504,
+          1461,
+          736,
+          1460,
+          736,
+          1489,
+          504,
+          1491
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "O smaku Cytryny",
+        "Words": [
+          {
+            "BoundingBox": [
+              505,
+              1463,
+              521,
+              1462,
+              521,
+              1492,
+              505,
+              1492
+            ],
+            "Text": "O",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              530,
+              1462,
+              621,
+              1460,
+              620,
+              1491,
+              529,
+              1492
+            ],
+            "Text": "smaku",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              630,
+              1460,
+              736,
+              1461,
+              733,
+              1489,
+              628,
+              1491
+            ],
+            "Text": "Cytryny",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1186,
+          1450,
+          1352,
+          1446,
+          1354,
+          1502,
+          1185,
+          1506
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,25L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1186,
+              1449,
+              1345,
+              1446,
+              1346,
+              1502,
+              1188,
+              1506
+            ],
+            "Text": "0,25L",
+            "Confidence": 0.955
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1481,
+          1425,
+          1534,
+          1427,
+          1527,
+          1517,
+          1476,
+          1513
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.726
+          }
+        },
+        "Text": "7",
+        "Words": [
+          {
+            "BoundingBox": [
+              1483,
+              1425,
+              1529,
+              1427,
+              1524,
+              1516,
+              1477,
+              1514
+            ],
+            "Text": "7",
+            "Confidence": 0.606
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          505,
+          1492,
+          931,
+          1483,
+          932,
+          1513,
+          506,
+          1522
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "O smaku Brzoskwini i Hibiskusa",
+        "Words": [
+          {
+            "BoundingBox": [
+              506,
+              1494,
+              522,
+              1493,
+              522,
+              1521,
+              506,
+              1521
+            ],
+            "Text": "O",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              530,
+              1493,
+              620,
+              1492,
+              620,
+              1520,
+              530,
+              1521
+            ],
+            "Text": "smaku",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              630,
+              1492,
+              778,
+              1488,
+              778,
+              1517,
+              630,
+              1520
+            ],
+            "Text": "Brzoskwini",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              783,
+              1488,
+              793,
+              1488,
+              793,
+              1517,
+              783,
+              1517
+            ],
+            "Text": "i",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              799,
+              1488,
+              931,
+              1483,
+              930,
+              1513,
+              798,
+              1517
+            ],
+            "Text": "Hibiskusa",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          275,
+          1687,
+          374,
+          1687,
+          373,
+          1721,
+          275,
+          1720
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Cappy",
+        "Words": [
+          {
+            "BoundingBox": [
+              275,
+              1687,
+              368,
+              1688,
+              367,
+              1721,
+              275,
+              1720
+            ],
+            "Text": "Cappy",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          496,
+          1658,
+          845,
+          1651,
+          846,
+          1680,
+          497,
+          1691
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "pomara\u0144czowy, jab\u0142kowy,",
+        "Words": [
+          {
+            "BoundingBox": [
+              498,
+              1662,
+              709,
+              1653,
+              709,
+              1683,
+              499,
+              1691
+            ],
+            "Text": "pomara\u0144czowy,",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              715,
+              1653,
+              845,
+              1651,
+              844,
+              1682,
+              715,
+              1683
+            ],
+            "Text": "jab\u0142kowy,",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1192,
+          1644,
+          1363,
+          1640,
+          1364,
+          1696,
+          1192,
+          1699
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,25L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1194,
+              1645,
+              1351,
+              1641,
+              1352,
+              1698,
+              1193,
+              1699
+            ],
+            "Text": "0,25L",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1482,
+          1628,
+          1551,
+          1629,
+          1547,
+          1731,
+          1476,
+          1731
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "7",
+        "Words": [
+          {
+            "BoundingBox": [
+              1476,
+              1628,
+              1534,
+              1628,
+              1534,
+              1731,
+              1476,
+              1730
+            ],
+            "Text": "7",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          500,
+          1691,
+          883,
+          1681,
+          884,
+          1711,
+          501,
+          1721
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "multiwitamina, grejpfrutowy",
+        "Words": [
+          {
+            "BoundingBox": [
+              501,
+              1692,
+              702,
+              1686,
+              702,
+              1715,
+              502,
+              1721
+            ],
+            "Text": "multiwitamina,",
+            "Confidence": 0.986
+          },
+          {
+            "BoundingBox": [
+              708,
+              1686,
+              882,
+              1682,
+              881,
+              1712,
+              707,
+              1715
+            ],
+            "Text": "grejpfrutowy",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          235,
+          1872,
+          413,
+          1867,
+          414,
+          1918,
+          235,
+          1922
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BURN\u0027",
+        "Words": [
+          {
+            "BoundingBox": [
+              237,
+              1874,
+              411,
+              1867,
+              412,
+              1920,
+              236,
+              1922
+            ],
+            "Text": "BURN\u0027",
+            "Confidence": 0.656
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1482,
+          1815,
+          1555,
+          1814,
+          1555,
+          1918,
+          1480,
+          1920
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "8",
+        "Words": [
+          {
+            "BoundingBox": [
+              1483,
+              1815,
+              1544,
+              1814,
+              1546,
+              1918,
+              1485,
+              1919
+            ],
+            "Text": "8",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          496,
+          1873,
+          798,
+          1862,
+          799,
+          1900,
+          496,
+          1908
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "nap\u00F3j energetyzuj\u0105cy",
+        "Words": [
+          {
+            "BoundingBox": [
+              500,
+              1875,
+              578,
+              1873,
+              579,
+              1905,
+              500,
+              1908
+            ],
+            "Text": "nap\u00F3j",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              585,
+              1873,
+              796,
+              1863,
+              797,
+              1901,
+              585,
+              1905
+            ],
+            "Text": "energetyzuj\u0105cy",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1199,
+          1841,
+          1369,
+          1835,
+          1370,
+          1892,
+          1199,
+          1898
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "0,25L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1200,
+              1840,
+              1358,
+              1835,
+              1360,
+              1891,
+              1202,
+              1897
+            ],
+            "Text": "0,25L",
+            "Confidence": 0.969
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          275,
+          1915,
+          376,
+          1913,
+          377,
+          1934,
+          275,
+          1937
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "NERGY DRINK",
+        "Words": [
+          {
+            "BoundingBox": [
+              275,
+              1919,
+              320,
+              1914,
+              320,
+              1934,
+              276,
+              1937
+            ],
+            "Text": "NERGY",
+            "Confidence": 0.885
+          },
+          {
+            "BoundingBox": [
+              324,
+              1914,
+              370,
+              1915,
+              369,
+              1935,
+              324,
+              1933
+            ],
+            "Text": "DRINK",
+            "Confidence": 0.907
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          459,
+          2059,
+          1165,
+          2039,
+          1166,
+          2092,
+          460,
+          2111
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Polecamy do ka\u017Cdego posi\u0142ku",
+        "Words": [
+          {
+            "BoundingBox": [
+              459,
+              2063,
+              683,
+              2053,
+              684,
+              2107,
+              460,
+              2111
+            ],
+            "Text": "Polecamy",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              694,
+              2053,
+              760,
+              2050,
+              760,
+              2106,
+              695,
+              2107
+            ],
+            "Text": "do",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              771,
+              2050,
+              974,
+              2044,
+              975,
+              2099,
+              772,
+              2105
+            ],
+            "Text": "ka\u017Cdego",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              985,
+              2044,
+              1160,
+              2040,
+              1161,
+              2093,
+              986,
+              2099
+            ],
+            "Text": "posi\u0142ku",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          464,
+          2123,
+          998,
+          2124,
+          997,
+          2194,
+          464,
+          2193
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CocaCola. 0,25L w cenie",
+        "Words": [
+          {
+            "BoundingBox": [
+              465,
+              2124,
+              652,
+              2124,
+              652,
+              2194,
+              466,
+              2194
+            ],
+            "Text": "CocaCola.",
+            "Confidence": 0.802
+          },
+          {
+            "BoundingBox": [
+              665,
+              2124,
+              793,
+              2127,
+              792,
+              2193,
+              665,
+              2194
+            ],
+            "Text": "0,25L",
+            "Confidence": 0.814
+          },
+          {
+            "BoundingBox": [
+              806,
+              2127,
+              843,
+              2128,
+              842,
+              2191,
+              805,
+              2192
+            ],
+            "Text": "w",
+            "Confidence": 0.938
+          },
+          {
+            "BoundingBox": [
+              861,
+              2129,
+              995,
+              2133,
+              993,
+              2186,
+              860,
+              2191
+            ],
+            "Text": "cenie",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1054,
+          2116,
+          1142,
+          2115,
+          1138,
+          2233,
+          1047,
+          2233
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "7",
+        "Words": [
+          {
+            "BoundingBox": [
+              1052,
+              2115,
+              1121,
+              2115,
+              1122,
+              2233,
+              1053,
+              2233
+            ],
+            "Text": "7",
+            "Confidence": 0.814
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          480,
+          2196,
+          634,
+          2192,
+          635,
+          2222,
+          481,
+          2227
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ZERO CUKRU",
+        "Words": [
+          {
+            "BoundingBox": [
+              480,
+              2197,
+              539,
+              2195,
+              541,
+              2225,
+              483,
+              2228
+            ],
+            "Text": "ZERO",
+            "Confidence": 0.982
+          },
+          {
+            "BoundingBox": [
+              545,
+              2194,
+              627,
+              2192,
+              627,
+              2223,
+              547,
+              2225
+            ],
+            "Text": "CUKRU",
+            "Confidence": 0.979
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          140,
+          2319,
+          971,
+          2291,
+          972,
+          2316,
+          141,
+          2349
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "2024 The Coca-Cola Company KINLEY jest zastrzonym znakiem towarowym The Coca-Cola Company",
+        "Words": [
+          {
+            "BoundingBox": [
+              147,
+              2323,
+              189,
+              2320,
+              190,
+              2347,
+              148,
+              2349
+            ],
+            "Text": "2024",
+            "Confidence": 0.936
+          },
+          {
+            "BoundingBox": [
+              194,
+              2320,
+              221,
+              2319,
+              222,
+              2346,
+              196,
+              2347
+            ],
+            "Text": "The",
+            "Confidence": 0.958
+          },
+          {
+            "BoundingBox": [
+              226,
+              2319,
+              309,
+              2314,
+              310,
+              2342,
+              227,
+              2346
+            ],
+            "Text": "Coca-Cola",
+            "Confidence": 0.686
+          },
+          {
+            "BoundingBox": [
+              314,
+              2314,
+              390,
+              2310,
+              390,
+              2339,
+              315,
+              2342
+            ],
+            "Text": "Company",
+            "Confidence": 0.694
+          },
+          {
+            "BoundingBox": [
+              395,
+              2310,
+              455,
+              2308,
+              455,
+              2336,
+              396,
+              2338
+            ],
+            "Text": "KINLEY",
+            "Confidence": 0.795
+          },
+          {
+            "BoundingBox": [
+              460,
+              2307,
+              489,
+              2306,
+              489,
+              2334,
+              461,
+              2336
+            ],
+            "Text": "jest",
+            "Confidence": 0.618
+          },
+          {
+            "BoundingBox": [
+              494,
+              2306,
+              601,
+              2302,
+              601,
+              2330,
+              494,
+              2334
+            ],
+            "Text": "zastrzonym",
+            "Confidence": 0.618
+          },
+          {
+            "BoundingBox": [
+              607,
+              2302,
+              670,
+              2300,
+              670,
+              2327,
+              606,
+              2330
+            ],
+            "Text": "znakiem",
+            "Confidence": 0.807
+          },
+          {
+            "BoundingBox": [
+              675,
+              2299,
+              768,
+              2297,
+              768,
+              2323,
+              675,
+              2327
+            ],
+            "Text": "towarowym",
+            "Confidence": 0.907
+          },
+          {
+            "BoundingBox": [
+              774,
+              2296,
+              801,
+              2296,
+              800,
+              2322,
+              773,
+              2323
+            ],
+            "Text": "The",
+            "Confidence": 0.949
+          },
+          {
+            "BoundingBox": [
+              806,
+              2296,
+              885,
+              2294,
+              884,
+              2319,
+              805,
+              2322
+            ],
+            "Text": "Coca-Cola",
+            "Confidence": 0.616
+          },
+          {
+            "BoundingBox": [
+              891,
+              2293,
+              970,
+              2292,
+              969,
+              2316,
+              889,
+              2319
+            ],
+            "Text": "Company",
+            "Confidence": 0.62
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          127,
+          2347,
+          1485,
+          2304,
+          1486,
+          2330,
+          127,
+          2377
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "COM DP Beverages UC FUZE TEA jest zeit antonym znakem lowrowym DP Beverages (C. Nacoe herbacane na bane ekstraktu \u010D herbaty Zawarto\u015B\u0107 soka owocowego",
+        "Words": [
+          {
+            "BoundingBox": [
+              137,
+              2350,
+              188,
+              2348,
+              188,
+              2375,
+              137,
+              2377
+            ],
+            "Text": "COM",
+            "Confidence": 0.033
+          },
+          {
+            "BoundingBox": [
+              193,
+              2348,
+              217,
+              2347,
+              217,
+              2374,
+              193,
+              2375
+            ],
+            "Text": "DP",
+            "Confidence": 0.377
+          },
+          {
+            "BoundingBox": [
+              222,
+              2346,
+              303,
+              2343,
+              302,
+              2369,
+              221,
+              2373
+            ],
+            "Text": "Beverages",
+            "Confidence": 0.249
+          },
+          {
+            "BoundingBox": [
+              307,
+              2343,
+              334,
+              2342,
+              334,
+              2368,
+              307,
+              2369
+            ],
+            "Text": "UC",
+            "Confidence": 0.955
+          },
+          {
+            "BoundingBox": [
+              339,
+              2342,
+              382,
+              2340,
+              382,
+              2366,
+              339,
+              2368
+            ],
+            "Text": "FUZE",
+            "Confidence": 0.293
+          },
+          {
+            "BoundingBox": [
+              387,
+              2340,
+              415,
+              2339,
+              415,
+              2364,
+              387,
+              2366
+            ],
+            "Text": "TEA",
+            "Confidence": 0.886
+          },
+          {
+            "BoundingBox": [
+              420,
+              2338,
+              448,
+              2337,
+              448,
+              2363,
+              420,
+              2364
+            ],
+            "Text": "jest",
+            "Confidence": 0.537
+          },
+          {
+            "BoundingBox": [
+              453,
+              2337,
+              488,
+              2336,
+              487,
+              2361,
+              453,
+              2363
+            ],
+            "Text": "zeit",
+            "Confidence": 0.05
+          },
+          {
+            "BoundingBox": [
+              493,
+              2336,
+              558,
+              2333,
+              558,
+              2358,
+              492,
+              2361
+            ],
+            "Text": "antonym",
+            "Confidence": 0.381
+          },
+          {
+            "BoundingBox": [
+              564,
+              2333,
+              628,
+              2331,
+              627,
+              2355,
+              563,
+              2358
+            ],
+            "Text": "znakem",
+            "Confidence": 0.051
+          },
+          {
+            "BoundingBox": [
+              633,
+              2330,
+              722,
+              2327,
+              722,
+              2352,
+              633,
+              2355
+            ],
+            "Text": "lowrowym",
+            "Confidence": 0.633
+          },
+          {
+            "BoundingBox": [
+              727,
+              2327,
+              749,
+              2326,
+              748,
+              2351,
+              727,
+              2352
+            ],
+            "Text": "DP",
+            "Confidence": 0.19
+          },
+          {
+            "BoundingBox": [
+              754,
+              2326,
+              835,
+              2323,
+              834,
+              2348,
+              753,
+              2351
+            ],
+            "Text": "Beverages",
+            "Confidence": 0.668
+          },
+          {
+            "BoundingBox": [
+              840,
+              2323,
+              866,
+              2322,
+              866,
+              2347,
+              839,
+              2348
+            ],
+            "Text": "(C.",
+            "Confidence": 0.397
+          },
+          {
+            "BoundingBox": [
+              871,
+              2322,
+              926,
+              2320,
+              925,
+              2345,
+              871,
+              2346
+            ],
+            "Text": "Nacoe",
+            "Confidence": 0.041
+          },
+          {
+            "BoundingBox": [
+              931,
+              2320,
+              1017,
+              2317,
+              1016,
+              2342,
+              930,
+              2344
+            ],
+            "Text": "herbacane",
+            "Confidence": 0.18
+          },
+          {
+            "BoundingBox": [
+              1022,
+              2317,
+              1040,
+              2317,
+              1039,
+              2341,
+              1021,
+              2342
+            ],
+            "Text": "na",
+            "Confidence": 0.855
+          },
+          {
+            "BoundingBox": [
+              1045,
+              2317,
+              1086,
+              2315,
+              1086,
+              2340,
+              1044,
+              2341
+            ],
+            "Text": "bane",
+            "Confidence": 0.647
+          },
+          {
+            "BoundingBox": [
+              1091,
+              2315,
+              1162,
+              2313,
+              1162,
+              2337,
+              1090,
+              2339
+            ],
+            "Text": "ekstraktu",
+            "Confidence": 0.163
+          },
+          {
+            "BoundingBox": [
+              1167,
+              2313,
+              1174,
+              2313,
+              1173,
+              2337,
+              1166,
+              2337
+            ],
+            "Text": "\u010D",
+            "Confidence": 0.001
+          },
+          {
+            "BoundingBox": [
+              1179,
+              2313,
+              1240,
+              2311,
+              1239,
+              2335,
+              1178,
+              2337
+            ],
+            "Text": "herbaty",
+            "Confidence": 0.305
+          },
+          {
+            "BoundingBox": [
+              1245,
+              2311,
+              1324,
+              2309,
+              1323,
+              2333,
+              1244,
+              2335
+            ],
+            "Text": "Zawarto\u015B\u0107",
+            "Confidence": 0.114
+          },
+          {
+            "BoundingBox": [
+              1329,
+              2308,
+              1366,
+              2308,
+              1365,
+              2332,
+              1328,
+              2333
+            ],
+            "Text": "soka",
+            "Confidence": 0.633
+          },
+          {
+            "BoundingBox": [
+              1371,
+              2307,
+              1471,
+              2305,
+              1470,
+              2330,
+              1370,
+              2332
+            ],
+            "Text": "owocowego",
+            "Confidence": 0.129
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          135,
+          2371,
+          1684,
+          2318,
+          1685,
+          2346,
+          136,
+          2398
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Aby uzyska\u0107 wi\u0119cej n\u0142ommacj na temat wk\u0142adfhk\u00F3w : www\u0142o\u015B\u0107 od\u017Cywczych naszych prockat\u00F3w w tym wszelkich ezope skich waruntow zgonwhych (kwved\u017C stron\u0119 coca-cola pijnatze mankitzze tes",
+        "Words": [
+          {
+            "BoundingBox": [
+              135,
+              2374,
+              165,
+              2373,
+              166,
+              2397,
+              137,
+              2398
+            ],
+            "Text": "Aby",
+            "Confidence": 0.27
+          },
+          {
+            "BoundingBox": [
+              169,
+              2373,
+              230,
+              2371,
+              232,
+              2394,
+              171,
+              2397
+            ],
+            "Text": "uzyska\u0107",
+            "Confidence": 0.198
+          },
+          {
+            "BoundingBox": [
+              235,
+              2370,
+              286,
+              2368,
+              288,
+              2391,
+              236,
+              2394
+            ],
+            "Text": "wi\u0119cej",
+            "Confidence": 0.255
+          },
+          {
+            "BoundingBox": [
+              291,
+              2368,
+              364,
+              2365,
+              366,
+              2388,
+              293,
+              2391
+            ],
+            "Text": "n\u0142ommacj",
+            "Confidence": 0.399
+          },
+          {
+            "BoundingBox": [
+              369,
+              2365,
+              389,
+              2364,
+              391,
+              2387,
+              371,
+              2388
+            ],
+            "Text": "na",
+            "Confidence": 0.612
+          },
+          {
+            "BoundingBox": [
+              394,
+              2364,
+              441,
+              2362,
+              442,
+              2385,
+              396,
+              2387
+            ],
+            "Text": "temat",
+            "Confidence": 0.663
+          },
+          {
+            "BoundingBox": [
+              445,
+              2362,
+              531,
+              2359,
+              533,
+              2381,
+              447,
+              2384
+            ],
+            "Text": "wk\u0142adfhk\u00F3w",
+            "Confidence": 0.042
+          },
+          {
+            "BoundingBox": [
+              536,
+              2359,
+              540,
+              2358,
+              542,
+              2380,
+              537,
+              2381
+            ],
+            "Text": ":",
+            "Confidence": 0.002
+          },
+          {
+            "BoundingBox": [
+              545,
+              2358,
+              611,
+              2356,
+              612,
+              2378,
+              547,
+              2380
+            ],
+            "Text": "www\u0142o\u015B\u0107",
+            "Confidence": 0.001
+          },
+          {
+            "BoundingBox": [
+              615,
+              2355,
+              709,
+              2352,
+              711,
+              2374,
+              617,
+              2377
+            ],
+            "Text": "od\u017Cywczych",
+            "Confidence": 0.464
+          },
+          {
+            "BoundingBox": [
+              714,
+              2352,
+              776,
+              2349,
+              778,
+              2371,
+              715,
+              2374
+            ],
+            "Text": "naszych",
+            "Confidence": 0.266
+          },
+          {
+            "BoundingBox": [
+              781,
+              2349,
+              864,
+              2346,
+              866,
+              2368,
+              782,
+              2371
+            ],
+            "Text": "prockat\u00F3w",
+            "Confidence": 0.507
+          },
+          {
+            "BoundingBox": [
+              871,
+              2346,
+              884,
+              2346,
+              885,
+              2368,
+              873,
+              2368
+            ],
+            "Text": "w",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              888,
+              2345,
+              916,
+              2344,
+              918,
+              2367,
+              890,
+              2368
+            ],
+            "Text": "tym",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              923,
+              2344,
+              996,
+              2342,
+              997,
+              2364,
+              924,
+              2366
+            ],
+            "Text": "wszelkich",
+            "Confidence": 0.086
+          },
+          {
+            "BoundingBox": [
+              1000,
+              2341,
+              1055,
+              2339,
+              1057,
+              2362,
+              1002,
+              2364
+            ],
+            "Text": "ezope",
+            "Confidence": 0.198
+          },
+          {
+            "BoundingBox": [
+              1060,
+              2339,
+              1097,
+              2338,
+              1099,
+              2361,
+              1061,
+              2362
+            ],
+            "Text": "skich",
+            "Confidence": 0.285
+          },
+          {
+            "BoundingBox": [
+              1102,
+              2338,
+              1181,
+              2335,
+              1183,
+              2359,
+              1104,
+              2361
+            ],
+            "Text": "waruntow",
+            "Confidence": 0.46
+          },
+          {
+            "BoundingBox": [
+              1186,
+              2335,
+              1287,
+              2332,
+              1289,
+              2356,
+              1188,
+              2358
+            ],
+            "Text": "zgonwhych",
+            "Confidence": 0.084
+          },
+          {
+            "BoundingBox": [
+              1292,
+              2331,
+              1358,
+              2329,
+              1359,
+              2354,
+              1294,
+              2356
+            ],
+            "Text": "(kwved\u017C",
+            "Confidence": 0.007
+          },
+          {
+            "BoundingBox": [
+              1362,
+              2329,
+              1414,
+              2327,
+              1415,
+              2352,
+              1364,
+              2354
+            ],
+            "Text": "stron\u0119",
+            "Confidence": 0.256
+          },
+          {
+            "BoundingBox": [
+              1418,
+              2327,
+              1489,
+              2325,
+              1490,
+              2351,
+              1420,
+              2352
+            ],
+            "Text": "coca-cola",
+            "Confidence": 0.113
+          },
+          {
+            "BoundingBox": [
+              1493,
+              2325,
+              1559,
+              2323,
+              1561,
+              2349,
+              1495,
+              2351
+            ],
+            "Text": "pijnatze",
+            "Confidence": 0.029
+          },
+          {
+            "BoundingBox": [
+              1564,
+              2323,
+              1643,
+              2320,
+              1645,
+              2348,
+              1565,
+              2349
+            ],
+            "Text": "mankitzze",
+            "Confidence": 0.111
+          },
+          {
+            "BoundingBox": [
+              1648,
+              2320,
+              1679,
+              2319,
+              1680,
+              2347,
+              1649,
+              2347
+            ],
+            "Text": "tes",
+            "Confidence": 0.21
+          }
+        ]
+      }
+    ]
+  }
+]

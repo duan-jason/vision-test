@@ -1,1 +1,712 @@
-[{"Page":1,"Language":null,"Angle":2.2517,"Width":1388,"Height":1659,"Unit":0,"Lines":[{"Language":null,"BoundingBox":[469,259,863,251,865,355,469,365],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Hugo Spritz","Words":[{"BoundingBox":[470,260,628,257,629,363,470,366],"Text":"Hugo","Confidence":0.989},{"BoundingBox":[649,256,859,252,862,356,650,362],"Text":"Spritz","Confidence":0.997}]},{"Language":null,"BoundingBox":[490,428,829,424,830,486,490,491],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CINZANO PROSECCO,","Words":[{"BoundingBox":[492,428,627,427,626,490,491,491],"Text":"CINZANO","Confidence":0.996},{"BoundingBox":[639,427,830,424,831,487,639,490],"Text":"PROSECCO,","Confidence":0.993}]},{"Language":null,"BoundingBox":[368,497,960,491,960,545,368,549],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KINLEY ELDERFLOWER ZERO CUKRU,","Words":[{"BoundingBox":[370,503,472,499,472,549,369,549],"Text":"KINLEY","Confidence":0.997},{"BoundingBox":[483,499,715,494,714,549,482,549],"Text":"ELDERFLOWER","Confidence":0.994},{"BoundingBox":[725,494,811,493,811,548,725,549],"Text":"ZERO","Confidence":0.989},{"BoundingBox":[822,493,958,492,958,546,822,548],"Text":"CUKRU,","Confidence":0.995}]},{"Language":null,"BoundingBox":[571,560,735,562,734,611,570,608],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"LIMONKA,","Words":[{"BoundingBox":[572,561,732,563,733,612,571,609],"Text":"LIMONKA,","Confidence":0.995}]},{"Language":null,"BoundingBox":[603,626,703,628,703,670,602,666],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"MIETA","Words":[{"BoundingBox":[603,626,702,628,701,670,602,667],"Text":"MIETA","Confidence":0.993}]},{"Language":null,"BoundingBox":[252,800,251,669,276,669,278,800],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CINZANO","Words":[{"BoundingBox":[253,794,251,677,277,676,278,794],"Text":"CINZANO","Confidence":0.994}]},{"Language":null,"BoundingBox":[648,958,864,959,864,998,648,997],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KINLEY","Words":[{"BoundingBox":[649,959,851,959,851,999,648,998],"Text":"KINLEY","Confidence":0.941}]},{"Language":null,"BoundingBox":[404,1188,519,1192,518,1216,404,1211],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KINLEY","Words":[{"BoundingBox":[405,1188,511,1193,511,1216,404,1212],"Text":"KINLEY","Confidence":0.997}]},{"Language":null,"BoundingBox":[413,1229,509,1233,508,1244,413,1240],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"ELDERFLOWER","Words":[{"BoundingBox":[414,1230,506,1233,505,1245,413,1241],"Text":"ELDERFLOWER","Confidence":0.696}]},{"Language":null,"BoundingBox":[853,1260,1043,1275,1031,1388,850,1373],"Appearance":{"Style":{"Name":"handwriting","Confidence":0.68}},"Text":"28","Words":[{"BoundingBox":[885,1262,1033,1274,1024,1387,876,1375],"Text":"28","Confidence":0.997}]},{"Language":null,"BoundingBox":[222,1266,323,1270,323,1291,221,1287],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CINZANO","Words":[{"BoundingBox":[222,1267,323,1271,322,1292,222,1287],"Text":"CINZANO","Confidence":0.171}]},{"Language":null,"BoundingBox":[244,1301,324,1306,323,1321,243,1315],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"PROSECCO","Words":[{"BoundingBox":[244,1302,314,1306,312,1321,244,1316],"Text":"PROSECCO","Confidence":0.57}]},{"Language":null,"BoundingBox":[1026,1354,1065,1356,1061,1406,1021,1403],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"z\u0142","Words":[{"BoundingBox":[1027,1354,1064,1356,1061,1406,1023,1403],"Text":"z\u0142","Confidence":0.902}]},{"Language":null,"BoundingBox":[139,1514,1134,1562,1133,1593,138,1545],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"SPRITE oraz KINLEY s\u0105 zastrze\u017Conymi znakamr towarowymi The Coca-cola Company.","Words":[{"BoundingBox":[156,1515,234,1520,229,1548,152,1546],"Text":"SPRITE","Confidence":0.235},{"BoundingBox":[240,1520,286,1523,281,1550,235,1548],"Text":"oraz","Confidence":0.62},{"BoundingBox":[291,1523,376,1528,371,1553,286,1550],"Text":"KINLEY","Confidence":0.634},{"BoundingBox":[381,1528,408,1529,403,1554,377,1553],"Text":"s\u0105","Confidence":0.097},{"BoundingBox":[413,1530,576,1538,571,1561,408,1554],"Text":"zastrze\u017Conymi","Confidence":0.662},{"BoundingBox":[581,1538,677,1543,672,1566,576,1562],"Text":"znakamr","Confidence":0.67},{"BoundingBox":[682,1543,831,1550,826,1575,677,1567],"Text":"towarowymi","Confidence":0.849},{"BoundingBox":[836,1550,880,1552,875,1578,831,1575],"Text":"The","Confidence":0.883},{"BoundingBox":[886,1553,1006,1558,1001,1586,881,1578],"Text":"Coca-cola","Confidence":0.622},{"BoundingBox":[1011,1558,1134,1563,1129,1594,1006,1586],"Text":"Company.","Confidence":0.846}]}]}]
+[
+  {
+    "Page": 1,
+    "Language": null,
+    "Angle": 2.2517,
+    "Width": 1388,
+    "Height": 1659,
+    "Unit": 0,
+    "Lines": [
+      {
+        "Language": null,
+        "BoundingBox": [
+          469,
+          259,
+          863,
+          251,
+          865,
+          355,
+          469,
+          365
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Hugo Spritz",
+        "Words": [
+          {
+            "BoundingBox": [
+              470,
+              260,
+              628,
+              257,
+              629,
+              363,
+              470,
+              366
+            ],
+            "Text": "Hugo",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              649,
+              256,
+              859,
+              252,
+              862,
+              356,
+              650,
+              362
+            ],
+            "Text": "Spritz",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          490,
+          428,
+          829,
+          424,
+          830,
+          486,
+          490,
+          491
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CINZANO PROSECCO,",
+        "Words": [
+          {
+            "BoundingBox": [
+              492,
+              428,
+              627,
+              427,
+              626,
+              490,
+              491,
+              491
+            ],
+            "Text": "CINZANO",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              639,
+              427,
+              830,
+              424,
+              831,
+              487,
+              639,
+              490
+            ],
+            "Text": "PROSECCO,",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          368,
+          497,
+          960,
+          491,
+          960,
+          545,
+          368,
+          549
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KINLEY ELDERFLOWER ZERO CUKRU,",
+        "Words": [
+          {
+            "BoundingBox": [
+              370,
+              503,
+              472,
+              499,
+              472,
+              549,
+              369,
+              549
+            ],
+            "Text": "KINLEY",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              483,
+              499,
+              715,
+              494,
+              714,
+              549,
+              482,
+              549
+            ],
+            "Text": "ELDERFLOWER",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              725,
+              494,
+              811,
+              493,
+              811,
+              548,
+              725,
+              549
+            ],
+            "Text": "ZERO",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              822,
+              493,
+              958,
+              492,
+              958,
+              546,
+              822,
+              548
+            ],
+            "Text": "CUKRU,",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          571,
+          560,
+          735,
+          562,
+          734,
+          611,
+          570,
+          608
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "LIMONKA,",
+        "Words": [
+          {
+            "BoundingBox": [
+              572,
+              561,
+              732,
+              563,
+              733,
+              612,
+              571,
+              609
+            ],
+            "Text": "LIMONKA,",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          603,
+          626,
+          703,
+          628,
+          703,
+          670,
+          602,
+          666
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "MIETA",
+        "Words": [
+          {
+            "BoundingBox": [
+              603,
+              626,
+              702,
+              628,
+              701,
+              670,
+              602,
+              667
+            ],
+            "Text": "MIETA",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          252,
+          800,
+          251,
+          669,
+          276,
+          669,
+          278,
+          800
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CINZANO",
+        "Words": [
+          {
+            "BoundingBox": [
+              253,
+              794,
+              251,
+              677,
+              277,
+              676,
+              278,
+              794
+            ],
+            "Text": "CINZANO",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          648,
+          958,
+          864,
+          959,
+          864,
+          998,
+          648,
+          997
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KINLEY",
+        "Words": [
+          {
+            "BoundingBox": [
+              649,
+              959,
+              851,
+              959,
+              851,
+              999,
+              648,
+              998
+            ],
+            "Text": "KINLEY",
+            "Confidence": 0.941
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          404,
+          1188,
+          519,
+          1192,
+          518,
+          1216,
+          404,
+          1211
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KINLEY",
+        "Words": [
+          {
+            "BoundingBox": [
+              405,
+              1188,
+              511,
+              1193,
+              511,
+              1216,
+              404,
+              1212
+            ],
+            "Text": "KINLEY",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          413,
+          1229,
+          509,
+          1233,
+          508,
+          1244,
+          413,
+          1240
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ELDERFLOWER",
+        "Words": [
+          {
+            "BoundingBox": [
+              414,
+              1230,
+              506,
+              1233,
+              505,
+              1245,
+              413,
+              1241
+            ],
+            "Text": "ELDERFLOWER",
+            "Confidence": 0.696
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          853,
+          1260,
+          1043,
+          1275,
+          1031,
+          1388,
+          850,
+          1373
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "handwriting",
+            "Confidence": 0.68
+          }
+        },
+        "Text": "28",
+        "Words": [
+          {
+            "BoundingBox": [
+              885,
+              1262,
+              1033,
+              1274,
+              1024,
+              1387,
+              876,
+              1375
+            ],
+            "Text": "28",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          222,
+          1266,
+          323,
+          1270,
+          323,
+          1291,
+          221,
+          1287
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CINZANO",
+        "Words": [
+          {
+            "BoundingBox": [
+              222,
+              1267,
+              323,
+              1271,
+              322,
+              1292,
+              222,
+              1287
+            ],
+            "Text": "CINZANO",
+            "Confidence": 0.171
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          244,
+          1301,
+          324,
+          1306,
+          323,
+          1321,
+          243,
+          1315
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PROSECCO",
+        "Words": [
+          {
+            "BoundingBox": [
+              244,
+              1302,
+              314,
+              1306,
+              312,
+              1321,
+              244,
+              1316
+            ],
+            "Text": "PROSECCO",
+            "Confidence": 0.57
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1026,
+          1354,
+          1065,
+          1356,
+          1061,
+          1406,
+          1021,
+          1403
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "z\u0142",
+        "Words": [
+          {
+            "BoundingBox": [
+              1027,
+              1354,
+              1064,
+              1356,
+              1061,
+              1406,
+              1023,
+              1403
+            ],
+            "Text": "z\u0142",
+            "Confidence": 0.902
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          139,
+          1514,
+          1134,
+          1562,
+          1133,
+          1593,
+          138,
+          1545
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "SPRITE oraz KINLEY s\u0105 zastrze\u017Conymi znakamr towarowymi The Coca-cola Company.",
+        "Words": [
+          {
+            "BoundingBox": [
+              156,
+              1515,
+              234,
+              1520,
+              229,
+              1548,
+              152,
+              1546
+            ],
+            "Text": "SPRITE",
+            "Confidence": 0.235
+          },
+          {
+            "BoundingBox": [
+              240,
+              1520,
+              286,
+              1523,
+              281,
+              1550,
+              235,
+              1548
+            ],
+            "Text": "oraz",
+            "Confidence": 0.62
+          },
+          {
+            "BoundingBox": [
+              291,
+              1523,
+              376,
+              1528,
+              371,
+              1553,
+              286,
+              1550
+            ],
+            "Text": "KINLEY",
+            "Confidence": 0.634
+          },
+          {
+            "BoundingBox": [
+              381,
+              1528,
+              408,
+              1529,
+              403,
+              1554,
+              377,
+              1553
+            ],
+            "Text": "s\u0105",
+            "Confidence": 0.097
+          },
+          {
+            "BoundingBox": [
+              413,
+              1530,
+              576,
+              1538,
+              571,
+              1561,
+              408,
+              1554
+            ],
+            "Text": "zastrze\u017Conymi",
+            "Confidence": 0.662
+          },
+          {
+            "BoundingBox": [
+              581,
+              1538,
+              677,
+              1543,
+              672,
+              1566,
+              576,
+              1562
+            ],
+            "Text": "znakamr",
+            "Confidence": 0.67
+          },
+          {
+            "BoundingBox": [
+              682,
+              1543,
+              831,
+              1550,
+              826,
+              1575,
+              677,
+              1567
+            ],
+            "Text": "towarowymi",
+            "Confidence": 0.849
+          },
+          {
+            "BoundingBox": [
+              836,
+              1550,
+              880,
+              1552,
+              875,
+              1578,
+              831,
+              1575
+            ],
+            "Text": "The",
+            "Confidence": 0.883
+          },
+          {
+            "BoundingBox": [
+              886,
+              1553,
+              1006,
+              1558,
+              1001,
+              1586,
+              881,
+              1578
+            ],
+            "Text": "Coca-cola",
+            "Confidence": 0.622
+          },
+          {
+            "BoundingBox": [
+              1011,
+              1558,
+              1134,
+              1563,
+              1129,
+              1594,
+              1006,
+              1586
+            ],
+            "Text": "Company.",
+            "Confidence": 0.846
+          }
+        ]
+      }
+    ]
+  }
+]

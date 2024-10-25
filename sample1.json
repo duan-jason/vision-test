@@ -1,1 +1,3666 @@
-[{"Page":1,"Language":null,"Angle":0.9366,"Width":2448,"Height":1836,"Unit":0,"Lines":[{"Language":null,"BoundingBox":[672,161,1022,167,1021,211,671,201],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"DANIA Z RY\u017BEM","Words":[{"BoundingBox":[674,161,808,163,806,202,671,198],"Text":"DANIA","Confidence":0.995},{"BoundingBox":[827,164,849,164,847,203,825,202],"Text":"Z","Confidence":0.995},{"BoundingBox":[866,164,1001,167,999,211,864,204],"Text":"RY\u017BEM","Confidence":0.997}]},{"Language":null,"BoundingBox":[1957,196,2066,197,2066,229,1957,228],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"ZUPY","Words":[{"BoundingBox":[1962,197,2060,199,2058,228,1959,226],"Text":"ZUPY","Confidence":0.989}]},{"Language":null,"BoundingBox":[667,224,1063,241,1061,277,666,261],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KURCZAK 29,90 PLN","Words":[{"BoundingBox":[667,225,881,234,879,270,666,262],"Text":"KURCZAK","Confidence":0.991},{"BoundingBox":[919,236,1005,241,1002,275,917,272],"Text":"29,90","Confidence":0.996},{"BoundingBox":[1015,242,1061,245,1058,277,1012,275],"Text":"PLN","Confidence":0.994}]},{"Language":null,"BoundingBox":[1966,247,2184,249,2184,280,1965,277],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"ZUPA PHO","Words":[{"BoundingBox":[1967,247,2069,249,2068,279,1966,277],"Text":"ZUPA","Confidence":0.991},{"BoundingBox":[2091,249,2169,250,2168,281,2090,279],"Text":"PHO","Confidence":0.998}]},{"Language":null,"BoundingBox":[1968,284,2092,286,2092,308,1968,305],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KURCZAK","Words":[{"BoundingBox":[1969,284,2083,286,2082,308,1968,306],"Text":"KURCZAK","Confidence":0.996}]},{"Language":null,"BoundingBox":[2093,287,2272,290,2271,312,2093,308],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"WO\u0141OWINA","Words":[{"BoundingBox":[2122,289,2265,292,2264,312,2120,309],"Text":"WO\u0141OWINA","Confidence":0.995}]},{"Language":null,"BoundingBox":[2301,293,2428,297,2427,316,2301,313],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KREWETKI","Words":[{"BoundingBox":[2302,294,2429,298,2428,317,2301,314],"Text":"KREWETKI","Confidence":0.996}]},{"Language":null,"BoundingBox":[668,287,950,296,949,318,667,309],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Z ORZECHAMI NOWO\u015A\u0106!","Words":[{"BoundingBox":[669,287,682,288,680,310,668,309],"Text":"Z","Confidence":0.995},{"BoundingBox":[691,288,848,293,848,315,689,310],"Text":"ORZECHAMI","Confidence":0.995},{"BoundingBox":[857,293,949,296,949,318,857,316],"Text":"NOWO\u015A\u0106!","Confidence":0.878}]},{"Language":null,"BoundingBox":[990,295,1215,301,1214,329,989,322],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"S\u0141ODKO-KWA\u015ANY","Words":[{"BoundingBox":[990,295,1211,301,1209,330,990,323],"Text":"S\u0141ODKO-KWA\u015ANY","Confidence":0.913}]},{"Language":null,"BoundingBox":[1973,315,2087,318,2087,343,1972,340],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"28,90 PLN","Words":[{"BoundingBox":[1974,316,2042,318,2041,342,1973,340],"Text":"28,90","Confidence":0.997},{"BoundingBox":[2052,318,2087,319,2086,344,2051,343],"Text":"PLN","Confidence":0.963}]},{"Language":null,"BoundingBox":[2123,320,2238,321,2238,345,2123,343],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"29,90 PLN","Words":[{"BoundingBox":[2125,320,2192,321,2192,345,2125,344],"Text":"29,90","Confidence":0.997},{"BoundingBox":[2201,321,2237,322,2237,346,2202,345],"Text":"PLN","Confidence":0.934}]},{"Language":null,"BoundingBox":[2306,325,2417,329,2416,351,2305,346],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"32,90 PLN","Words":[{"BoundingBox":[2307,326,2370,328,2368,349,2305,347],"Text":"32,90","Confidence":0.997},{"BoundingBox":[2381,329,2414,331,2413,351,2380,350],"Text":"PLN","Confidence":0.997}]},{"Language":null,"BoundingBox":[668,334,783,338,782,359,667,355],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"TERIYAKI","Words":[{"BoundingBox":[670,335,783,338,781,360,668,356],"Text":"TERIYAKI","Confidence":0.935}]},{"Language":null,"BoundingBox":[991,345,1227,352,1227,373,991,367],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CZERWONE CURRY","Words":[{"BoundingBox":[992,346,1132,350,1130,371,991,367],"Text":"CZERWONE","Confidence":0.996},{"BoundingBox":[1141,350,1222,352,1219,374,1139,371],"Text":"CURRY","Confidence":0.997}]},{"Language":null,"BoundingBox":[1976,364,2292,370,2292,402,1975,396],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"TAJSKI RAMEN","Words":[{"BoundingBox":[1978,364,2128,368,2127,400,1977,396],"Text":"TAJSKI","Confidence":0.997},{"BoundingBox":[2135,368,2277,371,2276,402,2134,400],"Text":"RAMEN","Confidence":0.997}]},{"Language":null,"BoundingBox":[666,382,944,390,943,412,665,405],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CHRUPI\u0104CY KURCZAK","Words":[{"BoundingBox":[667,382,812,387,811,410,665,405],"Text":"CHRUPI\u0104CY","Confidence":0.991},{"BoundingBox":[819,387,935,390,935,413,819,410],"Text":"KURCZAK","Confidence":0.996}]},{"Language":null,"BoundingBox":[991,392,1128,394,1127,417,991,416],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"PO TAJSKU","Words":[{"BoundingBox":[993,393,1020,393,1019,417,991,416],"Text":"PO","Confidence":0.993},{"BoundingBox":[1033,394,1119,396,1119,417,1032,417],"Text":"TAJSKU","Confidence":0.997}]},{"Language":null,"BoundingBox":[1979,404,2120,405,2120,427,1978,426],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"WARZYWA","Words":[{"BoundingBox":[1981,404,2113,405,2111,428,1979,426],"Text":"WARZYWA","Confidence":0.994}]},{"Language":null,"BoundingBox":[2168,406,2444,411,2444,436,2168,430],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"WO\u0141OWINA KREWETI","Words":[{"BoundingBox":[2169,406,2313,411,2312,434,2168,431],"Text":"WO\u0141OWINA","Confidence":0.939},{"BoundingBox":[2332,411,2444,412,2443,436,2331,434],"Text":"KREWETI","Confidence":0.945}]},{"Language":null,"BoundingBox":[335,413,555,415,555,457,335,454],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"NIC DO","Words":[{"BoundingBox":[337,413,424,414,423,456,335,454],"Text":"NIC","Confidence":0.998},{"BoundingBox":[455,414,529,415,528,457,454,457],"Text":"DO","Confidence":0.998}]},{"Language":null,"BoundingBox":[664,408,824,413,823,437,664,431],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Z SUR\u00D3WK\u0104","Words":[{"BoundingBox":[665,408,678,409,677,432,664,432],"Text":"Z","Confidence":0.995},{"BoundingBox":[685,409,818,414,817,438,684,432],"Text":"SUR\u00D3WK\u0104","Confidence":0.996}]},{"Language":null,"BoundingBox":[1982,437,2097,440,2096,464,1982,459],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"27,90 PLN","Words":[{"BoundingBox":[1983,437,2049,439,2049,463,1983,460],"Text":"27,90","Confidence":0.997},{"BoundingBox":[2060,439,2096,440,2096,465,2060,463],"Text":"PLN","Confidence":0.994}]},{"Language":null,"BoundingBox":[2170,440,2285,443,2284,468,2170,464],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"29,90 PLN","Words":[{"BoundingBox":[2171,440,2238,443,2237,467,2170,465],"Text":"29,90","Confidence":0.998},{"BoundingBox":[2248,443,2284,445,2283,468,2247,467],"Text":"PLN","Confidence":0.996}]},{"Language":null,"BoundingBox":[2338,444,2445,446,2444,470,2338,469],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"32,90 PLN","Words":[{"BoundingBox":[2340,445,2405,446,2404,470,2339,469],"Text":"32,90","Confidence":0.997},{"BoundingBox":[2415,446,2445,447,2444,471,2414,470],"Text":"PLN","Confidence":0.958}]},{"Language":null,"BoundingBox":[658,461,958,471,957,507,657,497],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"WO\u0141OWINA","Words":[{"BoundingBox":[661,462,937,472,935,506,659,499],"Text":"WO\u0141OWINA","Confidence":0.991}]},{"Language":null,"BoundingBox":[962,474,1130,481,1129,511,960,504],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"32,90 PLN","Words":[{"BoundingBox":[987,475,1069,479,1066,509,984,506],"Text":"32,90","Confidence":0.996},{"BoundingBox":[1081,480,1126,483,1123,511,1079,510],"Text":"PLN","Confidence":0.994}]},{"Language":null,"BoundingBox":[16,490,64,499,57,537,9,528],"Appearance":{"Style":{"Name":"handwriting","Confidence":0.64}},"Text":"a\u00EF","Words":[{"BoundingBox":[16,490,60,498,53,535,9,527],"Text":"a\u00EF","Confidence":0.721}]},{"Language":null,"BoundingBox":[303,465,578,473,577,517,302,508],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"UKRYCIA","Words":[{"BoundingBox":[305,465,559,473,558,518,303,509],"Text":"UKRYCIA","Confidence":0.996}]},{"Language":null,"BoundingBox":[659,527,950,534,950,558,658,550],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Z TRAW\u0104 CYTRYNOW\u0104","Words":[{"BoundingBox":[659,528,672,528,671,549,658,548],"Text":"Z","Confidence":0.995},{"BoundingBox":[680,528,773,530,772,554,679,550],"Text":"TRAW\u0104","Confidence":0.994},{"BoundingBox":[782,530,944,535,944,558,781,554],"Text":"CYTRYNOW\u0104","Confidence":0.993}]},{"Language":null,"BoundingBox":[989,532,1288,535,1287,572,989,563],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Z TAJSK\u0104 BAZYLI\u0104 9 0","Words":[{"BoundingBox":[993,532,1010,533,1010,560,993,560],"Text":"Z","Confidence":0.994},{"BoundingBox":[1016,533,1108,534,1108,564,1016,561],"Text":"TAJSK\u0104","Confidence":0.991},{"BoundingBox":[1115,534,1223,535,1223,569,1115,564],"Text":"BAZYLI\u0104","Confidence":0.719},{"BoundingBox":[1234,535,1246,535,1246,570,1234,570],"Text":"9","Confidence":0.001},{"BoundingBox":[1252,535,1270,535,1270,572,1252,571],"Text":"0","Confidence":0.009}]},{"Language":null,"BoundingBox":[1555,557,1830,560,1829,596,1554,593],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"RY\u017B TOM YUM","Words":[{"BoundingBox":[1555,558,1626,558,1627,594,1557,594],"Text":"RY\u017B","Confidence":0.993},{"BoundingBox":[1640,558,1712,559,1712,595,1641,595],"Text":"TOM","Confidence":0.998},{"BoundingBox":[1738,560,1811,562,1811,596,1738,595],"Text":"YUM","Confidence":0.991}]},{"Language":null,"BoundingBox":[664,560,757,561,757,576,664,574],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"NOWO\u015A\u0106!","Words":[{"BoundingBox":[666,560,758,562,757,577,665,574],"Text":"NOWO\u015A\u0106!","Confidence":0.887}]},{"Language":null,"BoundingBox":[2073,573,2320,577,2320,610,2073,607],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"TAJSKI BOX","Words":[{"BoundingBox":[2077,574,2220,576,2218,609,2075,607],"Text":"TAJSKI","Confidence":0.996},{"BoundingBox":[2226,576,2307,577,2305,611,2225,609],"Text":"BOX","Confidence":0.998}]},{"Language":null,"BoundingBox":[655,608,1051,616,1050,653,654,644],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"WEGE KLOPSIKI","Words":[{"BoundingBox":[657,608,792,611,790,648,655,645],"Text":"WEGE","Confidence":0.979},{"BoundingBox":[814,612,1042,617,1040,654,812,649],"Text":"KLOPSIKI","Confidence":0.993}]},{"Language":null,"BoundingBox":[1692,604,1895,608,1894,643,1692,636],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"OD 36,90PLN","Words":[{"BoundingBox":[1696,605,1735,605,1735,637,1697,634],"Text":"OD","Confidence":0.986},{"BoundingBox":[1744,605,1890,608,1890,643,1745,637],"Text":"36,90PLN","Confidence":0.983}]},{"Language":null,"BoundingBox":[1075,625,1228,630,1227,661,1075,656],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"29,90 PLN","Words":[{"BoundingBox":[1079,625,1163,628,1162,659,1079,657],"Text":"29,90","Confidence":0.994},{"BoundingBox":[1176,629,1222,632,1220,661,1175,660],"Text":"PLN","Confidence":0.994}]},{"Language":null,"BoundingBox":[2079,618,2333,622,2332,659,2078,654],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"PRZEK\u0104SEK","Words":[{"BoundingBox":[2079,619,2318,622,2318,659,2078,653],"Text":"PRZEK\u0104SEK","Confidence":0.977}]},{"Language":null,"BoundingBox":[651,658,890,662,889,690,651,685],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"W \u017B\u00D3\u0141TYM CURRY","Words":[{"BoundingBox":[653,658,668,659,667,686,651,686],"Text":"W","Confidence":0.995},{"BoundingBox":[687,659,784,661,783,688,685,686],"Text":"\u017B\u00D3\u0141TYM","Confidence":0.958},{"BoundingBox":[799,661,888,663,888,691,798,689],"Text":"CURRY","Confidence":0.994}]},{"Language":null,"BoundingBox":[1404,674,1313,396,1377,373,1477,650],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"NOWO\u015A\u0106!","Words":[{"BoundingBox":[1421,673,1313,394,1380,376,1476,646],"Text":"NOWO\u015A\u0106!","Confidence":0.992}]},{"Language":null,"BoundingBox":[1980,674,2019,693,2012,709,1975,691],"Appearance":{"Style":{"Name":"handwriting","Confidence":0.62}},"Text":"They","Words":[{"BoundingBox":[1982,674,2016,691,2009,707,1975,690],"Text":"They","Confidence":0.207}]},{"Language":null,"BoundingBox":[2085,670,2343,674,2343,693,2085,690],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CHRUPI\u0104CY KURCZAK x1,","Words":[{"BoundingBox":[2086,671,2205,672,2205,692,2085,690],"Text":"CHRUPI\u0104CY","Confidence":0.965},{"BoundingBox":[2211,672,2308,674,2308,693,2210,692],"Text":"KURCZAK","Confidence":0.995},{"BoundingBox":[2316,675,2343,675,2343,693,2316,693],"Text":"x1,","Confidence":0.687}]},{"Language":null,"BoundingBox":[2088,693,2294,696,2294,716,2088,714],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"BAOZI x1, GYOZA x2,","Words":[{"BoundingBox":[2089,694,2153,695,2152,715,2088,715],"Text":"BAOZI","Confidence":0.994},{"BoundingBox":[2157,695,2183,695,2182,716,2156,715],"Text":"x1,","Confidence":0.767},{"BoundingBox":[2187,695,2258,696,2257,716,2186,716],"Text":"GYOZA","Confidence":0.997},{"BoundingBox":[2263,696,2295,697,2294,717,2263,717],"Text":"x2,","Confidence":0.768}]},{"Language":null,"BoundingBox":[8,697,317,701,317,722,8,718],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"\u0141AGODN\u0104 LUB NA OSTRO!","Words":[{"BoundingBox":[10,697,121,699,120,720,9,718],"Text":"\u0141AGODN\u0104","Confidence":0.739},{"BoundingBox":[131,699,174,700,174,721,130,720],"Text":"LUB","Confidence":0.998},{"BoundingBox":[184,700,215,700,215,721,184,721],"Text":"NA","Confidence":0.997},{"BoundingBox":[225,700,316,701,317,722,225,721],"Text":"OSTRO!","Confidence":0.992}]},{"Language":null,"BoundingBox":[1435,717,1814,720,1814,740,1435,736],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"DOWOLNE DANIE Z KURCZAKIEM","Words":[{"BoundingBox":[1436,717,1551,718,1551,738,1435,736],"Text":"DOWOLNE","Confidence":0.991},{"BoundingBox":[1560,718,1631,718,1631,739,1559,738],"Text":"DANIE","Confidence":0.997},{"BoundingBox":[1639,718,1651,718,1650,739,1639,739],"Text":"Z","Confidence":0.995},{"BoundingBox":[1659,719,1802,720,1802,740,1659,739],"Text":"KURCZAKIEM","Confidence":0.994}]},{"Language":null,"BoundingBox":[2090,717,2273,720,2273,739,2089,736],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"SPRING ROLLS x1,","Words":[{"BoundingBox":[2090,717,2163,719,2163,737,2090,737],"Text":"SPRING","Confidence":0.995},{"BoundingBox":[2173,719,2239,720,2239,738,2173,737],"Text":"ROLLS","Confidence":0.997},{"BoundingBox":[2246,720,2273,721,2273,740,2245,739],"Text":"x1,","Confidence":0.676}]},{"Language":null,"BoundingBox":[2093,741,2359,744,2359,762,2093,759],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"CHIPSY KREWETKOWE x2","Words":[{"BoundingBox":[2095,742,2167,743,2166,761,2093,760],"Text":"CHIPSY","Confidence":0.994},{"BoundingBox":[2173,743,2326,744,2326,762,2172,761],"Text":"KREWETKOWE","Confidence":0.994},{"BoundingBox":[2333,745,2356,745,2356,762,2333,762],"Text":"x2","Confidence":0.676}]},{"Language":null,"BoundingBox":[0,731,585,735,585,757,0,752],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"RZYWA 7 PLN WO\u0141OWINA/KURCZAK RO\u015ALINNY","Words":[{"BoundingBox":[0,732,79,732,78,752,0,751],"Text":"RZYWA","Confidence":0.993},{"BoundingBox":[112,732,124,732,123,752,112,752],"Text":"7","Confidence":0.996},{"BoundingBox":[131,732,176,732,175,753,131,752],"Text":"PLN","Confidence":0.998},{"BoundingBox":[205,732,457,734,456,756,204,753],"Text":"WO\u0141OWINA/KURCZAK","Confidence":0.918},{"BoundingBox":[467,735,580,736,579,758,466,756],"Text":"RO\u015ALINNY","Confidence":0.996}]},{"Language":null,"BoundingBox":[689,742,833,743,833,770,688,768],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"NAPOJE","Words":[{"BoundingBox":[689,742,824,744,823,770,689,769],"Text":"NAPOJE","Confidence":0.994}]},{"Language":null,"BoundingBox":[867,727,997,727,997,748,867,747],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Coca-Cola, Coca-Cola.","Words":[{"BoundingBox":[868,727,926,727,926,748,868,748],"Text":"Coca-Cola,","Confidence":0.951},{"BoundingBox":[931,727,997,727,996,749,930,748],"Text":"Coca-Cola.","Confidence":0.993}]},{"Language":null,"BoundingBox":[1012,739,1037,737,1037,747,1012,748],"Appearance":{"Style":{"Name":"other","Confidence":0.915}},"Text":"FANTA","Words":[{"BoundingBox":[1012,738,1036,737,1037,747,1012,748],"Text":"FANTA","Confidence":0.683}]},{"Language":null,"BoundingBox":[1083,734,1156,736,1156,760,1082,759],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"SOK","Words":[{"BoundingBox":[1082,734,1144,735,1144,760,1082,758],"Text":"SOK","Confidence":0.998}]},{"Language":null,"BoundingBox":[1220,736,1332,738,1332,763,1219,762],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"WODA","Words":[{"BoundingBox":[1220,737,1322,739,1322,763,1220,763],"Text":"WODA","Confidence":0.994}]},{"Language":null,"BoundingBox":[1434,740,1698,742,1697,765,1434,762],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"I RY\u017BEM JA\u015AMINOWYM","Words":[{"BoundingBox":[1435,741,1442,741,1441,762,1434,761],"Text":"I","Confidence":0.994},{"BoundingBox":[1446,741,1518,741,1518,763,1445,762],"Text":"RY\u017BEM","Confidence":0.994},{"BoundingBox":[1531,741,1688,745,1688,764,1531,764],"Text":"JA\u015AMINOWYM","Confidence":0.992}]},{"Language":null,"BoundingBox":[932,750,990,751,990,758,932,757],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"ORIGINAL TASTE","Words":[{"BoundingBox":[933,750,967,751,967,758,933,758],"Text":"ORIGINAL","Confidence":0.247},{"BoundingBox":[969,751,989,751,989,759,969,758],"Text":"TASTE","Confidence":0.84}]},{"Language":null,"BoundingBox":[107,763,343,763,343,784,107,782],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"9 PLN WO\u0141OWINA","Words":[{"BoundingBox":[108,763,121,763,120,783,107,782],"Text":"9","Confidence":0.991},{"BoundingBox":[129,763,173,763,173,783,128,783],"Text":"PLN","Confidence":0.998},{"BoundingBox":[202,763,337,764,337,784,202,784],"Text":"WO\u0141OWINA","Confidence":0.992}]},{"Language":null,"BoundingBox":[1437,767,1746,771,1746,791,1437,786],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"\u002B COCA COLA ZERO CUKRU 0,5L","Words":[{"BoundingBox":[1438,768,1449,768,1448,786,1437,786],"Text":"\u002B","Confidence":0.995},{"BoundingBox":[1454,768,1515,767,1514,788,1453,787],"Text":"COCA","Confidence":0.988},{"BoundingBox":[1525,767,1586,768,1586,790,1525,789],"Text":"COLA","Confidence":0.997},{"BoundingBox":[1595,769,1640,770,1639,790,1595,790],"Text":"ZERO","Confidence":0.989},{"BoundingBox":[1645,770,1703,773,1703,791,1645,790],"Text":"CUKRU","Confidence":0.997},{"BoundingBox":[1709,773,1744,775,1744,790,1708,791],"Text":"0,5L","Confidence":0.982}]},{"Language":null,"BoundingBox":[2096,777,2214,779,2213,803,2096,801],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"23,90 PLN","Words":[{"BoundingBox":[2097,777,2165,779,2164,803,2097,802],"Text":"23,90","Confidence":0.993},{"BoundingBox":[2177,780,2213,782,2213,802,2177,803],"Text":"PLN","Confidence":0.998}]},{"Language":null,"BoundingBox":[707,782,813,785,812,808,707,805],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"\u002B 9 PLN","Words":[{"BoundingBox":[709,782,722,782,722,806,709,806],"Text":"\u002B","Confidence":0.995},{"BoundingBox":[736,783,749,783,749,807,736,807],"Text":"9","Confidence":0.995},{"BoundingBox":[764,784,808,787,808,808,765,807],"Text":"PLN","Confidence":0.998}]},{"Language":null,"BoundingBox":[878,778,899,767,906,780,885,790],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"rife","Words":[{"BoundingBox":[879,776,899,767,906,780,886,790],"Text":"rife","Confidence":0.608}]},{"Language":null,"BoundingBox":[1069,773,1172,775,1172,798,1069,797],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"\u002B 8 PLN","Words":[{"BoundingBox":[1071,774,1085,774,1084,797,1071,797],"Text":"\u002B","Confidence":0.993},{"BoundingBox":[1096,774,1110,774,1109,798,1095,797],"Text":"8","Confidence":0.995},{"BoundingBox":[1125,774,1169,775,1168,799,1125,798],"Text":"PLN","Confidence":0.998}]},{"Language":null,"BoundingBox":[1225,775,1329,776,1328,800,1225,798],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"\u002B 6 PLN","Words":[{"BoundingBox":[1227,775,1241,775,1240,798,1226,798],"Text":"\u002B","Confidence":0.995},{"BoundingBox":[1253,775,1267,775,1266,799,1253,799],"Text":"6","Confidence":0.995},{"BoundingBox":[1281,776,1323,777,1322,801,1281,800],"Text":"PLN","Confidence":0.998}]},{"Language":null,"BoundingBox":[915,784,964,784,964,794,915,793],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KINLEY.","Words":[{"BoundingBox":[915,784,964,784,965,794,915,794],"Text":"KINLEY.","Confidence":0.829}]},{"Language":null,"BoundingBox":[973,781,1011,781,1011,790,973,789],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"fuzetea","Words":[{"BoundingBox":[974,781,1008,781,1008,791,974,789],"Text":"fuzetea","Confidence":0.581}]},{"Language":null,"BoundingBox":[102,792,401,794,400,815,102,812],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"11 PLN KREWETKI / 6 szt.","Words":[{"BoundingBox":[103,792,123,792,123,812,103,812],"Text":"11","Confidence":0.996},{"BoundingBox":[127,792,172,793,172,813,127,812],"Text":"PLN","Confidence":0.998},{"BoundingBox":[198,793,322,794,322,815,198,813],"Text":"KREWETKI","Confidence":0.995},{"BoundingBox":[326,794,336,794,337,815,326,815],"Text":"/","Confidence":0.995},{"BoundingBox":[341,794,352,794,352,815,341,815],"Text":"6","Confidence":0.996},{"BoundingBox":[358,794,400,795,400,816,358,815],"Text":"szt.","Confidence":0.991}]},{"Language":null,"BoundingBox":[1091,805,1151,808,1150,828,1090,825],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"Cappy.","Words":[{"BoundingBox":[1092,806,1150,808,1150,828,1090,826],"Text":"Cappy.","Confidence":0.886}]},{"Language":null,"BoundingBox":[1238,808,1311,808,1310,825,1238,824],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"KROPLA","Words":[{"BoundingBox":[1239,808,1306,808,1306,825,1239,824],"Text":"KROPLA","Confidence":0.995}]},{"Language":null,"BoundingBox":[1435,797,1581,799,1581,829,1435,827],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"38,90 PLN","Words":[{"BoundingBox":[1437,798,1519,800,1519,829,1437,827],"Text":"38,90","Confidence":0.997},{"BoundingBox":[1533,800,1577,800,1578,828,1533,829],"Text":"PLN","Confidence":0.998}]},{"Language":null,"BoundingBox":[1247,824,1304,824,1304,836,1247,835],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"BESKIDU","Words":[{"BoundingBox":[1247,825,1298,825,1298,836,1247,835],"Text":"BESKIDU","Confidence":0.994}]},{"Language":null,"BoundingBox":[402,1283,1333,1266,1336,1395,402,1411],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"\u015Bwie\u017Ce sk\u0142adniki","Words":[{"BoundingBox":[402,1296,777,1276,778,1410,402,1411],"Text":"\u015Bwie\u017Ce","Confidence":0.124},{"BoundingBox":[802,1275,1327,1267,1330,1397,804,1410],"Text":"sk\u0142adniki","Confidence":0.616}]},{"Language":null,"BoundingBox":[430,1441,1272,1424,1273,1521,432,1545],"Appearance":{"Style":{"Name":"other","Confidence":0.972}},"Text":"prosto z woka","Words":[{"BoundingBox":[431,1445,801,1431,802,1532,432,1546],"Text":"prosto","Confidence":0.997},{"BoundingBox":[855,1430,912,1429,913,1529,856,1530],"Text":"z","Confidence":0.996},{"BoundingBox":[947,1428,1253,1425,1253,1522,947,1528],"Text":"woka","Confidence":0.989}]}]}]
+[
+  {
+    "Page": 1,
+    "Language": null,
+    "Angle": 0.9366,
+    "Width": 2448,
+    "Height": 1836,
+    "Unit": 0,
+    "Lines": [
+      {
+        "Language": null,
+        "BoundingBox": [
+          672,
+          161,
+          1022,
+          167,
+          1021,
+          211,
+          671,
+          201
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "DANIA Z RY\u017BEM",
+        "Words": [
+          {
+            "BoundingBox": [
+              674,
+              161,
+              808,
+              163,
+              806,
+              202,
+              671,
+              198
+            ],
+            "Text": "DANIA",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              827,
+              164,
+              849,
+              164,
+              847,
+              203,
+              825,
+              202
+            ],
+            "Text": "Z",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              866,
+              164,
+              1001,
+              167,
+              999,
+              211,
+              864,
+              204
+            ],
+            "Text": "RY\u017BEM",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1957,
+          196,
+          2066,
+          197,
+          2066,
+          229,
+          1957,
+          228
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ZUPY",
+        "Words": [
+          {
+            "BoundingBox": [
+              1962,
+              197,
+              2060,
+              199,
+              2058,
+              228,
+              1959,
+              226
+            ],
+            "Text": "ZUPY",
+            "Confidence": 0.989
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          667,
+          224,
+          1063,
+          241,
+          1061,
+          277,
+          666,
+          261
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KURCZAK 29,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              667,
+              225,
+              881,
+              234,
+              879,
+              270,
+              666,
+              262
+            ],
+            "Text": "KURCZAK",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              919,
+              236,
+              1005,
+              241,
+              1002,
+              275,
+              917,
+              272
+            ],
+            "Text": "29,90",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              1015,
+              242,
+              1061,
+              245,
+              1058,
+              277,
+              1012,
+              275
+            ],
+            "Text": "PLN",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1966,
+          247,
+          2184,
+          249,
+          2184,
+          280,
+          1965,
+          277
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ZUPA PHO",
+        "Words": [
+          {
+            "BoundingBox": [
+              1967,
+              247,
+              2069,
+              249,
+              2068,
+              279,
+              1966,
+              277
+            ],
+            "Text": "ZUPA",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              2091,
+              249,
+              2169,
+              250,
+              2168,
+              281,
+              2090,
+              279
+            ],
+            "Text": "PHO",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1968,
+          284,
+          2092,
+          286,
+          2092,
+          308,
+          1968,
+          305
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KURCZAK",
+        "Words": [
+          {
+            "BoundingBox": [
+              1969,
+              284,
+              2083,
+              286,
+              2082,
+              308,
+              1968,
+              306
+            ],
+            "Text": "KURCZAK",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2093,
+          287,
+          2272,
+          290,
+          2271,
+          312,
+          2093,
+          308
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "WO\u0141OWINA",
+        "Words": [
+          {
+            "BoundingBox": [
+              2122,
+              289,
+              2265,
+              292,
+              2264,
+              312,
+              2120,
+              309
+            ],
+            "Text": "WO\u0141OWINA",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2301,
+          293,
+          2428,
+          297,
+          2427,
+          316,
+          2301,
+          313
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KREWETKI",
+        "Words": [
+          {
+            "BoundingBox": [
+              2302,
+              294,
+              2429,
+              298,
+              2428,
+              317,
+              2301,
+              314
+            ],
+            "Text": "KREWETKI",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          668,
+          287,
+          950,
+          296,
+          949,
+          318,
+          667,
+          309
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Z ORZECHAMI NOWO\u015A\u0106!",
+        "Words": [
+          {
+            "BoundingBox": [
+              669,
+              287,
+              682,
+              288,
+              680,
+              310,
+              668,
+              309
+            ],
+            "Text": "Z",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              691,
+              288,
+              848,
+              293,
+              848,
+              315,
+              689,
+              310
+            ],
+            "Text": "ORZECHAMI",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              857,
+              293,
+              949,
+              296,
+              949,
+              318,
+              857,
+              316
+            ],
+            "Text": "NOWO\u015A\u0106!",
+            "Confidence": 0.878
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          990,
+          295,
+          1215,
+          301,
+          1214,
+          329,
+          989,
+          322
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "S\u0141ODKO-KWA\u015ANY",
+        "Words": [
+          {
+            "BoundingBox": [
+              990,
+              295,
+              1211,
+              301,
+              1209,
+              330,
+              990,
+              323
+            ],
+            "Text": "S\u0141ODKO-KWA\u015ANY",
+            "Confidence": 0.913
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1973,
+          315,
+          2087,
+          318,
+          2087,
+          343,
+          1972,
+          340
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "28,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1974,
+              316,
+              2042,
+              318,
+              2041,
+              342,
+              1973,
+              340
+            ],
+            "Text": "28,90",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2052,
+              318,
+              2087,
+              319,
+              2086,
+              344,
+              2051,
+              343
+            ],
+            "Text": "PLN",
+            "Confidence": 0.963
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2123,
+          320,
+          2238,
+          321,
+          2238,
+          345,
+          2123,
+          343
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "29,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              2125,
+              320,
+              2192,
+              321,
+              2192,
+              345,
+              2125,
+              344
+            ],
+            "Text": "29,90",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2201,
+              321,
+              2237,
+              322,
+              2237,
+              346,
+              2202,
+              345
+            ],
+            "Text": "PLN",
+            "Confidence": 0.934
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2306,
+          325,
+          2417,
+          329,
+          2416,
+          351,
+          2305,
+          346
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "32,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              2307,
+              326,
+              2370,
+              328,
+              2368,
+              349,
+              2305,
+              347
+            ],
+            "Text": "32,90",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2381,
+              329,
+              2414,
+              331,
+              2413,
+              351,
+              2380,
+              350
+            ],
+            "Text": "PLN",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          668,
+          334,
+          783,
+          338,
+          782,
+          359,
+          667,
+          355
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "TERIYAKI",
+        "Words": [
+          {
+            "BoundingBox": [
+              670,
+              335,
+              783,
+              338,
+              781,
+              360,
+              668,
+              356
+            ],
+            "Text": "TERIYAKI",
+            "Confidence": 0.935
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          991,
+          345,
+          1227,
+          352,
+          1227,
+          373,
+          991,
+          367
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CZERWONE CURRY",
+        "Words": [
+          {
+            "BoundingBox": [
+              992,
+              346,
+              1132,
+              350,
+              1130,
+              371,
+              991,
+              367
+            ],
+            "Text": "CZERWONE",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              1141,
+              350,
+              1222,
+              352,
+              1219,
+              374,
+              1139,
+              371
+            ],
+            "Text": "CURRY",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1976,
+          364,
+          2292,
+          370,
+          2292,
+          402,
+          1975,
+          396
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "TAJSKI RAMEN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1978,
+              364,
+              2128,
+              368,
+              2127,
+              400,
+              1977,
+              396
+            ],
+            "Text": "TAJSKI",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2135,
+              368,
+              2277,
+              371,
+              2276,
+              402,
+              2134,
+              400
+            ],
+            "Text": "RAMEN",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          666,
+          382,
+          944,
+          390,
+          943,
+          412,
+          665,
+          405
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CHRUPI\u0104CY KURCZAK",
+        "Words": [
+          {
+            "BoundingBox": [
+              667,
+              382,
+              812,
+              387,
+              811,
+              410,
+              665,
+              405
+            ],
+            "Text": "CHRUPI\u0104CY",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              819,
+              387,
+              935,
+              390,
+              935,
+              413,
+              819,
+              410
+            ],
+            "Text": "KURCZAK",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          991,
+          392,
+          1128,
+          394,
+          1127,
+          417,
+          991,
+          416
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PO TAJSKU",
+        "Words": [
+          {
+            "BoundingBox": [
+              993,
+              393,
+              1020,
+              393,
+              1019,
+              417,
+              991,
+              416
+            ],
+            "Text": "PO",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              1033,
+              394,
+              1119,
+              396,
+              1119,
+              417,
+              1032,
+              417
+            ],
+            "Text": "TAJSKU",
+            "Confidence": 0.997
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1979,
+          404,
+          2120,
+          405,
+          2120,
+          427,
+          1978,
+          426
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "WARZYWA",
+        "Words": [
+          {
+            "BoundingBox": [
+              1981,
+              404,
+              2113,
+              405,
+              2111,
+              428,
+              1979,
+              426
+            ],
+            "Text": "WARZYWA",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2168,
+          406,
+          2444,
+          411,
+          2444,
+          436,
+          2168,
+          430
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "WO\u0141OWINA KREWETI",
+        "Words": [
+          {
+            "BoundingBox": [
+              2169,
+              406,
+              2313,
+              411,
+              2312,
+              434,
+              2168,
+              431
+            ],
+            "Text": "WO\u0141OWINA",
+            "Confidence": 0.939
+          },
+          {
+            "BoundingBox": [
+              2332,
+              411,
+              2444,
+              412,
+              2443,
+              436,
+              2331,
+              434
+            ],
+            "Text": "KREWETI",
+            "Confidence": 0.945
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          335,
+          413,
+          555,
+          415,
+          555,
+          457,
+          335,
+          454
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "NIC DO",
+        "Words": [
+          {
+            "BoundingBox": [
+              337,
+              413,
+              424,
+              414,
+              423,
+              456,
+              335,
+              454
+            ],
+            "Text": "NIC",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              455,
+              414,
+              529,
+              415,
+              528,
+              457,
+              454,
+              457
+            ],
+            "Text": "DO",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          664,
+          408,
+          824,
+          413,
+          823,
+          437,
+          664,
+          431
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Z SUR\u00D3WK\u0104",
+        "Words": [
+          {
+            "BoundingBox": [
+              665,
+              408,
+              678,
+              409,
+              677,
+              432,
+              664,
+              432
+            ],
+            "Text": "Z",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              685,
+              409,
+              818,
+              414,
+              817,
+              438,
+              684,
+              432
+            ],
+            "Text": "SUR\u00D3WK\u0104",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1982,
+          437,
+          2097,
+          440,
+          2096,
+          464,
+          1982,
+          459
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "27,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1983,
+              437,
+              2049,
+              439,
+              2049,
+              463,
+              1983,
+              460
+            ],
+            "Text": "27,90",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2060,
+              439,
+              2096,
+              440,
+              2096,
+              465,
+              2060,
+              463
+            ],
+            "Text": "PLN",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2170,
+          440,
+          2285,
+          443,
+          2284,
+          468,
+          2170,
+          464
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "29,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              2171,
+              440,
+              2238,
+              443,
+              2237,
+              467,
+              2170,
+              465
+            ],
+            "Text": "29,90",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              2248,
+              443,
+              2284,
+              445,
+              2283,
+              468,
+              2247,
+              467
+            ],
+            "Text": "PLN",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2338,
+          444,
+          2445,
+          446,
+          2444,
+          470,
+          2338,
+          469
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "32,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              2340,
+              445,
+              2405,
+              446,
+              2404,
+              470,
+              2339,
+              469
+            ],
+            "Text": "32,90",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2415,
+              446,
+              2445,
+              447,
+              2444,
+              471,
+              2414,
+              470
+            ],
+            "Text": "PLN",
+            "Confidence": 0.958
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          658,
+          461,
+          958,
+          471,
+          957,
+          507,
+          657,
+          497
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "WO\u0141OWINA",
+        "Words": [
+          {
+            "BoundingBox": [
+              661,
+              462,
+              937,
+              472,
+              935,
+              506,
+              659,
+              499
+            ],
+            "Text": "WO\u0141OWINA",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          962,
+          474,
+          1130,
+          481,
+          1129,
+          511,
+          960,
+          504
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "32,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              987,
+              475,
+              1069,
+              479,
+              1066,
+              509,
+              984,
+              506
+            ],
+            "Text": "32,90",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              1081,
+              480,
+              1126,
+              483,
+              1123,
+              511,
+              1079,
+              510
+            ],
+            "Text": "PLN",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          16,
+          490,
+          64,
+          499,
+          57,
+          537,
+          9,
+          528
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "handwriting",
+            "Confidence": 0.64
+          }
+        },
+        "Text": "a\u00EF",
+        "Words": [
+          {
+            "BoundingBox": [
+              16,
+              490,
+              60,
+              498,
+              53,
+              535,
+              9,
+              527
+            ],
+            "Text": "a\u00EF",
+            "Confidence": 0.721
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          303,
+          465,
+          578,
+          473,
+          577,
+          517,
+          302,
+          508
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "UKRYCIA",
+        "Words": [
+          {
+            "BoundingBox": [
+              305,
+              465,
+              559,
+              473,
+              558,
+              518,
+              303,
+              509
+            ],
+            "Text": "UKRYCIA",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          659,
+          527,
+          950,
+          534,
+          950,
+          558,
+          658,
+          550
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Z TRAW\u0104 CYTRYNOW\u0104",
+        "Words": [
+          {
+            "BoundingBox": [
+              659,
+              528,
+              672,
+              528,
+              671,
+              549,
+              658,
+              548
+            ],
+            "Text": "Z",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              680,
+              528,
+              773,
+              530,
+              772,
+              554,
+              679,
+              550
+            ],
+            "Text": "TRAW\u0104",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              782,
+              530,
+              944,
+              535,
+              944,
+              558,
+              781,
+              554
+            ],
+            "Text": "CYTRYNOW\u0104",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          989,
+          532,
+          1288,
+          535,
+          1287,
+          572,
+          989,
+          563
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Z TAJSK\u0104 BAZYLI\u0104 9 0",
+        "Words": [
+          {
+            "BoundingBox": [
+              993,
+              532,
+              1010,
+              533,
+              1010,
+              560,
+              993,
+              560
+            ],
+            "Text": "Z",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              1016,
+              533,
+              1108,
+              534,
+              1108,
+              564,
+              1016,
+              561
+            ],
+            "Text": "TAJSK\u0104",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              1115,
+              534,
+              1223,
+              535,
+              1223,
+              569,
+              1115,
+              564
+            ],
+            "Text": "BAZYLI\u0104",
+            "Confidence": 0.719
+          },
+          {
+            "BoundingBox": [
+              1234,
+              535,
+              1246,
+              535,
+              1246,
+              570,
+              1234,
+              570
+            ],
+            "Text": "9",
+            "Confidence": 0.001
+          },
+          {
+            "BoundingBox": [
+              1252,
+              535,
+              1270,
+              535,
+              1270,
+              572,
+              1252,
+              571
+            ],
+            "Text": "0",
+            "Confidence": 0.009
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1555,
+          557,
+          1830,
+          560,
+          1829,
+          596,
+          1554,
+          593
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "RY\u017B TOM YUM",
+        "Words": [
+          {
+            "BoundingBox": [
+              1555,
+              558,
+              1626,
+              558,
+              1627,
+              594,
+              1557,
+              594
+            ],
+            "Text": "RY\u017B",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              1640,
+              558,
+              1712,
+              559,
+              1712,
+              595,
+              1641,
+              595
+            ],
+            "Text": "TOM",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              1738,
+              560,
+              1811,
+              562,
+              1811,
+              596,
+              1738,
+              595
+            ],
+            "Text": "YUM",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          664,
+          560,
+          757,
+          561,
+          757,
+          576,
+          664,
+          574
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "NOWO\u015A\u0106!",
+        "Words": [
+          {
+            "BoundingBox": [
+              666,
+              560,
+              758,
+              562,
+              757,
+              577,
+              665,
+              574
+            ],
+            "Text": "NOWO\u015A\u0106!",
+            "Confidence": 0.887
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2073,
+          573,
+          2320,
+          577,
+          2320,
+          610,
+          2073,
+          607
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "TAJSKI BOX",
+        "Words": [
+          {
+            "BoundingBox": [
+              2077,
+              574,
+              2220,
+              576,
+              2218,
+              609,
+              2075,
+              607
+            ],
+            "Text": "TAJSKI",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              2226,
+              576,
+              2307,
+              577,
+              2305,
+              611,
+              2225,
+              609
+            ],
+            "Text": "BOX",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          655,
+          608,
+          1051,
+          616,
+          1050,
+          653,
+          654,
+          644
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "WEGE KLOPSIKI",
+        "Words": [
+          {
+            "BoundingBox": [
+              657,
+              608,
+              792,
+              611,
+              790,
+              648,
+              655,
+              645
+            ],
+            "Text": "WEGE",
+            "Confidence": 0.979
+          },
+          {
+            "BoundingBox": [
+              814,
+              612,
+              1042,
+              617,
+              1040,
+              654,
+              812,
+              649
+            ],
+            "Text": "KLOPSIKI",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1692,
+          604,
+          1895,
+          608,
+          1894,
+          643,
+          1692,
+          636
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "OD 36,90PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1696,
+              605,
+              1735,
+              605,
+              1735,
+              637,
+              1697,
+              634
+            ],
+            "Text": "OD",
+            "Confidence": 0.986
+          },
+          {
+            "BoundingBox": [
+              1744,
+              605,
+              1890,
+              608,
+              1890,
+              643,
+              1745,
+              637
+            ],
+            "Text": "36,90PLN",
+            "Confidence": 0.983
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1075,
+          625,
+          1228,
+          630,
+          1227,
+          661,
+          1075,
+          656
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "29,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1079,
+              625,
+              1163,
+              628,
+              1162,
+              659,
+              1079,
+              657
+            ],
+            "Text": "29,90",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              1176,
+              629,
+              1222,
+              632,
+              1220,
+              661,
+              1175,
+              660
+            ],
+            "Text": "PLN",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2079,
+          618,
+          2333,
+          622,
+          2332,
+          659,
+          2078,
+          654
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "PRZEK\u0104SEK",
+        "Words": [
+          {
+            "BoundingBox": [
+              2079,
+              619,
+              2318,
+              622,
+              2318,
+              659,
+              2078,
+              653
+            ],
+            "Text": "PRZEK\u0104SEK",
+            "Confidence": 0.977
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          651,
+          658,
+          890,
+          662,
+          889,
+          690,
+          651,
+          685
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "W \u017B\u00D3\u0141TYM CURRY",
+        "Words": [
+          {
+            "BoundingBox": [
+              653,
+              658,
+              668,
+              659,
+              667,
+              686,
+              651,
+              686
+            ],
+            "Text": "W",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              687,
+              659,
+              784,
+              661,
+              783,
+              688,
+              685,
+              686
+            ],
+            "Text": "\u017B\u00D3\u0141TYM",
+            "Confidence": 0.958
+          },
+          {
+            "BoundingBox": [
+              799,
+              661,
+              888,
+              663,
+              888,
+              691,
+              798,
+              689
+            ],
+            "Text": "CURRY",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1404,
+          674,
+          1313,
+          396,
+          1377,
+          373,
+          1477,
+          650
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "NOWO\u015A\u0106!",
+        "Words": [
+          {
+            "BoundingBox": [
+              1421,
+              673,
+              1313,
+              394,
+              1380,
+              376,
+              1476,
+              646
+            ],
+            "Text": "NOWO\u015A\u0106!",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1980,
+          674,
+          2019,
+          693,
+          2012,
+          709,
+          1975,
+          691
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "handwriting",
+            "Confidence": 0.62
+          }
+        },
+        "Text": "They",
+        "Words": [
+          {
+            "BoundingBox": [
+              1982,
+              674,
+              2016,
+              691,
+              2009,
+              707,
+              1975,
+              690
+            ],
+            "Text": "They",
+            "Confidence": 0.207
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2085,
+          670,
+          2343,
+          674,
+          2343,
+          693,
+          2085,
+          690
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CHRUPI\u0104CY KURCZAK x1,",
+        "Words": [
+          {
+            "BoundingBox": [
+              2086,
+              671,
+              2205,
+              672,
+              2205,
+              692,
+              2085,
+              690
+            ],
+            "Text": "CHRUPI\u0104CY",
+            "Confidence": 0.965
+          },
+          {
+            "BoundingBox": [
+              2211,
+              672,
+              2308,
+              674,
+              2308,
+              693,
+              2210,
+              692
+            ],
+            "Text": "KURCZAK",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              2316,
+              675,
+              2343,
+              675,
+              2343,
+              693,
+              2316,
+              693
+            ],
+            "Text": "x1,",
+            "Confidence": 0.687
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2088,
+          693,
+          2294,
+          696,
+          2294,
+          716,
+          2088,
+          714
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BAOZI x1, GYOZA x2,",
+        "Words": [
+          {
+            "BoundingBox": [
+              2089,
+              694,
+              2153,
+              695,
+              2152,
+              715,
+              2088,
+              715
+            ],
+            "Text": "BAOZI",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              2157,
+              695,
+              2183,
+              695,
+              2182,
+              716,
+              2156,
+              715
+            ],
+            "Text": "x1,",
+            "Confidence": 0.767
+          },
+          {
+            "BoundingBox": [
+              2187,
+              695,
+              2258,
+              696,
+              2257,
+              716,
+              2186,
+              716
+            ],
+            "Text": "GYOZA",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2263,
+              696,
+              2295,
+              697,
+              2294,
+              717,
+              2263,
+              717
+            ],
+            "Text": "x2,",
+            "Confidence": 0.768
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          8,
+          697,
+          317,
+          701,
+          317,
+          722,
+          8,
+          718
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "\u0141AGODN\u0104 LUB NA OSTRO!",
+        "Words": [
+          {
+            "BoundingBox": [
+              10,
+              697,
+              121,
+              699,
+              120,
+              720,
+              9,
+              718
+            ],
+            "Text": "\u0141AGODN\u0104",
+            "Confidence": 0.739
+          },
+          {
+            "BoundingBox": [
+              131,
+              699,
+              174,
+              700,
+              174,
+              721,
+              130,
+              720
+            ],
+            "Text": "LUB",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              184,
+              700,
+              215,
+              700,
+              215,
+              721,
+              184,
+              721
+            ],
+            "Text": "NA",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              225,
+              700,
+              316,
+              701,
+              317,
+              722,
+              225,
+              721
+            ],
+            "Text": "OSTRO!",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1435,
+          717,
+          1814,
+          720,
+          1814,
+          740,
+          1435,
+          736
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "DOWOLNE DANIE Z KURCZAKIEM",
+        "Words": [
+          {
+            "BoundingBox": [
+              1436,
+              717,
+              1551,
+              718,
+              1551,
+              738,
+              1435,
+              736
+            ],
+            "Text": "DOWOLNE",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              1560,
+              718,
+              1631,
+              718,
+              1631,
+              739,
+              1559,
+              738
+            ],
+            "Text": "DANIE",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              1639,
+              718,
+              1651,
+              718,
+              1650,
+              739,
+              1639,
+              739
+            ],
+            "Text": "Z",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              1659,
+              719,
+              1802,
+              720,
+              1802,
+              740,
+              1659,
+              739
+            ],
+            "Text": "KURCZAKIEM",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2090,
+          717,
+          2273,
+          720,
+          2273,
+          739,
+          2089,
+          736
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "SPRING ROLLS x1,",
+        "Words": [
+          {
+            "BoundingBox": [
+              2090,
+              717,
+              2163,
+              719,
+              2163,
+              737,
+              2090,
+              737
+            ],
+            "Text": "SPRING",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              2173,
+              719,
+              2239,
+              720,
+              2239,
+              738,
+              2173,
+              737
+            ],
+            "Text": "ROLLS",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              2246,
+              720,
+              2273,
+              721,
+              2273,
+              740,
+              2245,
+              739
+            ],
+            "Text": "x1,",
+            "Confidence": 0.676
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2093,
+          741,
+          2359,
+          744,
+          2359,
+          762,
+          2093,
+          759
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "CHIPSY KREWETKOWE x2",
+        "Words": [
+          {
+            "BoundingBox": [
+              2095,
+              742,
+              2167,
+              743,
+              2166,
+              761,
+              2093,
+              760
+            ],
+            "Text": "CHIPSY",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              2173,
+              743,
+              2326,
+              744,
+              2326,
+              762,
+              2172,
+              761
+            ],
+            "Text": "KREWETKOWE",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              2333,
+              745,
+              2356,
+              745,
+              2356,
+              762,
+              2333,
+              762
+            ],
+            "Text": "x2",
+            "Confidence": 0.676
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          0,
+          731,
+          585,
+          735,
+          585,
+          757,
+          0,
+          752
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "RZYWA 7 PLN WO\u0141OWINA/KURCZAK RO\u015ALINNY",
+        "Words": [
+          {
+            "BoundingBox": [
+              0,
+              732,
+              79,
+              732,
+              78,
+              752,
+              0,
+              751
+            ],
+            "Text": "RZYWA",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              112,
+              732,
+              124,
+              732,
+              123,
+              752,
+              112,
+              752
+            ],
+            "Text": "7",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              131,
+              732,
+              176,
+              732,
+              175,
+              753,
+              131,
+              752
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              205,
+              732,
+              457,
+              734,
+              456,
+              756,
+              204,
+              753
+            ],
+            "Text": "WO\u0141OWINA/KURCZAK",
+            "Confidence": 0.918
+          },
+          {
+            "BoundingBox": [
+              467,
+              735,
+              580,
+              736,
+              579,
+              758,
+              466,
+              756
+            ],
+            "Text": "RO\u015ALINNY",
+            "Confidence": 0.996
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          689,
+          742,
+          833,
+          743,
+          833,
+          770,
+          688,
+          768
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "NAPOJE",
+        "Words": [
+          {
+            "BoundingBox": [
+              689,
+              742,
+              824,
+              744,
+              823,
+              770,
+              689,
+              769
+            ],
+            "Text": "NAPOJE",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          867,
+          727,
+          997,
+          727,
+          997,
+          748,
+          867,
+          747
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Coca-Cola, Coca-Cola.",
+        "Words": [
+          {
+            "BoundingBox": [
+              868,
+              727,
+              926,
+              727,
+              926,
+              748,
+              868,
+              748
+            ],
+            "Text": "Coca-Cola,",
+            "Confidence": 0.951
+          },
+          {
+            "BoundingBox": [
+              931,
+              727,
+              997,
+              727,
+              996,
+              749,
+              930,
+              748
+            ],
+            "Text": "Coca-Cola.",
+            "Confidence": 0.993
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1012,
+          739,
+          1037,
+          737,
+          1037,
+          747,
+          1012,
+          748
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.915
+          }
+        },
+        "Text": "FANTA",
+        "Words": [
+          {
+            "BoundingBox": [
+              1012,
+              738,
+              1036,
+              737,
+              1037,
+              747,
+              1012,
+              748
+            ],
+            "Text": "FANTA",
+            "Confidence": 0.683
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1083,
+          734,
+          1156,
+          736,
+          1156,
+          760,
+          1082,
+          759
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "SOK",
+        "Words": [
+          {
+            "BoundingBox": [
+              1082,
+              734,
+              1144,
+              735,
+              1144,
+              760,
+              1082,
+              758
+            ],
+            "Text": "SOK",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1220,
+          736,
+          1332,
+          738,
+          1332,
+          763,
+          1219,
+          762
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "WODA",
+        "Words": [
+          {
+            "BoundingBox": [
+              1220,
+              737,
+              1322,
+              739,
+              1322,
+              763,
+              1220,
+              763
+            ],
+            "Text": "WODA",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1434,
+          740,
+          1698,
+          742,
+          1697,
+          765,
+          1434,
+          762
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "I RY\u017BEM JA\u015AMINOWYM",
+        "Words": [
+          {
+            "BoundingBox": [
+              1435,
+              741,
+              1442,
+              741,
+              1441,
+              762,
+              1434,
+              761
+            ],
+            "Text": "I",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              1446,
+              741,
+              1518,
+              741,
+              1518,
+              763,
+              1445,
+              762
+            ],
+            "Text": "RY\u017BEM",
+            "Confidence": 0.994
+          },
+          {
+            "BoundingBox": [
+              1531,
+              741,
+              1688,
+              745,
+              1688,
+              764,
+              1531,
+              764
+            ],
+            "Text": "JA\u015AMINOWYM",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          932,
+          750,
+          990,
+          751,
+          990,
+          758,
+          932,
+          757
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "ORIGINAL TASTE",
+        "Words": [
+          {
+            "BoundingBox": [
+              933,
+              750,
+              967,
+              751,
+              967,
+              758,
+              933,
+              758
+            ],
+            "Text": "ORIGINAL",
+            "Confidence": 0.247
+          },
+          {
+            "BoundingBox": [
+              969,
+              751,
+              989,
+              751,
+              989,
+              759,
+              969,
+              758
+            ],
+            "Text": "TASTE",
+            "Confidence": 0.84
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          107,
+          763,
+          343,
+          763,
+          343,
+          784,
+          107,
+          782
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "9 PLN WO\u0141OWINA",
+        "Words": [
+          {
+            "BoundingBox": [
+              108,
+              763,
+              121,
+              763,
+              120,
+              783,
+              107,
+              782
+            ],
+            "Text": "9",
+            "Confidence": 0.991
+          },
+          {
+            "BoundingBox": [
+              129,
+              763,
+              173,
+              763,
+              173,
+              783,
+              128,
+              783
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              202,
+              763,
+              337,
+              764,
+              337,
+              784,
+              202,
+              784
+            ],
+            "Text": "WO\u0141OWINA",
+            "Confidence": 0.992
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1437,
+          767,
+          1746,
+          771,
+          1746,
+          791,
+          1437,
+          786
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "\u002B COCA COLA ZERO CUKRU 0,5L",
+        "Words": [
+          {
+            "BoundingBox": [
+              1438,
+              768,
+              1449,
+              768,
+              1448,
+              786,
+              1437,
+              786
+            ],
+            "Text": "\u002B",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              1454,
+              768,
+              1515,
+              767,
+              1514,
+              788,
+              1453,
+              787
+            ],
+            "Text": "COCA",
+            "Confidence": 0.988
+          },
+          {
+            "BoundingBox": [
+              1525,
+              767,
+              1586,
+              768,
+              1586,
+              790,
+              1525,
+              789
+            ],
+            "Text": "COLA",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              1595,
+              769,
+              1640,
+              770,
+              1639,
+              790,
+              1595,
+              790
+            ],
+            "Text": "ZERO",
+            "Confidence": 0.989
+          },
+          {
+            "BoundingBox": [
+              1645,
+              770,
+              1703,
+              773,
+              1703,
+              791,
+              1645,
+              790
+            ],
+            "Text": "CUKRU",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              1709,
+              773,
+              1744,
+              775,
+              1744,
+              790,
+              1708,
+              791
+            ],
+            "Text": "0,5L",
+            "Confidence": 0.982
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          2096,
+          777,
+          2214,
+          779,
+          2213,
+          803,
+          2096,
+          801
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "23,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              2097,
+              777,
+              2165,
+              779,
+              2164,
+              803,
+              2097,
+              802
+            ],
+            "Text": "23,90",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              2177,
+              780,
+              2213,
+              782,
+              2213,
+              802,
+              2177,
+              803
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          707,
+          782,
+          813,
+          785,
+          812,
+          808,
+          707,
+          805
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "\u002B 9 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              709,
+              782,
+              722,
+              782,
+              722,
+              806,
+              709,
+              806
+            ],
+            "Text": "\u002B",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              736,
+              783,
+              749,
+              783,
+              749,
+              807,
+              736,
+              807
+            ],
+            "Text": "9",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              764,
+              784,
+              808,
+              787,
+              808,
+              808,
+              765,
+              807
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          878,
+          778,
+          899,
+          767,
+          906,
+          780,
+          885,
+          790
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "rife",
+        "Words": [
+          {
+            "BoundingBox": [
+              879,
+              776,
+              899,
+              767,
+              906,
+              780,
+              886,
+              790
+            ],
+            "Text": "rife",
+            "Confidence": 0.608
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1069,
+          773,
+          1172,
+          775,
+          1172,
+          798,
+          1069,
+          797
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "\u002B 8 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1071,
+              774,
+              1085,
+              774,
+              1084,
+              797,
+              1071,
+              797
+            ],
+            "Text": "\u002B",
+            "Confidence": 0.993
+          },
+          {
+            "BoundingBox": [
+              1096,
+              774,
+              1110,
+              774,
+              1109,
+              798,
+              1095,
+              797
+            ],
+            "Text": "8",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              1125,
+              774,
+              1169,
+              775,
+              1168,
+              799,
+              1125,
+              798
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1225,
+          775,
+          1329,
+          776,
+          1328,
+          800,
+          1225,
+          798
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "\u002B 6 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1227,
+              775,
+              1241,
+              775,
+              1240,
+              798,
+              1226,
+              798
+            ],
+            "Text": "\u002B",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              1253,
+              775,
+              1267,
+              775,
+              1266,
+              799,
+              1253,
+              799
+            ],
+            "Text": "6",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              1281,
+              776,
+              1323,
+              777,
+              1322,
+              801,
+              1281,
+              800
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          915,
+          784,
+          964,
+          784,
+          964,
+          794,
+          915,
+          793
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KINLEY.",
+        "Words": [
+          {
+            "BoundingBox": [
+              915,
+              784,
+              964,
+              784,
+              965,
+              794,
+              915,
+              794
+            ],
+            "Text": "KINLEY.",
+            "Confidence": 0.829
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          973,
+          781,
+          1011,
+          781,
+          1011,
+          790,
+          973,
+          789
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "fuzetea",
+        "Words": [
+          {
+            "BoundingBox": [
+              974,
+              781,
+              1008,
+              781,
+              1008,
+              791,
+              974,
+              789
+            ],
+            "Text": "fuzetea",
+            "Confidence": 0.581
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          102,
+          792,
+          401,
+          794,
+          400,
+          815,
+          102,
+          812
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "11 PLN KREWETKI / 6 szt.",
+        "Words": [
+          {
+            "BoundingBox": [
+              103,
+              792,
+              123,
+              792,
+              123,
+              812,
+              103,
+              812
+            ],
+            "Text": "11",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              127,
+              792,
+              172,
+              793,
+              172,
+              813,
+              127,
+              812
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          },
+          {
+            "BoundingBox": [
+              198,
+              793,
+              322,
+              794,
+              322,
+              815,
+              198,
+              813
+            ],
+            "Text": "KREWETKI",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              326,
+              794,
+              336,
+              794,
+              337,
+              815,
+              326,
+              815
+            ],
+            "Text": "/",
+            "Confidence": 0.995
+          },
+          {
+            "BoundingBox": [
+              341,
+              794,
+              352,
+              794,
+              352,
+              815,
+              341,
+              815
+            ],
+            "Text": "6",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              358,
+              794,
+              400,
+              795,
+              400,
+              816,
+              358,
+              815
+            ],
+            "Text": "szt.",
+            "Confidence": 0.991
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1091,
+          805,
+          1151,
+          808,
+          1150,
+          828,
+          1090,
+          825
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "Cappy.",
+        "Words": [
+          {
+            "BoundingBox": [
+              1092,
+              806,
+              1150,
+              808,
+              1150,
+              828,
+              1090,
+              826
+            ],
+            "Text": "Cappy.",
+            "Confidence": 0.886
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1238,
+          808,
+          1311,
+          808,
+          1310,
+          825,
+          1238,
+          824
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "KROPLA",
+        "Words": [
+          {
+            "BoundingBox": [
+              1239,
+              808,
+              1306,
+              808,
+              1306,
+              825,
+              1239,
+              824
+            ],
+            "Text": "KROPLA",
+            "Confidence": 0.995
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1435,
+          797,
+          1581,
+          799,
+          1581,
+          829,
+          1435,
+          827
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "38,90 PLN",
+        "Words": [
+          {
+            "BoundingBox": [
+              1437,
+              798,
+              1519,
+              800,
+              1519,
+              829,
+              1437,
+              827
+            ],
+            "Text": "38,90",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              1533,
+              800,
+              1577,
+              800,
+              1578,
+              828,
+              1533,
+              829
+            ],
+            "Text": "PLN",
+            "Confidence": 0.998
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          1247,
+          824,
+          1304,
+          824,
+          1304,
+          836,
+          1247,
+          835
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "BESKIDU",
+        "Words": [
+          {
+            "BoundingBox": [
+              1247,
+              825,
+              1298,
+              825,
+              1298,
+              836,
+              1247,
+              835
+            ],
+            "Text": "BESKIDU",
+            "Confidence": 0.994
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          402,
+          1283,
+          1333,
+          1266,
+          1336,
+          1395,
+          402,
+          1411
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "\u015Bwie\u017Ce sk\u0142adniki",
+        "Words": [
+          {
+            "BoundingBox": [
+              402,
+              1296,
+              777,
+              1276,
+              778,
+              1410,
+              402,
+              1411
+            ],
+            "Text": "\u015Bwie\u017Ce",
+            "Confidence": 0.124
+          },
+          {
+            "BoundingBox": [
+              802,
+              1275,
+              1327,
+              1267,
+              1330,
+              1397,
+              804,
+              1410
+            ],
+            "Text": "sk\u0142adniki",
+            "Confidence": 0.616
+          }
+        ]
+      },
+      {
+        "Language": null,
+        "BoundingBox": [
+          430,
+          1441,
+          1272,
+          1424,
+          1273,
+          1521,
+          432,
+          1545
+        ],
+        "Appearance": {
+          "Style": {
+            "Name": "other",
+            "Confidence": 0.972
+          }
+        },
+        "Text": "prosto z woka",
+        "Words": [
+          {
+            "BoundingBox": [
+              431,
+              1445,
+              801,
+              1431,
+              802,
+              1532,
+              432,
+              1546
+            ],
+            "Text": "prosto",
+            "Confidence": 0.997
+          },
+          {
+            "BoundingBox": [
+              855,
+              1430,
+              912,
+              1429,
+              913,
+              1529,
+              856,
+              1530
+            ],
+            "Text": "z",
+            "Confidence": 0.996
+          },
+          {
+            "BoundingBox": [
+              947,
+              1428,
+              1253,
+              1425,
+              1253,
+              1522,
+              947,
+              1528
+            ],
+            "Text": "woka",
+            "Confidence": 0.989
+          }
+        ]
+      }
+    ]
+  }
+]
